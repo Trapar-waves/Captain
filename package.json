@@ -1,0 +1,40 @@
+{
+  "name": "@trapar-waves/captain",
+  "type": "module",
+  "version": "1.0.0",
+  "packageManager": "pnpm@10.11.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx ./src/index.ts",
+    "build": "rslib build",
+    "build:watch": "rslib build --watch"
+  },
+  "dependencies": {
+
+    "destr": "^2.0.5",
+    "pkg-types": "^2.1.0",
+    "ufo": "^1.6.1"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^4.13.1",
+    "@rslib/core": "^0.7.1",
+    "@trapar-waves/cli-template": "^1.0.5",
+    "@trapar-waves/llm-template": "^1.0.7",
+    "@trapar-waves/react-antd-pro": "^1.0.12",
+    "@trapar-waves/react-mantine-tailwind": "^1.0.8",
+    "@trapar-waves/react-tailwind": "^1.0.8",
+    "@trapar-waves/react-tanstack": "^1.0.8",
+    "@trapar-waves/react-three-maplibre": "^1.0.7",
+    "@trapar-waves/react-visgl-maplibre": "^1.0.6",
+    "@trapar-waves/vue-tailwind": "^1.0.1",
+    "@types/node": "^22.15.18",
+    "eslint": "^9.26.0",
+    "eslint-plugin-format": "^1.0.1",
+    "tsx": "^4.19.4",
+    "typescript": "^5.8.3"
+  }
+}
