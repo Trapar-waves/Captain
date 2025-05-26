@@ -17,7 +17,12 @@
   "bugs": {
     "url": "https://github.com/Trapar-Waves/captain/issues"
   },
-  "keywords": ["template-manager", "project-templates", "template-organization", "code-templates"],
+  "keywords": [
+    "template-manager",
+    "project-templates",
+    "template-organization",
+    "code-templates"
+  ],
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
@@ -43,17 +48,17 @@
   },
   "devDependencies": {
     "@antfu/eslint-config": "^4.13.2",
-    "@rslib/core": "^0.7.1",
-    "@trapar-waves/cli-template": "^1.0.5",
-    "@trapar-waves/llm-template": "^1.0.7",
-    "@trapar-waves/react-antd-pro": "^1.0.12",
-    "@trapar-waves/react-mantine-tailwind": "^1.0.8",
-    "@trapar-waves/react-tailwind": "^1.0.8",
-    "@trapar-waves/react-tanstack": "^1.0.8",
-    "@trapar-waves/react-three-maplibre": "^1.0.7",
-    "@trapar-waves/react-visgl-maplibre": "^1.0.6",
-    "@trapar-waves/vue-tailwind": "^1.0.1",
-    "@types/node": "^22.15.18",
+    "@rslib/core": "^0.8.0",
+    "@trapar-waves/cli-template": "^1.0.6",
+    "@trapar-waves/llm-template": "^1.0.8",
+    "@trapar-waves/react-antd-pro": "^1.0.13",
+    "@trapar-waves/react-mantine-tailwind": "^1.0.9",
+    "@trapar-waves/react-tailwind": "^1.0.9",
+    "@trapar-waves/react-tanstack": "^1.0.9",
+    "@trapar-waves/react-three-maplibre": "^1.0.8",
+    "@trapar-waves/react-visgl-maplibre": "^1.0.7",
+    "@trapar-waves/vue-tailwind": "^1.0.2",
+    "@types/node": "^22.15.21",
     "eslint": "^9.27.0",
     "eslint-plugin-format": "^1.0.1",
     "tsx": "^4.19.4",
