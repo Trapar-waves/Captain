@@ -48,7 +48,7 @@
   },
   "devDependencies": {
     "@antfu/eslint-config": "^4.13.2",
-    "@rslib/core": "^0.9.0",
+    "@rslib/core": "^0.9.1",
     "@trapar-waves/cli-template": "^1.0.6",
     "@trapar-waves/llm-template": "^1.0.8",
     "@trapar-waves/react-antd-pro": "^1.0.13",
