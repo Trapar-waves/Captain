@@ -61,7 +61,7 @@
     "@types/node": "^22.15.31",
     "eslint": "^9.28.0",
     "eslint-plugin-format": "^1.0.1",
-    "tsx": "^4.20.0",
+    "tsx": "^4.20.1",
     "typescript": "^5.8.3"
   }
 }
