@@ -25,32 +25,32 @@ importers:
         specifier: ^0.10.5
         version: 0.10.5(typescript@5.8.3)
       '@trapar-waves/cli-template':
-        specifier: ^1.1.2
-        version: 1.1.2
+        specifier: ^1.1.3
+        version: 1.1.3
       '@trapar-waves/llm-template':
         specifier: ^1.1.2
         version: 1.1.2(@types/debug@4.1.12)(@types/node@24.0.14)(jiti@2.4.2)(react@19.1.0)(tsx@4.20.3)(yaml@2.8.0)
       '@trapar-waves/react-antd-pro':
-        specifier: ^1.1.2
-        version: 1.1.2(@types/react@19.1.4)(luxon@3.5.0)(moment@2.30.1)(rc-field-form@2.7.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(rollup@4.40.2)(use-sync-external-store@1.5.0(react@19.1.0))
+        specifier: ^1.1.3
+        version: 1.1.3(@types/react@19.1.4)(luxon@3.5.0)(moment@2.30.1)(rc-field-form@2.7.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(rollup@4.40.2)(use-sync-external-store@1.5.0(react@19.1.0))
       '@trapar-waves/react-mantine-tailwind':
-        specifier: ^1.1.2
-        version: 1.1.2(@types/react@19.1.4)
+        specifier: ^1.1.3
+        version: 1.1.3(@types/react@19.1.4)
       '@trapar-waves/react-tailwind':
-        specifier: ^1.1.2
-        version: 1.1.2
+        specifier: ^1.1.3
+        version: 1.1.3
       '@trapar-waves/react-tanstack':
-        specifier: ^1.1.2
-        version: 1.1.2
+        specifier: ^1.1.3
+        version: 1.1.3
       '@trapar-waves/react-three-maplibre':
-        specifier: ^1.1.2
-        version: 1.1.2(@types/react@19.1.4)(@types/three@0.176.0)(immer@10.1.1)(mapbox-gl@1.13.3)
+        specifier: ^1.1.3
+        version: 1.1.3(@types/react@19.1.4)(@types/three@0.176.0)(immer@10.1.1)(mapbox-gl@1.13.3)
       '@trapar-waves/react-visgl-maplibre':
-        specifier: ^1.1.2
-        version: 1.1.2(@arcgis/core@4.32.10)(@deck.gl/extensions@9.1.12(@deck.gl/core@9.1.12)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@deck.gl/layers@9.1.12(@deck.gl/core@9.1.12)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@deck.gl/mesh-layers@9.1.12(@deck.gl/core@9.1.12)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@deck.gl/widgets@9.1.12(@deck.gl/core@9.1.12))(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))(@types/react@19.1.4)(@types/three@0.176.0)(immer@10.1.1)(mapbox-gl@1.13.3)
+        specifier: ^1.1.3
+        version: 1.1.3(@arcgis/core@4.32.10)(@deck.gl/extensions@9.1.13(@deck.gl/core@9.1.13)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@deck.gl/layers@9.1.13(@deck.gl/core@9.1.13)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@deck.gl/mesh-layers@9.1.13(@deck.gl/core@9.1.13)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@deck.gl/widgets@9.1.13(@deck.gl/core@9.1.13))(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))(@types/react@19.1.4)(@types/three@0.176.0)(immer@10.1.1)(mapbox-gl@1.13.3)
       '@trapar-waves/vue-tailwind':
-        specifier: ^1.1.2
-        version: 1.1.2(typescript@5.8.3)
+        specifier: ^1.1.3
+        version: 1.1.3(typescript@5.8.3)
       '@types/node':
         specifier: ^24.0.14
         version: 24.0.14
@@ -284,35 +284,35 @@ packages:
   '@antv/g-device-api@1.6.13':
     resolution: {integrity: sha512-lTvlSHYDZyWJnAR1W8DOQLwUo32VpRopbS/BPQqStcOV6FqaC+u5YjT50KbJ+oBWcorpzfknhICRwEA3Xm8t9Q==}
 
-  '@antv/l7-component@2.22.7':
-    resolution: {integrity: sha512-KrHfuuhk0fTfKQchQkfqhcbnu7YuJcNb9HFAgJz8gjf84TlUVVzzvVoL+nTv0MRjc4XxcVoXWOvYeVCks+wEyA==}
+  '@antv/l7-component@2.23.0':
+    resolution: {integrity: sha512-3d96/h1nVzFnq4kLqIm2j/AYjTVszgT7C1VGBATws/NPxvtQSmxGxWHqSPtFFY3u7wvF3ad8MLBz4fV6BjoNnA==}
 
-  '@antv/l7-core@2.22.7':
-    resolution: {integrity: sha512-agUKmpgF8hSuXGBzTand1iPXlu33zvMSPEpJdCdJoPDp9fMa2PYmNLF29rw6Dk1eAa3ScRT6g2vRZxn9RLgPLg==}
+  '@antv/l7-core@2.23.0':
+    resolution: {integrity: sha512-OlDx0QA1am5Lg4WxTSEe83ziNSBmggdghl5V1fixnH+osfkgVfL85qFtnNVYKatueeJp87ui8bRFFktlbQDDYg==}
 
-  '@antv/l7-layers@2.22.7':
-    resolution: {integrity: sha512-fVt2RmNzds8q0espy/0habj6dtvdzvhyjIjujNPtUAorS1OD0rba6FESx32s3ufGqJ0XdQmwWsxXlnY8obaQXg==}
+  '@antv/l7-layers@2.23.0':
+    resolution: {integrity: sha512-M4edKEyPsDZSF9H0nXl/CqKB3uudefOZ32j47aaXKnrFzoKNPiJ8vbHLAZIpi49OhkHV81MpoYndrGU7OzE5pg==}
 
-  '@antv/l7-map@2.22.7':
-    resolution: {integrity: sha512-+5u0IB4Rw9QbZN6xx06KlpiZUmZsK7ixYFiC9iLZvS0eqg9Oflajdg0x2uEWyx+YQXKW+gchlUaeWUiUWV6Clw==}
+  '@antv/l7-map@2.23.0':
+    resolution: {integrity: sha512-UfklvmzFxJWQCEZxYHAhliES9+NRGxWVJfKXYZfg1WDJKkNs3Ldz78UUFbskVrFmAChBUhxe+9z78L/DNKqq+w==}
 
-  '@antv/l7-maps@2.22.7':
-    resolution: {integrity: sha512-cD/O4gh77BQBtuiuY1+bPWyRoNmiK2vGnxI7N6/J+h4PjqYrNcBqzm6i9dbw11MpoO7x4nG/x23g01ghLe7liA==}
+  '@antv/l7-maps@2.23.0':
+    resolution: {integrity: sha512-SVwP8QbKawq3VRdZR/R8D87R762A69dFKefg/l3goxWTT1JXq4+sLUvovGdpgy1OlVQfFfu60tN61WAAjnNpug==}
 
-  '@antv/l7-renderer@2.22.7':
-    resolution: {integrity: sha512-0agNKWucGXNhRCv4NiXsByHEjtRTWz13oPigK0MiIyPDX6rkHmFvDavFC4sJETLhJ1Op/CytX9nAY0UCNQgoSQ==}
+  '@antv/l7-renderer@2.23.0':
+    resolution: {integrity: sha512-72K2LMjYnSRml/sFqD8yxIO8SXk50e5h4uZEF6zjyKu9A9B/HO+msJQzkpDBNCBt5ssdDglGvGytgKL1fIoxcw==}
 
-  '@antv/l7-scene@2.22.7':
-    resolution: {integrity: sha512-QAupXCoPZjKBD3iBVYs48VK9CIphwrOygZIEsYvSt50JZ8CdBJg01u2D1D6K0hiqO2HoZPdn6+vNmSblC9vJkw==}
+  '@antv/l7-scene@2.23.0':
+    resolution: {integrity: sha512-4P7Z/CiPe29DO4B6xzGUVzhI/tAh1Y2Ia9OTm077Cpd+uJDF2xgZGCi5hUEDuG4iRJGHKp10hR6Hm5PBA25Xlw==}
 
-  '@antv/l7-source@2.22.7':
-    resolution: {integrity: sha512-6X0G/xowQvuudmudBuosIJ9CFBEOOteV7Jc3feKc+KdzHLjX8EiO7Ew5iVwqzKV/ysTTlUe3XfsAaCGJk9qqSQ==}
+  '@antv/l7-source@2.23.0':
+    resolution: {integrity: sha512-BdBVnIuToornoUoRRlNB1UXRykUlcpvIww0oSMq/zC0/k/0zCdd6GjMCx8DgTmJGNTVQk/0pO8FGQqRC6eam0Q==}
 
-  '@antv/l7-utils@2.22.7':
-    resolution: {integrity: sha512-VVb/oWhy9f/SIgRAi3BNDwGGrStshISZIlQd1xdbK7F2xS698ppcDGWqWvyL+xlwb0MtbAo4jQsld9V7nCMfJA==}
+  '@antv/l7-utils@2.23.0':
+    resolution: {integrity: sha512-5T7S2w9fW05CEV7djuBoRbyjBmTOpYU0nW+Mnb4yszA5ZB9xlEWOFTuLaDc58Nj0XNLH/9IIX9rW2ad6VnQjHg==}
 
-  '@antv/l7@2.22.7':
-    resolution: {integrity: sha512-ni2rEHeN4HR35RCAeHQtX26pNAlCdqzWduqUX9H1E5pv0pDq1MhAgDdpolnv/79l2HocwKTeWMjidRlX4YQcJg==}
+  '@antv/l7@2.23.0':
+    resolution: {integrity: sha512-REEUvybuPgDqXVt/ddLuKzQ2eYILqCB9uNLEWdiDOSRK0SuSCGCPykR46pjGMWo2D8TPHl7S2QUtcscqXs8AQA==}
 
   '@antv/util@3.3.10':
     resolution: {integrity: sha512-basGML3DFA3O87INnzvDStjzS+n0JLEhRnRsDzP9keiXz8gT1z/fTdmJAZFOzMMWxy+HKbi7NbSt0+8vz/OsBQ==}
@@ -475,16 +475,16 @@ packages:
     resolution: {integrity: sha512-SITSV6aIXsuVNV3f3O0f2n/cgyEDWoSqtZMYiAmcsYHydcKrOz3gUxB/iXd/Qf08+IZX4KpgNbvUdMBmWz+kcA==}
     engines: {node: '>=10'}
 
-  '@deck.gl/aggregation-layers@9.1.12':
-    resolution: {integrity: sha512-41u5ZBnpIUzUQ+S8u/8JBWN9BHTerRUcOv+1QmjWsp8noNWZN69cvOy3/AaaPA8UgSEycdnv+y8GGIMspBLHZQ==}
+  '@deck.gl/aggregation-layers@9.1.13':
+    resolution: {integrity: sha512-eDuT4S7GRx8LWdPuxGIiK8MfBynfvj3PgNB5mB1uiXcp1OR2eZ17wr3QBp1Rdk4LUsx1P1CkDyyIvi5mn4+aQA==}
     peerDependencies:
       '@deck.gl/core': ^9.1.0
       '@deck.gl/layers': ^9.1.0
       '@luma.gl/core': ^9.1.5
       '@luma.gl/engine': ^9.1.5
 
-  '@deck.gl/arcgis@9.1.12':
-    resolution: {integrity: sha512-4eo5CqE6zDnSQrFJyiLg6gJe6SHACV2WaFYhsw/WKsAYDKGsa9IyY6kRi6UfpGOFRTSKQfdUpUj1JfH+xS+6ng==}
+  '@deck.gl/arcgis@9.1.13':
+    resolution: {integrity: sha512-Ow592W5O968M0e/b0AOiHWWfSBJmiaAQoeW/9xYKgbkwy+hRsv7NArpHOmhKvT+X0w+jlzpu1LJLmTHnS/lQBA==}
     peerDependencies:
       '@arcgis/core': ^4.0.0
       '@deck.gl/core': ^9.1.0
@@ -492,8 +492,8 @@ packages:
       '@luma.gl/engine': ^9.1.5
       '@luma.gl/webgl': ^9.1.5
 
-  '@deck.gl/carto@9.1.12':
-    resolution: {integrity: sha512-Ut6IMZweGkuXwAUyU+6O4CCE6ySY4LbopAmJK8gUdVnw4VXtaHyNLxX7pNkzxjfvAy4Qe6QV57mL7QAhr2f+HA==}
+  '@deck.gl/carto@9.1.13':
+    resolution: {integrity: sha512-azB5AiZlSJXm1wa1PzNPrXaESVFQkzLk5ysGFXpmS1f+W/aBY626N1cstyUSsofqSVzKh/AseMZ6ti6PdQ5Ckg==}
     peerDependencies:
       '@deck.gl/aggregation-layers': ^9.1.0
       '@deck.gl/core': ^9.1.0
@@ -503,18 +503,18 @@ packages:
       '@loaders.gl/core': ^4.2.0
       '@luma.gl/core': ^9.1.5
 
-  '@deck.gl/core@9.1.12':
-    resolution: {integrity: sha512-N9ZCHgn0CCekOCYmXYG/JHqFJLLeS5/HN1dh+N4a1EyLk0bPhN7CfTJ9ypEK9fQvyiX1sdVgu1bkGWo3eazf9A==}
+  '@deck.gl/core@9.1.13':
+    resolution: {integrity: sha512-c15DpwUEvDjmt3+/azSjcfhVQ5L5HiIj6LJob1KAwQOnB5zgVdKWukN/21ELQ7ekppEkfT0x4byRv5k4QVocqQ==}
 
-  '@deck.gl/extensions@9.1.12':
-    resolution: {integrity: sha512-NIgHQRd0PNyZlwGMt4N5H3GRsTnzXMaZtuBi0O3EkwqULKftReomk/IrMNvAaokm/Hr9myY0NPu5lusJdLexTA==}
+  '@deck.gl/extensions@9.1.13':
+    resolution: {integrity: sha512-Y6XCjXckcXyU+NhaDW4GA6nw9BAanFKNtltHcR+GUivGiK+QuBXlIggl+QLkWXD1EKp3os/DOM8kO0FmtAaC9A==}
     peerDependencies:
       '@deck.gl/core': ^9.1.0
       '@luma.gl/core': ^9.1.5
       '@luma.gl/engine': ^9.1.5
 
-  '@deck.gl/geo-layers@9.1.12':
-    resolution: {integrity: sha512-5I1rTmWAuqDeC6QfajuNkf4TgkSrZQhqCwfz/0QohfSPKEeP9A1B0fu6pYJvxj83qfZOxNLyzZqwwxqeboJ2nw==}
+  '@deck.gl/geo-layers@9.1.13':
+    resolution: {integrity: sha512-+6GLQacUzQHcGraKCuDV6z1U44mJ08eg2/gaQGDJYUwh+YUCiyW1uWey5GvV9nRcaS47UApYxEDQZGpSamZT+A==}
     peerDependencies:
       '@deck.gl/core': ^9.1.0
       '@deck.gl/extensions': ^9.1.0
@@ -524,49 +524,49 @@ packages:
       '@luma.gl/core': ^9.1.5
       '@luma.gl/engine': ^9.1.5
 
-  '@deck.gl/google-maps@9.1.12':
-    resolution: {integrity: sha512-54BdvzP3LV0z+Gsi7BEqAqvuAvcU/lwjnaFiNsGVcYRigaEu9embCJNqBxUev4sNdWI+VpLOVIu6nkCjEhrwsA==}
+  '@deck.gl/google-maps@9.1.13':
+    resolution: {integrity: sha512-flVQkWaotaChvB5yiK3ANlo4ErinrRF9Ph2y3EOvt18ljEKhUE7vwdK7yU1Vorq0GurvDhL6vZvov9xasaULEw==}
     peerDependencies:
       '@deck.gl/core': ^9.1.0
       '@luma.gl/core': ^9.1.5
       '@luma.gl/webgl': ^9.1.5
 
-  '@deck.gl/json@9.1.12':
-    resolution: {integrity: sha512-NLh2xpZQGdkmGYJk8O+d1AjU16OjKPlWo3WfQ/US/dhRhSw03xeeel4OGhqKuQlxoyqJgYaa1YjPxumyYCVCUA==}
+  '@deck.gl/json@9.1.13':
+    resolution: {integrity: sha512-tDmo4t5DwDVInh6IqBa6YD9kpTh6CJWriYIomUIqsX9U3YHJfBbdMw5XqR8dU6oBn/gqgkYP9bDjxVAJJzwR9w==}
     peerDependencies:
       '@deck.gl/core': ^9.1.0
 
-  '@deck.gl/layers@9.1.12':
-    resolution: {integrity: sha512-szRPS7W3jCMp3jPjQYleIJGE9nkcMIXbUGi7Wc/4reU1WLayo8wvDnRbyyW/TaU6TTUPuI/K5raCnG+xoj67KQ==}
+  '@deck.gl/layers@9.1.13':
+    resolution: {integrity: sha512-2eD2uARmObtCXrc1Q051fqy+LS2w6a700qPerqtqz+J/bOWTHSEZxAdIoHawDU7g+fi4/1lti0m8bdp2X/kZLA==}
     peerDependencies:
       '@deck.gl/core': ^9.1.0
       '@loaders.gl/core': ^4.2.0
       '@luma.gl/core': ^9.1.5
       '@luma.gl/engine': ^9.1.5
 
-  '@deck.gl/mapbox@9.1.12':
-    resolution: {integrity: sha512-xojtAncKWlURmF4uVqzdqtGkZhHjBWUs6vN1eRUR2ohVhtl5VAqxYGTiUij5gD/2mhoUKw8d53NybLMMN/vbyg==}
+  '@deck.gl/mapbox@9.1.13':
+    resolution: {integrity: sha512-Ab2U36YyOUmxfglaBDpudkJJO1EaVchxcrNpA0yAaelLMdkFwaHS4Hu1TMm5iT3TzhiLyMrAViaV4R47ZgZ78g==}
     peerDependencies:
       '@deck.gl/core': ^9.1.0
       '@luma.gl/core': ^9.1.5
 
-  '@deck.gl/mesh-layers@9.1.12':
-    resolution: {integrity: sha512-SOwN4bpYL+rNRsuD2KweJ6BsA2w7PlzAFjUe3P84XqhSBhawVRSMrmiEFW0L0BnvoJOCWftR4hpF6M8lOUpENw==}
+  '@deck.gl/mesh-layers@9.1.13':
+    resolution: {integrity: sha512-ujhe9FtB4qRRCXH/hY5p+IQ5VO/AC+/dtern6CTzYzjGnUnAvsbIgBZ3jxSlb1B/D3wlVE778W2cmv7MIToJJg==}
     peerDependencies:
       '@deck.gl/core': ^9.1.0
       '@luma.gl/core': ^9.1.5
       '@luma.gl/engine': ^9.1.5
 
-  '@deck.gl/react@9.1.12':
-    resolution: {integrity: sha512-0M7w8qVXJ2nLcaur+hC3CxZfmqCvoM+/CRWiuICVOkgdkrcO3nCj+x/YObYYn/dhI3l9xVnTm9cFNq1tOFf9KQ==}
+  '@deck.gl/react@9.1.13':
+    resolution: {integrity: sha512-9tu5roGzvy4plLvUVUxDpEy3KHDxpAEBRdM/qC06Ijognfl/A9bECdQt4cqqGflkvg6VzQaw2Cy7eIRvzhXJbA==}
     peerDependencies:
       '@deck.gl/core': ^9.1.0
       '@deck.gl/widgets': ^9.1.0
       react: '>=16.3.0'
       react-dom: '>=16.3.0'
 
-  '@deck.gl/widgets@9.1.12':
-    resolution: {integrity: sha512-/bDO3u3N7nLDehLsWCeMNzAFuOd/PKndffeSsYI8DhJpN4H1qH9E5S13gxu65HXDD8+6+ApNN4Z1bWlmTpSp+A==}
+  '@deck.gl/widgets@9.1.13':
+    resolution: {integrity: sha512-6nriLKNzXovWrm4Lj9MAdYf2W9/bSwJ1Rlq4jc8WvrOr1wtIJ7j6NdHlfGUs2Vv1PLt72M0jSqMwHQQevLvsqQ==}
     peerDependencies:
       '@deck.gl/core': ^9.1.0
 
@@ -1088,15 +1088,15 @@ packages:
     peerDependencies:
       '@luma.gl/core': ^9.1.0
 
-  '@mantine/core@8.1.2':
-    resolution: {integrity: sha512-+maX0a1+fxh6Lvnzi0qb0AZsCnnHlIiTE/hFC+dd3eRfUW2PEKJ5/wTpmrX8IGyxa+NS+fXjZD/cU4Yt9xNjdg==}
+  '@mantine/core@8.1.3':
+    resolution: {integrity: sha512-2WOPC8GSN3MApet0MccSn6LaXRhcP6SVtZnbuHoqJ/atrfK7kLE66ILr4OXov7JAj1ASJ4Xk0bOXmu5fBExAvQ==}
     peerDependencies:
-      '@mantine/hooks': 8.1.2
+      '@mantine/hooks': 8.1.3
       react: ^18.x || ^19.x
       react-dom: ^18.x || ^19.x
 
-  '@mantine/hooks@8.1.2':
-    resolution: {integrity: sha512-BrriTsiazqZ2fLuL7UDasNTQJSaoJ7mN2qYVkdsiYI158lxJdUaFWHhd6BDyzK+W6thvBx2D+R/hh1rsWWefdQ==}
+  '@mantine/hooks@8.1.3':
+    resolution: {integrity: sha512-yL4SbyYjrkmtIhscswajNz9RL0iO2+V8CMtOi0KISch2rPNvTAJNumFuZaXgj4UHeDc0JQYSmcZ+EW8NGm7xcQ==}
     peerDependencies:
       react: ^18.x || ^19.x
 
@@ -1310,8 +1310,8 @@ packages:
       react: '>=16.9.0'
       react-dom: '>=16.9.0'
 
-  '@react-three/drei@10.4.4':
-    resolution: {integrity: sha512-IrWgRyBsVb8rQOLZaTGiNucGvyfgD9g0ieedawparMA7TpNa6vvIPzckh9wsfps4Uz37JweuAKNGHM88FnhA0A==}
+  '@react-three/drei@10.5.1':
+    resolution: {integrity: sha512-ixEU41HC64adcZQV2tCIHKTFxT/HRSu3QgZrDqBeQNyNou6FYgoM2sIxujgKYGWf4bVkN5A+OBGnr8/CzVVhrQ==}
     peerDependencies:
       '@react-three/fiber': ^9.0.0
       react: ^19
@@ -1551,16 +1551,16 @@ packages:
     resolution: {integrity: sha512-YL8dGi5ZU+xvtav2boRlw4zrRghkY6hvdcmHhA0RGSJ/CBgzv+cbADW9eYJLx74XMZvIQ1pp6VMbrpXnnM5gHA==}
     engines: {node: '>=12'}
 
-  '@tanstack/query-core@5.81.5':
-    resolution: {integrity: sha512-ZJOgCy/z2qpZXWaj/oxvodDx07XcQa9BF92c0oINjHkoqUPsmm3uG08HpTaviviZ/N9eP1f9CM7mKSEkIo7O1Q==}
+  '@tanstack/query-core@5.83.0':
+    resolution: {integrity: sha512-0M8dA+amXUkyz5cVUm/B+zSk3xkQAcuXuz5/Q/LveT4ots2rBpPTZOzd7yJa2Utsf8D2Upl5KyjhHRY+9lB/XA==}
 
-  '@tanstack/react-query@5.81.5':
-    resolution: {integrity: sha512-lOf2KqRRiYWpQT86eeeftAGnjuTR35myTP8MXyvHa81VlomoAWNEd8x5vkcAfQefu0qtYCvyqLropFZqgI2EQw==}
+  '@tanstack/react-query@5.83.0':
+    resolution: {integrity: sha512-/XGYhZ3foc5H0VM2jLSD/NyBRIOK4q9kfeml4+0x2DlL6xVuAcVEW+hTlTapAmejObg0i3eNqhkr2dT+eciwoQ==}
     peerDependencies:
       react: ^18 || ^19
 
-  '@tanstack/react-router@1.125.4':
-    resolution: {integrity: sha512-IIlDiFCR+RN/17dWtYKMYiJvH38tmtgTyciHkeZvr8vSWhThAeuwjzKneF4mQl3B//YHYcrFm7rZM59c24As/A==}
+  '@tanstack/react-router@1.127.9':
+    resolution: {integrity: sha512-/CKSrJV2sI0/fCSB7VsTl8YcT9bBTiQssIxmnPEkxfeaeVmkbtJ4OSeXs6y3iYAyPMpTuQ1K2BjyV2FjGqEFVw==}
     engines: {node: '>=12'}
     peerDependencies:
       react: '>=18.0.0 || >=19.0.0'
@@ -1572,40 +1572,40 @@ packages:
       react: ^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0
       react-dom: ^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0
 
-  '@tanstack/router-core@1.125.4':
-    resolution: {integrity: sha512-tdgGI0Kwt3Lgs9ceLbG32NPh4I2H1T9t2TKjcS+I78sifm5rjTWV8lfqVRNrvMPk5ek60vXPOL2AHAUg6ohwsA==}
+  '@tanstack/router-core@1.127.8':
+    resolution: {integrity: sha512-GYRmuvU9mcqu68GF56pNSE8TLGQ8jI0CsxuJXLwhwlawmnWGWeVo2L3g4ZOoK/lW6Mc5pr9OefkbEcyB/SFFNw==}
     engines: {node: '>=12'}
 
   '@tanstack/store@0.7.0':
     resolution: {integrity: sha512-CNIhdoUsmD2NolYuaIs8VfWM467RK6oIBAW4nPEKZhg1smZ+/CwtCdpURgp7nxSqOaV9oKkzdWD80+bC66F/Jg==}
 
-  '@trapar-waves/cli-template@1.1.2':
-    resolution: {integrity: sha512-6O9Tjboa8LhmXqn2nWlwMlfxygA2TGEyTy6JJJPY1pmw3jeg3tgYSqlVOG2NgWLt7Q+CG281AvW/El6Xke9KNQ==}
+  '@trapar-waves/cli-template@1.1.3':
+    resolution: {integrity: sha512-eEBXu0E3AkAFH5mrv3jMSQD22eOHUyWll+1SLvFJcGncIc3VKH3B1UFcc55du9DMC+nx+4VO3gp6HAuGFszhEA==}
     hasBin: true
 
   '@trapar-waves/llm-template@1.1.2':
     resolution: {integrity: sha512-d4CkMlMuMEO7//6kpY+ZlvL1n0tNQlc9qDs6vEgB+oG02CUYVES3n8AEX0WR1A4zJh32IqhmwsQ+MjTXGSQJuQ==}
 
-  '@trapar-waves/react-antd-pro@1.1.2':
-    resolution: {integrity: sha512-HMQwphxfGvFr8anKa5bzFp2sa8L5z0cHCpYjzBnS4JN1zGhkTwIaN9iiCfXnEE2wdkqt0o9cN9o+luWa8T/ZtQ==}
+  '@trapar-waves/react-antd-pro@1.1.3':
+    resolution: {integrity: sha512-8z85PoYcHdjVnEbN0034dBluFM4ed6VWfKja4NQyEa5UvnbkUiBuyHn/kGjRK+z9WSzj9UnahMsvRKMKwoUafg==}
 
-  '@trapar-waves/react-mantine-tailwind@1.1.2':
-    resolution: {integrity: sha512-OUrCBGRB/dpm0WuvW8NUMVHYzihj+HTQzclObfPPfMKGKG7VCTHKQs/+eAYpRRmDuTGkoa8V0d11Q2rSYQh+Gw==}
+  '@trapar-waves/react-mantine-tailwind@1.1.3':
+    resolution: {integrity: sha512-5/qJHPhSIzaF5uO0m4iajIpBhCd0GpVyss4y33nKYotwaDN1lwTHwd6//Ce70RITrkrB2awYAiwttiHEPy1+Ag==}
 
-  '@trapar-waves/react-tailwind@1.1.2':
-    resolution: {integrity: sha512-O+GMsor1GD03DhSkQY2NZJvtZr1GLCgNbu9hzeDbYfTwPtmVU9xh/Pdn6NaltbCPYPaiudOq5I2xZg83oha/lg==}
+  '@trapar-waves/react-tailwind@1.1.3':
+    resolution: {integrity: sha512-B5BRg+PyvzYARgEJi6LDeHnjCFBBxS7msTc029BmXy17IhKVCojFBrSZfxCfZKVR4xRFT6L+sX2uwTqNx5jwPg==}
 
-  '@trapar-waves/react-tanstack@1.1.2':
-    resolution: {integrity: sha512-+QekHgrkkG+JG3ZLAkV5GusW8qqda/U481iFSfBU7OR5q4vgL64AC3h6MEODUf6+gyaFvjdZ4sWmOhniaYIHiw==}
+  '@trapar-waves/react-tanstack@1.1.3':
+    resolution: {integrity: sha512-tI+hdsj8nY+8U4e9yfnXwjdWkCOh3oyfQREVn9t9X9J4LvhndwjXdOM82lNBOxN/Fj9M1BkDsXzoQ6D7Ij2emQ==}
 
-  '@trapar-waves/react-three-maplibre@1.1.2':
-    resolution: {integrity: sha512-+eAie0JYrD/cNaxUa7WJW+/76mqLTGW6VX9K0SLV1bH4p+p5K9R+3hAS3E/YaZteEiEB2zTJ9+uVPGRZsO6jGQ==}
+  '@trapar-waves/react-three-maplibre@1.1.3':
+    resolution: {integrity: sha512-0GvUSe0FOF3YE8UdHIf7dgXPUbUAcV2ulgP31HM7Wx7y+Haiw2lgFmSwcIK7l+dlVZIb8BVcIoVpu9Dj0A9Imw==}
 
-  '@trapar-waves/react-visgl-maplibre@1.1.2':
-    resolution: {integrity: sha512-EJfYkVoxHSLGvKlfoScyir7wCt7BvMyirZxUlqKirWhJCIl0ya9Qqvkac8SSH0mX5hzGLl665VZ7n09czZFNPQ==}
+  '@trapar-waves/react-visgl-maplibre@1.1.3':
+    resolution: {integrity: sha512-98laGEyTrhoB2qutpBH5zEHVsRCisk8vjlPIGdVzqj+ZHiMi7uLFow6BYJv2ovaPvLvbTjZRXwVLhIlshfhVZA==}
 
-  '@trapar-waves/vue-tailwind@1.1.2':
-    resolution: {integrity: sha512-SqgI3Oi6hn1ncWamW9Ar+UI62fyNZllemjJS4HkFSZSmypcewLWxTaZCd1gBwjwnOQODauiEkgD4BOsYO1itKA==}
+  '@trapar-waves/vue-tailwind@1.1.3':
+    resolution: {integrity: sha512-rcdc9MJHYqeebiC4CH7QnqI2okb60IHfFUPpoG9zcv0FZoCnT/KAuI7be0Qr/K7rAM6T0dK6JNwR71OLEndAUg==}
 
   '@turf/bbox-clip@7.2.0':
     resolution: {integrity: sha512-q6RXTpqeUQAYLAieUL1n3J6ukRGsNVDOqcYtfzaJbPW+0VsAf+1cI16sN700t0sekbeU1DH/RRVAHhpf8+36wA==}
@@ -2121,8 +2121,8 @@ packages:
     resolution: {integrity: sha512-BGcItUBWSMRgOCe+SVZJ+S7yTRG0eGt9cXAHev72yuGcY23hnLA7Bky5L/xLyPINoSN95geovfBkqoTlNZYa7w==}
     engines: {node: '>=14'}
 
-  antd@5.26.3:
-    resolution: {integrity: sha512-M/s9Q39h/+G7AWnS6fbNxmAI9waTH4ti022GVEXBLq2j810V1wJ3UOQps13nEilzDNcyxnFN/EIbqIgS7wSYaA==}
+  antd@5.26.5:
+    resolution: {integrity: sha512-HB7Cr0tPZMMeAyDDH8KZU0aP8/uO51oasmflJhDBzaRRZmLT8Pyjtt8qS22Sc839glm8gpKQcaG0mln66Gt9Fg==}
     peerDependencies:
       react: '>=16.9.0'
       react-dom: '>=16.9.0'
@@ -2231,8 +2231,9 @@ packages:
     resolution: {integrity: sha512-P8BjAsXvZS+VIDUI11hHCQEv74YT67YUi5JJFNWIqL235sBmjX4+qx9Muvls5ivyNENctx46xQLQ3aTuE7ssaQ==}
     engines: {node: '>=6'}
 
-  camera-controls@2.10.1:
-    resolution: {integrity: sha512-KnaKdcvkBJ1Irbrzl8XD6WtZltkRjp869Jx8c0ujs9K+9WD+1D7ryBsCiVqJYUqt6i/HR5FxT7RLASieUD+Q5w==}
+  camera-controls@3.1.0:
+    resolution: {integrity: sha512-w5oULNpijgTRH0ARFJJ0R5ct1nUM3R3WP7/b8A6j9uTGpRfnsypc/RBMPQV8JQDPayUe37p/TZZY1PcUr4czOQ==}
+    engines: {node: '>=20.11.0', npm: '>=10.8.2'}
     peerDependencies:
       three: '>=0.126.1'
 
@@ -2466,8 +2467,8 @@ packages:
       supports-color:
         optional: true
 
-  deck.gl@9.1.12:
-    resolution: {integrity: sha512-ur3S2h84o3PVsI0OIb2HpetXSypkRTJ5oAAjB2grmchxuHsLY4D//ci5YaorPDdqVYQmkBNuliI3awkx9qMj/w==}
+  deck.gl@9.1.13:
+    resolution: {integrity: sha512-YmeEXFfVJTOjSOI20dy631+8BZ4UuhtSDxxRWz/iHTBxYe1MlPcdLkQYgRgXS+GTHWrxLvqo/mSbILuGwi09cw==}
     peerDependencies:
       '@arcgis/core': ^4.0.0
       react: '>=16.3.0'
@@ -2920,8 +2921,8 @@ packages:
     resolution: {integrity: sha512-buewHzMvYL29jdeQTVILecSaZKnt/RJWjoZCF5OW60Z67/GmSLBkOFM7qh1PI3zFNtJbaZL5eQu1vLfazOwj4g==}
     engines: {node: '>=12.20.0'}
 
-  framer-motion@12.23.0:
-    resolution: {integrity: sha512-xf6NxTGAyf7zR4r2KlnhFmsRfKIbjqeBupEDBAaEtVIBJX96sAon00kMlsKButSIRwPSHjbRrAPnYdJJ9kyhbA==}
+  framer-motion@12.23.6:
+    resolution: {integrity: sha512-dsJ389QImVE3lQvM8Mnk99/j8tiZDM/7706PCqvkQ8sSCnpmWxsgX+g0lj7r5OBVL0U36pIecCTBoIWcM2RuKw==}
     peerDependencies:
       '@emotion/is-prop-valid': '*'
       react: ^18.0.0 || ^19.0.0
@@ -3557,14 +3558,14 @@ packages:
   moment@2.30.1:
     resolution: {integrity: sha512-uEmtNhbDOrWPFS+hdjFCBfy9f2YoyzRpwcl+DqpC6taX21FzsTLQVbMV/W7PzNSX6x/bhC1zA3c2UQ5NzH6how==}
 
-  motion-dom@12.22.0:
-    resolution: {integrity: sha512-ooH7+/BPw9gOsL9VtPhEJHE2m4ltnhMlcGMhEqA0YGNhKof7jdaszvsyThXI6LVIKshJUZ9/CP6HNqQhJfV7kw==}
+  motion-dom@12.23.6:
+    resolution: {integrity: sha512-G2w6Nw7ZOVSzcQmsdLc0doMe64O/Sbuc2bVAbgMz6oP/6/pRStKRiVRV4bQfHp5AHYAKEGhEdVHTM+R3FDgi5w==}
 
-  motion-utils@12.19.0:
-    resolution: {integrity: sha512-BuFTHINYmV07pdWs6lj6aI63vr2N4dg0vR+td0rtrdpWOhBzIkEklZyLcvKBoEtwSqx8Jg06vUB5RS0xDiUybw==}
+  motion-utils@12.23.6:
+    resolution: {integrity: sha512-eAWoPgr4eFEOFfg2WjIsMoqJTW6Z8MTUCgn/GZ3VRpClWBdnbjryiA3ZSNLyxCTmCQx4RmYX6jX1iWHbenUPNQ==}
 
-  motion@12.23.0:
-    resolution: {integrity: sha512-PPNwblArRH9GRC4F3KtOTiIaYd+mtp324vYq3HIL+ueseoAVqPRK5TPFTAQBcIprfVd0NWo3DLzZSiyWaYFXXQ==}
+  motion@12.23.6:
+    resolution: {integrity: sha512-6U55IW5i6Vut2ryKEhrZKg55490k9d6qdGXZoNSf98oQgDj5D7bqTnVJotQ6UW3AS6QfbW6KSLa7/e1gy+a07g==}
     peerDependencies:
       '@emotion/is-prop-valid': '*'
       react: ^18.0.0 || ^19.0.0
@@ -3602,7 +3603,6 @@ packages:
   node-domexception@1.0.0:
     resolution: {integrity: sha512-/jKZoMpw0F8GRwl4/eLROPA3cfcXtLApP0QzLmUT/HuPCZWyB7IY9ZrMeKw2O/nFIqPQB3PVM9aYm0F312AXDQ==}
     engines: {node: '>=10.5.0'}
-    deprecated: Use your platform's native DOMException instead
 
   node-fetch@3.3.2:
     resolution: {integrity: sha512-dRB78srN/l6gqWulah9SrxeYnxeddIG30+GOqK/9OlLVyLg3HPnr6SqOWTWOXKRwC2eGYCkZ59NNuSgvSrpgOA==}
@@ -4264,6 +4264,16 @@ packages:
     resolution: {integrity: sha512-RF0Fw+rO5AMf9MAyaRXI4AV0Ulj5lMHqVxxdSgiVbixSCXoEmmX/jk0CuJw4+3SqroYO9VoUh+HcuJivvtJemA==}
     engines: {node: '>=10'}
     hasBin: true
+
+  seroval-plugins@1.3.2:
+    resolution: {integrity: sha512-0QvCV2lM3aj/U3YozDiVwx9zpH0q8A60CTWIv4Jszj/givcudPb48B+rkU5D51NJ0pTpweGMttHjboPa9/zoIQ==}
+    engines: {node: '>=10'}
+    peerDependencies:
+      seroval: ^1.0
+
+  seroval@1.3.2:
+    resolution: {integrity: sha512-RbcPH1n5cfwKrru7v7+zrZvjLurgHhGyso3HTyGtRivGWgYjbOmGuivCQaORNELjNONoK35nj28EoWul9sb1zQ==}
+    engines: {node: '>=10'}
 
   set-value@2.0.1:
     resolution: {integrity: sha512-JxHc1weCN68wRY0fhCoXpyK55m/XPHafOmK4UWD7m2CI14GMcFypt4w/0+NV5f/ZMby2F6S2wwA7fgynh9gWSw==}
@@ -4942,14 +4952,14 @@ snapshots:
       react: 19.1.0
       react-dom: 19.1.0(react@19.1.0)
 
-  '@ant-design/pro-card@2.9.9(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
+  '@ant-design/pro-card@2.9.9(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
     dependencies:
       '@ant-design/cssinjs': 1.23.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       '@ant-design/icons': 5.6.1(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@ant-design/pro-provider': 2.16.1(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@ant-design/pro-utils': 2.17.2(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-provider': 2.16.1(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-utils': 2.17.2(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       '@babel/runtime': 7.27.1
-      antd: 5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      antd: 5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       classnames: 2.5.1
       rc-resize-observer: 1.4.3(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       rc-util: 5.44.4(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
@@ -4957,34 +4967,34 @@ snapshots:
     transitivePeerDependencies:
       - react-dom
 
-  '@ant-design/pro-components@2.8.9(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(rc-field-form@2.7.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
+  '@ant-design/pro-components@2.8.9(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(rc-field-form@2.7.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
     dependencies:
-      '@ant-design/pro-card': 2.9.9(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@ant-design/pro-descriptions': 2.6.9(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(rc-field-form@2.7.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@ant-design/pro-field': 3.0.6(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@ant-design/pro-form': 2.31.9(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(rc-field-form@2.7.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@ant-design/pro-layout': 7.22.6(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@ant-design/pro-list': 2.6.9(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(rc-field-form@2.7.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@ant-design/pro-provider': 2.16.1(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@ant-design/pro-skeleton': 2.2.1(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@ant-design/pro-table': 3.20.1(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(rc-field-form@2.7.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@ant-design/pro-utils': 2.17.2(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-card': 2.9.9(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-descriptions': 2.6.9(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(rc-field-form@2.7.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-field': 3.0.6(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-form': 2.31.9(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(rc-field-form@2.7.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-layout': 7.22.6(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-list': 2.6.9(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(rc-field-form@2.7.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-provider': 2.16.1(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-skeleton': 2.2.1(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-table': 3.20.1(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(rc-field-form@2.7.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-utils': 2.17.2(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       '@babel/runtime': 7.27.1
-      antd: 5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      antd: 5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       react: 19.1.0
       react-dom: 19.1.0(react@19.1.0)
     transitivePeerDependencies:
       - rc-field-form
 
-  '@ant-design/pro-descriptions@2.6.9(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(rc-field-form@2.7.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
+  '@ant-design/pro-descriptions@2.6.9(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(rc-field-form@2.7.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
     dependencies:
-      '@ant-design/pro-field': 3.0.6(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@ant-design/pro-form': 2.31.9(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(rc-field-form@2.7.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@ant-design/pro-provider': 2.16.1(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@ant-design/pro-skeleton': 2.2.1(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@ant-design/pro-utils': 2.17.2(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-field': 3.0.6(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-form': 2.31.9(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(rc-field-form@2.7.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-provider': 2.16.1(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-skeleton': 2.2.1(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-utils': 2.17.2(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       '@babel/runtime': 7.27.1
-      antd: 5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      antd: 5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       rc-resize-observer: 0.2.6(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       rc-util: 5.44.4(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       react: 19.1.0
@@ -4992,14 +5002,14 @@ snapshots:
       - rc-field-form
       - react-dom
 
-  '@ant-design/pro-field@3.0.6(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
+  '@ant-design/pro-field@3.0.6(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
     dependencies:
       '@ant-design/icons': 5.6.1(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@ant-design/pro-provider': 2.16.1(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@ant-design/pro-utils': 2.17.2(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-provider': 2.16.1(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-utils': 2.17.2(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       '@babel/runtime': 7.27.1
       '@chenshuai2144/sketch-color': 1.0.9(react@19.1.0)
-      antd: 5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      antd: 5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       classnames: 2.5.1
       dayjs: 1.11.13
       lodash: 4.17.21
@@ -5010,16 +5020,16 @@ snapshots:
     transitivePeerDependencies:
       - react-dom
 
-  '@ant-design/pro-form@2.31.9(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(rc-field-form@2.7.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
+  '@ant-design/pro-form@2.31.9(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(rc-field-form@2.7.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
     dependencies:
       '@ant-design/icons': 5.6.1(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@ant-design/pro-field': 3.0.6(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@ant-design/pro-provider': 2.16.1(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@ant-design/pro-utils': 2.17.2(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-field': 3.0.6(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-provider': 2.16.1(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-utils': 2.17.2(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       '@babel/runtime': 7.27.1
       '@chenshuai2144/sketch-color': 1.0.9(react@19.1.0)
       '@umijs/use-params': 1.0.9(react@19.1.0)
-      antd: 5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      antd: 5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       classnames: 2.5.1
       dayjs: 1.11.13
       lodash: 4.17.21
@@ -5030,16 +5040,16 @@ snapshots:
       react: 19.1.0
       react-dom: 19.1.0(react@19.1.0)
 
-  '@ant-design/pro-layout@7.22.6(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
+  '@ant-design/pro-layout@7.22.6(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
     dependencies:
       '@ant-design/cssinjs': 1.23.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       '@ant-design/icons': 5.6.1(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@ant-design/pro-provider': 2.16.1(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@ant-design/pro-utils': 2.17.2(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-provider': 2.16.1(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-utils': 2.17.2(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       '@babel/runtime': 7.27.1
       '@umijs/route-utils': 4.0.1
       '@umijs/use-params': 1.0.9(react@19.1.0)
-      antd: 5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      antd: 5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       classnames: 2.5.1
       lodash: 4.17.21
       lodash-es: 4.17.21
@@ -5051,16 +5061,16 @@ snapshots:
       swr: 2.3.3(react@19.1.0)
       warning: 4.0.3
 
-  '@ant-design/pro-list@2.6.9(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(rc-field-form@2.7.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
+  '@ant-design/pro-list@2.6.9(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(rc-field-form@2.7.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
     dependencies:
       '@ant-design/cssinjs': 1.23.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       '@ant-design/icons': 5.6.1(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@ant-design/pro-card': 2.9.9(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@ant-design/pro-field': 3.0.6(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@ant-design/pro-table': 3.20.1(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(rc-field-form@2.7.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@ant-design/pro-utils': 2.17.2(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-card': 2.9.9(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-field': 3.0.6(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-table': 3.20.1(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(rc-field-form@2.7.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-utils': 2.17.2(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       '@babel/runtime': 7.27.1
-      antd: 5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      antd: 5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       classnames: 2.5.1
       dayjs: 1.11.13
       rc-resize-observer: 1.4.3(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
@@ -5070,40 +5080,40 @@ snapshots:
     transitivePeerDependencies:
       - rc-field-form
 
-  '@ant-design/pro-provider@2.16.1(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
+  '@ant-design/pro-provider@2.16.1(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
     dependencies:
       '@ant-design/cssinjs': 1.23.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       '@babel/runtime': 7.27.1
       '@ctrl/tinycolor': 3.6.1
-      antd: 5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      antd: 5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       dayjs: 1.11.13
       rc-util: 5.44.4(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       react: 19.1.0
       react-dom: 19.1.0(react@19.1.0)
       swr: 2.3.3(react@19.1.0)
 
-  '@ant-design/pro-skeleton@2.2.1(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
+  '@ant-design/pro-skeleton@2.2.1(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
     dependencies:
       '@babel/runtime': 7.27.1
-      antd: 5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      antd: 5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       react: 19.1.0
       react-dom: 19.1.0(react@19.1.0)
 
-  '@ant-design/pro-table@3.20.1(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(rc-field-form@2.7.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
+  '@ant-design/pro-table@3.20.1(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(rc-field-form@2.7.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
     dependencies:
       '@ant-design/cssinjs': 1.23.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       '@ant-design/icons': 5.6.1(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@ant-design/pro-card': 2.9.9(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@ant-design/pro-field': 3.0.6(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@ant-design/pro-form': 2.31.9(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(rc-field-form@2.7.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@ant-design/pro-provider': 2.16.1(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@ant-design/pro-utils': 2.17.2(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-card': 2.9.9(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-field': 3.0.6(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-form': 2.31.9(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(rc-field-form@2.7.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-provider': 2.16.1(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-utils': 2.17.2(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       '@babel/runtime': 7.27.1
       '@dnd-kit/core': 6.3.1(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       '@dnd-kit/modifiers': 6.0.1(@dnd-kit/core@6.3.1(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react@19.1.0)
       '@dnd-kit/sortable': 7.0.2(@dnd-kit/core@6.3.1(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react@19.1.0)
       '@dnd-kit/utilities': 3.2.2(react@19.1.0)
-      antd: 5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      antd: 5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       classnames: 2.5.1
       dayjs: 1.11.13
       lodash: 4.17.21
@@ -5114,12 +5124,12 @@ snapshots:
       react: 19.1.0
       react-dom: 19.1.0(react@19.1.0)
 
-  '@ant-design/pro-utils@2.17.2(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
+  '@ant-design/pro-utils@2.17.2(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
     dependencies:
       '@ant-design/icons': 5.6.1(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@ant-design/pro-provider': 2.16.1(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-provider': 2.16.1(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       '@babel/runtime': 7.27.1
-      antd: 5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      antd: 5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       classnames: 2.5.1
       dayjs: 1.11.13
       lodash: 4.17.21
@@ -5139,9 +5149,9 @@ snapshots:
       resize-observer-polyfill: 1.5.1
       throttle-debounce: 5.0.2
 
-  '@ant-design/v5-patch-for-react-19@1.0.3(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
+  '@ant-design/v5-patch-for-react-19@1.0.3(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
     dependencies:
-      antd: 5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      antd: 5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       react: 19.1.0
       react-dom: 19.1.0(react@19.1.0)
 
@@ -5210,19 +5220,19 @@ snapshots:
       gl-matrix: 3.4.3
       tslib: 2.8.1
 
-  '@antv/l7-component@2.22.7':
+  '@antv/l7-component@2.23.0':
     dependencies:
-      '@antv/l7-core': 2.22.7
-      '@antv/l7-layers': 2.22.7
-      '@antv/l7-utils': 2.22.7
+      '@antv/l7-core': 2.23.0
+      '@antv/l7-layers': 2.23.0
+      '@antv/l7-utils': 2.23.0
       '@babel/runtime': 7.27.1
       eventemitter3: 4.0.7
       supercluster: 7.1.5
 
-  '@antv/l7-core@2.22.7':
+  '@antv/l7-core@2.23.0':
     dependencies:
       '@antv/async-hook': 2.2.9
-      '@antv/l7-utils': 2.22.7
+      '@antv/l7-utils': 2.23.0
       '@babel/runtime': 7.27.1
       '@mapbox/tiny-sdf': 1.2.5
       '@turf/helpers': 6.5.0
@@ -5233,13 +5243,13 @@ snapshots:
       hammerjs: 2.0.8
       viewport-mercator-project: 6.2.3
 
-  '@antv/l7-layers@2.22.7':
+  '@antv/l7-layers@2.23.0':
     dependencies:
       '@antv/async-hook': 2.2.9
-      '@antv/l7-core': 2.22.7
-      '@antv/l7-maps': 2.22.7
-      '@antv/l7-source': 2.22.7
-      '@antv/l7-utils': 2.22.7
+      '@antv/l7-core': 2.23.0
+      '@antv/l7-maps': 2.23.0
+      '@antv/l7-source': 2.23.0
+      '@antv/l7-utils': 2.23.0
       '@babel/runtime': 7.27.1
       '@mapbox/martini': 0.2.0
       '@turf/clone': 6.5.0
@@ -5258,21 +5268,21 @@ snapshots:
       gl-vec2: 1.3.0
       polyline-miter-util: 1.0.1
 
-  '@antv/l7-map@2.22.7':
+  '@antv/l7-map@2.23.0':
     dependencies:
-      '@antv/l7-utils': 2.22.7
+      '@antv/l7-utils': 2.23.0
       '@babel/runtime': 7.27.1
       '@mapbox/point-geometry': 0.1.0
       '@mapbox/unitbezier': 0.0.1
       eventemitter3: 4.0.7
       gl-matrix: 3.4.3
 
-  '@antv/l7-maps@2.22.7':
+  '@antv/l7-maps@2.23.0':
     dependencies:
       '@amap/amap-jsapi-loader': 1.0.1
-      '@antv/l7-core': 2.22.7
-      '@antv/l7-map': 2.22.7
-      '@antv/l7-utils': 2.22.7
+      '@antv/l7-core': 2.23.0
+      '@antv/l7-map': 2.23.0
+      '@antv/l7-utils': 2.23.0
       '@babel/runtime': 7.27.1
       eventemitter3: 4.0.7
       gl-matrix: 3.4.3
@@ -5281,30 +5291,30 @@ snapshots:
       pmtiles: 2.11.0
       viewport-mercator-project: 6.2.3
 
-  '@antv/l7-renderer@2.22.7':
+  '@antv/l7-renderer@2.23.0':
     dependencies:
       '@antv/g-device-api': 1.6.13
-      '@antv/l7-core': 2.22.7
-      '@antv/l7-utils': 2.22.7
+      '@antv/l7-core': 2.23.0
+      '@antv/l7-utils': 2.23.0
       '@babel/runtime': 7.27.1
       regl: 1.6.1
 
-  '@antv/l7-scene@2.22.7':
+  '@antv/l7-scene@2.23.0':
     dependencies:
-      '@antv/l7-component': 2.22.7
-      '@antv/l7-core': 2.22.7
-      '@antv/l7-layers': 2.22.7
-      '@antv/l7-maps': 2.22.7
-      '@antv/l7-renderer': 2.22.7
-      '@antv/l7-utils': 2.22.7
+      '@antv/l7-component': 2.23.0
+      '@antv/l7-core': 2.23.0
+      '@antv/l7-layers': 2.23.0
+      '@antv/l7-maps': 2.23.0
+      '@antv/l7-renderer': 2.23.0
+      '@antv/l7-utils': 2.23.0
       '@babel/runtime': 7.27.1
       eventemitter3: 4.0.7
 
-  '@antv/l7-source@2.22.7':
+  '@antv/l7-source@2.23.0':
     dependencies:
       '@antv/async-hook': 2.2.9
-      '@antv/l7-core': 2.22.7
-      '@antv/l7-utils': 2.22.7
+      '@antv/l7-core': 2.23.0
+      '@antv/l7-utils': 2.23.0
       '@babel/runtime': 7.27.1
       '@mapbox/geojson-rewind': 0.5.2
       '@mapbox/vector-tile': 1.3.1
@@ -5318,7 +5328,7 @@ snapshots:
       pbf: 3.3.0
       supercluster: 7.1.5
 
-  '@antv/l7-utils@2.22.7':
+  '@antv/l7-utils@2.23.0':
     dependencies:
       '@babel/runtime': 7.27.1
       '@turf/bbox': 6.5.0
@@ -5331,15 +5341,15 @@ snapshots:
       lodash: 4.17.21
       web-worker-helper: 0.0.3
 
-  '@antv/l7@2.22.7':
+  '@antv/l7@2.23.0':
     dependencies:
-      '@antv/l7-component': 2.22.7
-      '@antv/l7-core': 2.22.7
-      '@antv/l7-layers': 2.22.7
-      '@antv/l7-maps': 2.22.7
-      '@antv/l7-scene': 2.22.7
-      '@antv/l7-source': 2.22.7
-      '@antv/l7-utils': 2.22.7
+      '@antv/l7-component': 2.23.0
+      '@antv/l7-core': 2.23.0
+      '@antv/l7-layers': 2.23.0
+      '@antv/l7-maps': 2.23.0
+      '@antv/l7-scene': 2.23.0
+      '@antv/l7-source': 2.23.0
+      '@antv/l7-utils': 2.23.0
       '@babel/runtime': 7.27.1
 
   '@antv/util@3.3.10':
@@ -5558,10 +5568,10 @@ snapshots:
 
   '@ctrl/tinycolor@3.6.1': {}
 
-  '@deck.gl/aggregation-layers@9.1.12(@deck.gl/core@9.1.12)(@deck.gl/layers@9.1.12(@deck.gl/core@9.1.12)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))':
+  '@deck.gl/aggregation-layers@9.1.13(@deck.gl/core@9.1.13)(@deck.gl/layers@9.1.13(@deck.gl/core@9.1.13)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))':
     dependencies:
-      '@deck.gl/core': 9.1.12
-      '@deck.gl/layers': 9.1.12(@deck.gl/core@9.1.12)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))
+      '@deck.gl/core': 9.1.13
+      '@deck.gl/layers': 9.1.13(@deck.gl/core@9.1.13)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))
       '@luma.gl/constants': 9.1.9
       '@luma.gl/core': 9.1.9
       '@luma.gl/engine': 9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))
@@ -5570,24 +5580,24 @@ snapshots:
       '@math.gl/web-mercator': 4.1.0
       d3-hexbin: 0.2.2
 
-  '@deck.gl/arcgis@9.1.12(@arcgis/core@4.32.10)(@deck.gl/core@9.1.12)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))(@luma.gl/webgl@9.1.9(@luma.gl/core@9.1.9))':
+  '@deck.gl/arcgis@9.1.13(@arcgis/core@4.32.10)(@deck.gl/core@9.1.13)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))(@luma.gl/webgl@9.1.9(@luma.gl/core@9.1.9))':
     dependencies:
       '@arcgis/core': 4.32.10
-      '@deck.gl/core': 9.1.12
+      '@deck.gl/core': 9.1.13
       '@luma.gl/constants': 9.1.9
       '@luma.gl/core': 9.1.9
       '@luma.gl/engine': 9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))
       '@luma.gl/webgl': 9.1.9(@luma.gl/core@9.1.9)
       esri-loader: 3.7.0
 
-  '@deck.gl/carto@9.1.12(eb61ae56afe498e8e3f924704b5336fb)':
+  '@deck.gl/carto@9.1.13(e5b9c5b2d326c41c5ccf6acbc82f42dd)':
     dependencies:
       '@carto/api-client': 0.4.9(@loaders.gl/core@4.3.4)
-      '@deck.gl/aggregation-layers': 9.1.12(@deck.gl/core@9.1.12)(@deck.gl/layers@9.1.12(@deck.gl/core@9.1.12)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))
-      '@deck.gl/core': 9.1.12
-      '@deck.gl/extensions': 9.1.12(@deck.gl/core@9.1.12)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))
-      '@deck.gl/geo-layers': 9.1.12(@deck.gl/core@9.1.12)(@deck.gl/extensions@9.1.12(@deck.gl/core@9.1.12)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@deck.gl/layers@9.1.12(@deck.gl/core@9.1.12)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@deck.gl/mesh-layers@9.1.12(@deck.gl/core@9.1.12)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))
-      '@deck.gl/layers': 9.1.12(@deck.gl/core@9.1.12)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))
+      '@deck.gl/aggregation-layers': 9.1.13(@deck.gl/core@9.1.13)(@deck.gl/layers@9.1.13(@deck.gl/core@9.1.13)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))
+      '@deck.gl/core': 9.1.13
+      '@deck.gl/extensions': 9.1.13(@deck.gl/core@9.1.13)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))
+      '@deck.gl/geo-layers': 9.1.13(@deck.gl/core@9.1.13)(@deck.gl/extensions@9.1.13(@deck.gl/core@9.1.13)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@deck.gl/layers@9.1.13(@deck.gl/core@9.1.13)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@deck.gl/mesh-layers@9.1.13(@deck.gl/core@9.1.13)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))
+      '@deck.gl/layers': 9.1.13(@deck.gl/core@9.1.13)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))
       '@loaders.gl/compression': 4.3.4(@loaders.gl/core@4.3.4)
       '@loaders.gl/core': 4.3.4
       '@loaders.gl/gis': 4.3.3(@loaders.gl/core@4.3.4)
@@ -5612,7 +5622,7 @@ snapshots:
       pbf: 3.3.0
       quadbin: 0.4.2
 
-  '@deck.gl/core@9.1.12':
+  '@deck.gl/core@9.1.13':
     dependencies:
       '@loaders.gl/core': 4.3.4
       '@loaders.gl/images': 4.3.4(@loaders.gl/core@4.3.4)
@@ -5632,21 +5642,21 @@ snapshots:
       gl-matrix: 3.4.3
       mjolnir.js: 3.0.0
 
-  '@deck.gl/extensions@9.1.12(@deck.gl/core@9.1.12)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))':
+  '@deck.gl/extensions@9.1.13(@deck.gl/core@9.1.13)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))':
     dependencies:
-      '@deck.gl/core': 9.1.12
+      '@deck.gl/core': 9.1.13
       '@luma.gl/constants': 9.1.9
       '@luma.gl/core': 9.1.9
       '@luma.gl/engine': 9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))
       '@luma.gl/shadertools': 9.1.9(@luma.gl/core@9.1.9)
       '@math.gl/core': 4.1.0
 
-  '@deck.gl/geo-layers@9.1.12(@deck.gl/core@9.1.12)(@deck.gl/extensions@9.1.12(@deck.gl/core@9.1.12)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@deck.gl/layers@9.1.12(@deck.gl/core@9.1.12)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@deck.gl/mesh-layers@9.1.12(@deck.gl/core@9.1.12)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))':
+  '@deck.gl/geo-layers@9.1.13(@deck.gl/core@9.1.13)(@deck.gl/extensions@9.1.13(@deck.gl/core@9.1.13)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@deck.gl/layers@9.1.13(@deck.gl/core@9.1.13)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@deck.gl/mesh-layers@9.1.13(@deck.gl/core@9.1.13)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))':
     dependencies:
-      '@deck.gl/core': 9.1.12
-      '@deck.gl/extensions': 9.1.12(@deck.gl/core@9.1.12)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))
-      '@deck.gl/layers': 9.1.12(@deck.gl/core@9.1.12)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))
-      '@deck.gl/mesh-layers': 9.1.12(@deck.gl/core@9.1.12)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))
+      '@deck.gl/core': 9.1.13
+      '@deck.gl/extensions': 9.1.13(@deck.gl/core@9.1.13)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))
+      '@deck.gl/layers': 9.1.13(@deck.gl/core@9.1.13)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))
+      '@deck.gl/mesh-layers': 9.1.13(@deck.gl/core@9.1.13)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))
       '@loaders.gl/3d-tiles': 4.3.4(@loaders.gl/core@4.3.4)
       '@loaders.gl/core': 4.3.4
       '@loaders.gl/gis': 4.3.3(@loaders.gl/core@4.3.4)
@@ -5667,23 +5677,23 @@ snapshots:
       h3-js: 4.2.1
       long: 3.2.0
 
-  '@deck.gl/google-maps@9.1.12(@deck.gl/core@9.1.12)(@luma.gl/core@9.1.9)(@luma.gl/webgl@9.1.9(@luma.gl/core@9.1.9))':
+  '@deck.gl/google-maps@9.1.13(@deck.gl/core@9.1.13)(@luma.gl/core@9.1.9)(@luma.gl/webgl@9.1.9(@luma.gl/core@9.1.9))':
     dependencies:
-      '@deck.gl/core': 9.1.12
+      '@deck.gl/core': 9.1.13
       '@luma.gl/constants': 9.1.9
       '@luma.gl/core': 9.1.9
       '@luma.gl/webgl': 9.1.9(@luma.gl/core@9.1.9)
       '@math.gl/core': 4.1.0
       '@types/google.maps': 3.58.1
 
-  '@deck.gl/json@9.1.12(@deck.gl/core@9.1.12)':
+  '@deck.gl/json@9.1.13(@deck.gl/core@9.1.13)':
     dependencies:
-      '@deck.gl/core': 9.1.12
+      '@deck.gl/core': 9.1.13
       jsep: 0.3.5
 
-  '@deck.gl/layers@9.1.12(@deck.gl/core@9.1.12)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))':
+  '@deck.gl/layers@9.1.13(@deck.gl/core@9.1.13)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))':
     dependencies:
-      '@deck.gl/core': 9.1.12
+      '@deck.gl/core': 9.1.13
       '@loaders.gl/core': 4.3.4
       '@loaders.gl/images': 4.3.4(@loaders.gl/core@4.3.4)
       '@loaders.gl/schema': 4.3.4(@loaders.gl/core@4.3.4)
@@ -5696,16 +5706,16 @@ snapshots:
       '@math.gl/web-mercator': 4.1.0
       earcut: 2.2.4
 
-  '@deck.gl/mapbox@9.1.12(@deck.gl/core@9.1.12)(@luma.gl/core@9.1.9)':
+  '@deck.gl/mapbox@9.1.13(@deck.gl/core@9.1.13)(@luma.gl/core@9.1.9)':
     dependencies:
-      '@deck.gl/core': 9.1.12
+      '@deck.gl/core': 9.1.13
       '@luma.gl/constants': 9.1.9
       '@luma.gl/core': 9.1.9
       '@math.gl/web-mercator': 4.1.0
 
-  '@deck.gl/mesh-layers@9.1.12(@deck.gl/core@9.1.12)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))':
+  '@deck.gl/mesh-layers@9.1.13(@deck.gl/core@9.1.13)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))':
     dependencies:
-      '@deck.gl/core': 9.1.12
+      '@deck.gl/core': 9.1.13
       '@loaders.gl/gltf': 4.3.4(@loaders.gl/core@4.3.4)
       '@luma.gl/core': 9.1.9
       '@luma.gl/engine': 9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))
@@ -5714,16 +5724,16 @@ snapshots:
     transitivePeerDependencies:
       - '@loaders.gl/core'
 
-  '@deck.gl/react@9.1.12(@deck.gl/core@9.1.12)(@deck.gl/widgets@9.1.12(@deck.gl/core@9.1.12))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
+  '@deck.gl/react@9.1.13(@deck.gl/core@9.1.13)(@deck.gl/widgets@9.1.13(@deck.gl/core@9.1.13))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
     dependencies:
-      '@deck.gl/core': 9.1.12
-      '@deck.gl/widgets': 9.1.12(@deck.gl/core@9.1.12)
+      '@deck.gl/core': 9.1.13
+      '@deck.gl/widgets': 9.1.13(@deck.gl/core@9.1.13)
       react: 19.1.0
       react-dom: 19.1.0(react@19.1.0)
 
-  '@deck.gl/widgets@9.1.12(@deck.gl/core@9.1.12)':
+  '@deck.gl/widgets@9.1.13(@deck.gl/core@9.1.13)':
     dependencies:
-      '@deck.gl/core': 9.1.12
+      '@deck.gl/core': 9.1.13
       preact: 10.26.6
 
   '@dimforge/rapier3d-compat@0.12.0': {}
@@ -6310,10 +6320,10 @@ snapshots:
       '@math.gl/types': 4.1.0
       '@probe.gl/env': 4.1.0
 
-  '@mantine/core@8.1.2(@mantine/hooks@8.1.2(react@19.1.0))(@types/react@19.1.4)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
+  '@mantine/core@8.1.3(@mantine/hooks@8.1.3(react@19.1.0))(@types/react@19.1.4)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
     dependencies:
       '@floating-ui/react': 0.26.28(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@mantine/hooks': 8.1.2(react@19.1.0)
+      '@mantine/hooks': 8.1.3(react@19.1.0)
       clsx: 2.1.1
       react: 19.1.0
       react-dom: 19.1.0(react@19.1.0)
@@ -6324,7 +6334,7 @@ snapshots:
     transitivePeerDependencies:
       - '@types/react'
 
-  '@mantine/hooks@8.1.2(react@19.1.0)':
+  '@mantine/hooks@8.1.3(react@19.1.0)':
     dependencies:
       react: 19.1.0
 
@@ -6560,14 +6570,14 @@ snapshots:
       react: 19.1.0
       react-dom: 19.1.0(react@19.1.0)
 
-  '@react-three/drei@10.4.4(@react-three/fiber@9.2.0(@types/react@19.1.4)(immer@10.1.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(three@0.178.0))(@types/react@19.1.4)(@types/three@0.176.0)(immer@10.1.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(three@0.178.0)':
+  '@react-three/drei@10.5.1(@react-three/fiber@9.2.0(@types/react@19.1.4)(immer@10.1.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(three@0.178.0))(@types/react@19.1.4)(@types/three@0.176.0)(immer@10.1.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(three@0.178.0)':
     dependencies:
       '@babel/runtime': 7.27.1
       '@mediapipe/tasks-vision': 0.10.17
       '@monogrid/gainmap-js': 3.1.0(three@0.178.0)
       '@react-three/fiber': 9.2.0(@types/react@19.1.4)(immer@10.1.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(three@0.178.0)
       '@use-gesture/react': 10.3.1(react@19.1.0)
-      camera-controls: 2.10.1(three@0.178.0)
+      camera-controls: 3.1.0(three@0.178.0)
       cross-env: 7.0.3
       detect-gpu: 5.0.70
       glsl-noise: 0.0.0
@@ -6770,20 +6780,19 @@ snapshots:
 
   '@tanstack/history@1.121.34': {}
 
-  '@tanstack/query-core@5.81.5': {}
+  '@tanstack/query-core@5.83.0': {}
 
-  '@tanstack/react-query@5.81.5(react@19.1.0)':
+  '@tanstack/react-query@5.83.0(react@19.1.0)':
     dependencies:
-      '@tanstack/query-core': 5.81.5
+      '@tanstack/query-core': 5.83.0
       react: 19.1.0
 
-  '@tanstack/react-router@1.125.4(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
+  '@tanstack/react-router@1.127.9(react-dom@19.1.0(react@19.1.0))(react@19.1.0)':
     dependencies:
       '@tanstack/history': 1.121.34
       '@tanstack/react-store': 0.7.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@tanstack/router-core': 1.125.4
+      '@tanstack/router-core': 1.127.8
       isbot: 5.1.28
-      jsesc: 3.1.0
       react: 19.1.0
       react-dom: 19.1.0(react@19.1.0)
       tiny-invariant: 1.3.3
@@ -6796,18 +6805,19 @@ snapshots:
       react-dom: 19.1.0(react@19.1.0)
       use-sync-external-store: 1.5.0(react@19.1.0)
 
-  '@tanstack/router-core@1.125.4':
+  '@tanstack/router-core@1.127.8':
     dependencies:
       '@tanstack/history': 1.121.34
       '@tanstack/store': 0.7.0
       cookie-es: 1.2.2
-      jsesc: 3.1.0
+      seroval: 1.3.2
+      seroval-plugins: 1.3.2(seroval@1.3.2)
       tiny-invariant: 1.3.3
       tiny-warning: 1.0.3
 
   '@tanstack/store@0.7.0': {}
 
-  '@trapar-waves/cli-template@1.1.2':
+  '@trapar-waves/cli-template@1.1.3':
     dependencies:
       consola: 3.4.2
       destr: 2.0.5
@@ -6844,18 +6854,18 @@ snapshots:
       - tsx
       - yaml
 
-  '@trapar-waves/react-antd-pro@1.1.2(@types/react@19.1.4)(luxon@3.5.0)(moment@2.30.1)(rc-field-form@2.7.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(rollup@4.40.2)(use-sync-external-store@1.5.0(react@19.1.0))':
+  '@trapar-waves/react-antd-pro@1.1.3(@types/react@19.1.4)(luxon@3.5.0)(moment@2.30.1)(rc-field-form@2.7.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(rollup@4.40.2)(use-sync-external-store@1.5.0(react@19.1.0))':
     dependencies:
-      '@ant-design/pro-components': 2.8.9(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(rc-field-form@2.7.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@ant-design/pro-layout': 7.22.6(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@ant-design/v5-patch-for-react-19': 1.0.3(antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@tanstack/react-query': 5.81.5(react@19.1.0)
-      '@tanstack/react-router': 1.125.4(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      antd: 5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-components': 2.8.9(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(rc-field-form@2.7.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/pro-layout': 7.22.6(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@ant-design/v5-patch-for-react-19': 1.0.3(antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@tanstack/react-query': 5.83.0(react@19.1.0)
+      '@tanstack/react-router': 1.127.9(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      antd: 5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       axios: 1.10.0
       clsx: 2.1.1
       immer: 10.1.1
-      motion: 12.23.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      motion: 12.23.6(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       react: 19.1.0
       react-dom: 19.1.0(react@19.1.0)
       react-scan: 0.4.3(@types/react@19.1.4)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(rollup@4.40.2)
@@ -6876,32 +6886,32 @@ snapshots:
       - supports-color
       - use-sync-external-store
 
-  '@trapar-waves/react-mantine-tailwind@1.1.2(@types/react@19.1.4)':
+  '@trapar-waves/react-mantine-tailwind@1.1.3(@types/react@19.1.4)':
     dependencies:
-      '@mantine/core': 8.1.2(@mantine/hooks@8.1.2(react@19.1.0))(@types/react@19.1.4)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@mantine/hooks': 8.1.2(react@19.1.0)
+      '@mantine/core': 8.1.3(@mantine/hooks@8.1.3(react@19.1.0))(@types/react@19.1.4)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@mantine/hooks': 8.1.3(react@19.1.0)
       react: 19.1.0
       react-dom: 19.1.0(react@19.1.0)
     transitivePeerDependencies:
       - '@types/react'
 
-  '@trapar-waves/react-tailwind@1.1.2':
+  '@trapar-waves/react-tailwind@1.1.3':
     dependencies:
       react: 19.1.0
       react-dom: 19.1.0(react@19.1.0)
 
-  '@trapar-waves/react-tanstack@1.1.2':
+  '@trapar-waves/react-tanstack@1.1.3':
     dependencies:
-      '@tanstack/react-query': 5.81.5(react@19.1.0)
-      '@tanstack/react-router': 1.125.4(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@tanstack/react-query': 5.83.0(react@19.1.0)
+      '@tanstack/react-router': 1.127.9(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       react: 19.1.0
       react-dom: 19.1.0(react@19.1.0)
 
-  '@trapar-waves/react-three-maplibre@1.1.2(@types/react@19.1.4)(@types/three@0.176.0)(immer@10.1.1)(mapbox-gl@1.13.3)':
+  '@trapar-waves/react-three-maplibre@1.1.3(@types/react@19.1.4)(@types/three@0.176.0)(immer@10.1.1)(mapbox-gl@1.13.3)':
     dependencies:
-      '@antv/l7': 2.22.7
-      '@antv/l7-maps': 2.22.7
-      '@react-three/drei': 10.4.4(@react-three/fiber@9.2.0(@types/react@19.1.4)(immer@10.1.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(three@0.178.0))(@types/react@19.1.4)(@types/three@0.176.0)(immer@10.1.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(three@0.178.0)
+      '@antv/l7': 2.23.0
+      '@antv/l7-maps': 2.23.0
+      '@react-three/drei': 10.5.1(@react-three/fiber@9.2.0(@types/react@19.1.4)(immer@10.1.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(three@0.178.0))(@types/react@19.1.4)(@types/three@0.176.0)(immer@10.1.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(three@0.178.0)
       '@react-three/fiber': 9.2.0(@types/react@19.1.4)(immer@10.1.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(three@0.178.0)
       maplibre-gl: 5.6.1
       react: 19.1.0
@@ -6921,22 +6931,22 @@ snapshots:
       - mapbox-gl
       - react-native
 
-  '@trapar-waves/react-visgl-maplibre@1.1.2(@arcgis/core@4.32.10)(@deck.gl/extensions@9.1.12(@deck.gl/core@9.1.12)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@deck.gl/layers@9.1.12(@deck.gl/core@9.1.12)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@deck.gl/mesh-layers@9.1.12(@deck.gl/core@9.1.12)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@deck.gl/widgets@9.1.12(@deck.gl/core@9.1.12))(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))(@types/react@19.1.4)(@types/three@0.176.0)(immer@10.1.1)(mapbox-gl@1.13.3)':
+  '@trapar-waves/react-visgl-maplibre@1.1.3(@arcgis/core@4.32.10)(@deck.gl/extensions@9.1.13(@deck.gl/core@9.1.13)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@deck.gl/layers@9.1.13(@deck.gl/core@9.1.13)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@deck.gl/mesh-layers@9.1.13(@deck.gl/core@9.1.13)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@deck.gl/widgets@9.1.13(@deck.gl/core@9.1.13))(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))(@types/react@19.1.4)(@types/three@0.176.0)(immer@10.1.1)(mapbox-gl@1.13.3)':
     dependencies:
-      '@deck.gl/aggregation-layers': 9.1.12(@deck.gl/core@9.1.12)(@deck.gl/layers@9.1.12(@deck.gl/core@9.1.12)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))
-      '@deck.gl/core': 9.1.12
-      '@deck.gl/geo-layers': 9.1.12(@deck.gl/core@9.1.12)(@deck.gl/extensions@9.1.12(@deck.gl/core@9.1.12)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@deck.gl/layers@9.1.12(@deck.gl/core@9.1.12)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@deck.gl/mesh-layers@9.1.12(@deck.gl/core@9.1.12)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))
-      '@deck.gl/mapbox': 9.1.12(@deck.gl/core@9.1.12)(@luma.gl/core@9.1.9)
-      '@deck.gl/react': 9.1.12(@deck.gl/core@9.1.12)(@deck.gl/widgets@9.1.12(@deck.gl/core@9.1.12))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@deck.gl/aggregation-layers': 9.1.13(@deck.gl/core@9.1.13)(@deck.gl/layers@9.1.13(@deck.gl/core@9.1.13)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))
+      '@deck.gl/core': 9.1.13
+      '@deck.gl/geo-layers': 9.1.13(@deck.gl/core@9.1.13)(@deck.gl/extensions@9.1.13(@deck.gl/core@9.1.13)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@deck.gl/layers@9.1.13(@deck.gl/core@9.1.13)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@deck.gl/mesh-layers@9.1.13(@deck.gl/core@9.1.13)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))
+      '@deck.gl/mapbox': 9.1.13(@deck.gl/core@9.1.13)(@luma.gl/core@9.1.9)
+      '@deck.gl/react': 9.1.13(@deck.gl/core@9.1.13)(@deck.gl/widgets@9.1.13(@deck.gl/core@9.1.13))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       '@loaders.gl/3d-tiles': 4.3.4(@loaders.gl/core@4.3.4)
       '@loaders.gl/core': 4.3.4
       '@loaders.gl/csv': 4.3.4(@loaders.gl/core@4.3.4)
       '@loaders.gl/tiles': 4.3.4(@loaders.gl/core@4.3.4)
       '@luma.gl/core': 9.1.9
       '@luma.gl/webgl': 9.1.9(@luma.gl/core@9.1.9)
-      '@react-three/drei': 10.4.4(@react-three/fiber@9.2.0(@types/react@19.1.4)(immer@10.1.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(three@0.178.0))(@types/react@19.1.4)(@types/three@0.176.0)(immer@10.1.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(three@0.178.0)
+      '@react-three/drei': 10.5.1(@react-three/fiber@9.2.0(@types/react@19.1.4)(immer@10.1.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(three@0.178.0))(@types/react@19.1.4)(@types/three@0.176.0)(immer@10.1.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(three@0.178.0)
       '@react-three/fiber': 9.2.0(@types/react@19.1.4)(immer@10.1.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(three@0.178.0)
-      deck.gl: 9.1.12(@arcgis/core@4.32.10)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))(@luma.gl/webgl@9.1.9(@luma.gl/core@9.1.9))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      deck.gl: 9.1.13(@arcgis/core@4.32.10)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))(@luma.gl/webgl@9.1.9(@luma.gl/core@9.1.9))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       maplibre-gl: 5.6.1
       react: 19.1.0
       react-dom: 19.1.0(react@19.1.0)
@@ -6962,7 +6972,7 @@ snapshots:
       - mapbox-gl
       - react-native
 
-  '@trapar-waves/vue-tailwind@1.1.2(typescript@5.8.3)':
+  '@trapar-waves/vue-tailwind@1.1.3(typescript@5.8.3)':
     dependencies:
       '@vueuse/core': 13.5.0(vue@3.5.17(typescript@5.8.3))
       vue: 3.5.17(typescript@5.8.3)
@@ -7711,7 +7721,7 @@ snapshots:
 
   ansis@4.1.0: {}
 
-  antd@5.26.3(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0):
+  antd@5.26.5(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0):
     dependencies:
       '@ant-design/colors': 7.2.1
       '@ant-design/cssinjs': 1.23.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
@@ -7870,7 +7880,7 @@ snapshots:
 
   callsites@3.1.0: {}
 
-  camera-controls@2.10.1(three@0.178.0):
+  camera-controls@3.1.0(three@0.178.0):
     dependencies:
       three: 0.178.0
 
@@ -8074,21 +8084,21 @@ snapshots:
     dependencies:
       ms: 2.1.3
 
-  deck.gl@9.1.12(@arcgis/core@4.32.10)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))(@luma.gl/webgl@9.1.9(@luma.gl/core@9.1.9))(react-dom@19.1.0(react@19.1.0))(react@19.1.0):
+  deck.gl@9.1.13(@arcgis/core@4.32.10)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))(@luma.gl/webgl@9.1.9(@luma.gl/core@9.1.9))(react-dom@19.1.0(react@19.1.0))(react@19.1.0):
     dependencies:
-      '@deck.gl/aggregation-layers': 9.1.12(@deck.gl/core@9.1.12)(@deck.gl/layers@9.1.12(@deck.gl/core@9.1.12)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))
-      '@deck.gl/arcgis': 9.1.12(@arcgis/core@4.32.10)(@deck.gl/core@9.1.12)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))(@luma.gl/webgl@9.1.9(@luma.gl/core@9.1.9))
-      '@deck.gl/carto': 9.1.12(eb61ae56afe498e8e3f924704b5336fb)
-      '@deck.gl/core': 9.1.12
-      '@deck.gl/extensions': 9.1.12(@deck.gl/core@9.1.12)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))
-      '@deck.gl/geo-layers': 9.1.12(@deck.gl/core@9.1.12)(@deck.gl/extensions@9.1.12(@deck.gl/core@9.1.12)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@deck.gl/layers@9.1.12(@deck.gl/core@9.1.12)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@deck.gl/mesh-layers@9.1.12(@deck.gl/core@9.1.12)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))
-      '@deck.gl/google-maps': 9.1.12(@deck.gl/core@9.1.12)(@luma.gl/core@9.1.9)(@luma.gl/webgl@9.1.9(@luma.gl/core@9.1.9))
-      '@deck.gl/json': 9.1.12(@deck.gl/core@9.1.12)
-      '@deck.gl/layers': 9.1.12(@deck.gl/core@9.1.12)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))
-      '@deck.gl/mapbox': 9.1.12(@deck.gl/core@9.1.12)(@luma.gl/core@9.1.9)
-      '@deck.gl/mesh-layers': 9.1.12(@deck.gl/core@9.1.12)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))
-      '@deck.gl/react': 9.1.12(@deck.gl/core@9.1.12)(@deck.gl/widgets@9.1.12(@deck.gl/core@9.1.12))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
-      '@deck.gl/widgets': 9.1.12(@deck.gl/core@9.1.12)
+      '@deck.gl/aggregation-layers': 9.1.13(@deck.gl/core@9.1.13)(@deck.gl/layers@9.1.13(@deck.gl/core@9.1.13)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))
+      '@deck.gl/arcgis': 9.1.13(@arcgis/core@4.32.10)(@deck.gl/core@9.1.13)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))(@luma.gl/webgl@9.1.9(@luma.gl/core@9.1.9))
+      '@deck.gl/carto': 9.1.13(e5b9c5b2d326c41c5ccf6acbc82f42dd)
+      '@deck.gl/core': 9.1.13
+      '@deck.gl/extensions': 9.1.13(@deck.gl/core@9.1.13)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))
+      '@deck.gl/geo-layers': 9.1.13(@deck.gl/core@9.1.13)(@deck.gl/extensions@9.1.13(@deck.gl/core@9.1.13)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@deck.gl/layers@9.1.13(@deck.gl/core@9.1.13)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@deck.gl/mesh-layers@9.1.13(@deck.gl/core@9.1.13)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))))(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))
+      '@deck.gl/google-maps': 9.1.13(@deck.gl/core@9.1.13)(@luma.gl/core@9.1.9)(@luma.gl/webgl@9.1.9(@luma.gl/core@9.1.9))
+      '@deck.gl/json': 9.1.13(@deck.gl/core@9.1.13)
+      '@deck.gl/layers': 9.1.13(@deck.gl/core@9.1.13)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))
+      '@deck.gl/mapbox': 9.1.13(@deck.gl/core@9.1.13)(@luma.gl/core@9.1.9)
+      '@deck.gl/mesh-layers': 9.1.13(@deck.gl/core@9.1.13)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)))
+      '@deck.gl/react': 9.1.13(@deck.gl/core@9.1.13)(@deck.gl/widgets@9.1.13(@deck.gl/core@9.1.13))(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@deck.gl/widgets': 9.1.13(@deck.gl/core@9.1.13)
       '@loaders.gl/core': 4.3.4
       '@luma.gl/core': 9.1.9
       '@luma.gl/engine': 9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9))
@@ -8615,10 +8625,10 @@ snapshots:
     dependencies:
       fetch-blob: 3.2.0
 
-  framer-motion@12.23.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0):
+  framer-motion@12.23.6(react-dom@19.1.0(react@19.1.0))(react@19.1.0):
     dependencies:
-      motion-dom: 12.22.0
-      motion-utils: 12.19.0
+      motion-dom: 12.23.6
+      motion-utils: 12.23.6
       tslib: 2.8.1
     optionalDependencies:
       react: 19.1.0
@@ -9418,15 +9428,15 @@ snapshots:
 
   moment@2.30.1: {}
 
-  motion-dom@12.22.0:
+  motion-dom@12.23.6:
     dependencies:
-      motion-utils: 12.19.0
+      motion-utils: 12.23.6
 
-  motion-utils@12.19.0: {}
+  motion-utils@12.23.6: {}
 
-  motion@12.23.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0):
+  motion@12.23.6(react-dom@19.1.0(react@19.1.0))(react@19.1.0):
     dependencies:
-      framer-motion: 12.23.0(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      framer-motion: 12.23.6(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
       tslib: 2.8.1
     optionalDependencies:
       react: 19.1.0
@@ -10191,6 +10201,12 @@ snapshots:
   semver@6.3.1: {}
 
   semver@7.7.2: {}
+
+  seroval-plugins@1.3.2(seroval@1.3.2):
+    dependencies:
+      seroval: 1.3.2
+
+  seroval@1.3.2: {}
 
   set-value@2.0.1:
     dependencies:
