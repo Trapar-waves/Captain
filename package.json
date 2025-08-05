@@ -59,7 +59,7 @@
     "@trapar-waves/react-three-maplibre": "^1.1.5",
     "@trapar-waves/react-visgl-maplibre": "^1.1.5",
     "@trapar-waves/vue-tailwind": "^1.1.5",
-    "@types/node": "^24.1.0",
+    "@types/node": "^24.2.0",
     "eslint": "^9.32.0",
     "eslint-plugin-format": "^1.0.1",
     "tsx": "^4.20.3",
