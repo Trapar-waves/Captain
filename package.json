@@ -10,13 +10,13 @@
     "url": "https://github.com/Muromi-Rikka"
   },
   "license": "MIT",
-  "homepage": "https://github.com/Trapar-Waves/captain",
+  "homepage": "https://github.com/Trapar-Waves/Captain",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Trapar-Waves/captain.git"
+    "url": "git+https://github.com/Trapar-Waves/Captain.git"
   },
   "bugs": {
-    "url": "https://github.com/Trapar-Waves/captain/issues"
+    "url": "https://github.com/Trapar-Waves/Captain/issues"
   },
   "keywords": [
     "template-manager",
