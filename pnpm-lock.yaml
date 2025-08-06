@@ -31,8 +31,8 @@ importers:
         specifier: ^1.1.5
         version: 1.1.5(@types/debug@4.1.12)(@types/node@24.2.0)(jiti@2.5.1)(tsx@4.20.3)(yaml@2.8.0)
       '@trapar-waves/react-antd-pro':
-        specifier: ^1.1.5
-        version: 1.1.5(@types/react@19.1.4)(luxon@3.5.0)(moment@2.30.1)(rc-field-form@2.7.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(rollup@4.40.2)(use-sync-external-store@1.5.0(react@19.1.1))
+        specifier: ^1.1.6
+        version: 1.1.6(@types/react@19.1.4)(luxon@3.5.0)(moment@2.30.1)(rc-field-form@2.7.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(rollup@4.40.2)(use-sync-external-store@1.5.0(react@19.1.1))
       '@trapar-waves/react-mantine-tailwind':
         specifier: ^1.1.5
         version: 1.1.5(@types/react@19.1.4)
@@ -1573,8 +1573,8 @@ packages:
   '@trapar-waves/llm-template@1.1.5':
     resolution: {integrity: sha512-+/kbcyRP8ceDJ4XqMyHYznKV1k3n455O00tdgQD/weN5zh+VU81GEOw2Xg9CjZt5lN5jAUOM3JThoIWjHzEmTA==}
 
-  '@trapar-waves/react-antd-pro@1.1.5':
-    resolution: {integrity: sha512-rEBMW3dUG6UG54a2zR94l4TG8S40o0nYXmCMaCM5jvkI7px7OK+8w2saS4/sAUsGasEEfpAfNzfTRNDUJpBXTw==}
+  '@trapar-waves/react-antd-pro@1.1.6':
+    resolution: {integrity: sha512-4ybZRvbXWpB3w5/SxWaMYPTrVtA99hqDai0QwFZRd1Jcg/j4Qhggkfj/nfLUuVUQ6rau1UPDWe+KDZLCMWPhJA==}
 
   '@trapar-waves/react-mantine-tailwind@1.1.5':
     resolution: {integrity: sha512-TfgSWIbfRtA9CdGJXpwgMUYeYPZGaJYIoyVC8bkaWabXp2oes7hG1/IF5rVC1VteuS641NJBDvPPg3pLpQW+Ww==}
@@ -6790,7 +6790,7 @@ snapshots:
       - tsx
       - yaml
 
-  '@trapar-waves/react-antd-pro@1.1.5(@types/react@19.1.4)(luxon@3.5.0)(moment@2.30.1)(rc-field-form@2.7.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(rollup@4.40.2)(use-sync-external-store@1.5.0(react@19.1.1))':
+  '@trapar-waves/react-antd-pro@1.1.6(@types/react@19.1.4)(luxon@3.5.0)(moment@2.30.1)(rc-field-form@2.7.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(rollup@4.40.2)(use-sync-external-store@1.5.0(react@19.1.1))':
     dependencies:
       '@ant-design/pro-components': 2.8.10(antd@5.26.7(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(rc-field-form@2.7.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
       '@ant-design/pro-layout': 7.22.7(antd@5.26.7(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
