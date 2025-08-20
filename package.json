@@ -44,7 +44,7 @@
   },
   "dependencies": {
     "destr": "^2.0.5",
-    "pkg-types": "^2.2.0",
+    "pkg-types": "^2.3.0",
     "ufo": "^1.6.1"
   },
   "devDependencies": {
