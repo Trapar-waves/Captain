@@ -25,32 +25,32 @@ importers:
         specifier: ^0.15.0
         version: 0.15.0(typescript@5.9.3)
       '@trapar-waves/cli-template':
-        specifier: ^1.1.14
-        version: 1.1.14
+        specifier: ^1.1.15
+        version: 1.1.15
       '@trapar-waves/llm-template':
-        specifier: ^1.1.14
-        version: 1.1.14(@types/debug@4.1.12)(@types/node@24.7.0)(jiti@2.6.0)(tsx@4.20.6)(yaml@2.8.1)
+        specifier: ^1.1.15
+        version: 1.1.15(@types/debug@4.1.12)(@types/node@24.7.0)(jiti@2.6.0)(tsx@4.20.6)(yaml@2.8.1)
       '@trapar-waves/react-antd-pro':
-        specifier: ^1.1.14
-        version: 1.1.14(@types/react@19.1.4)(luxon@3.5.0)(moment@2.30.1)(rc-field-form@2.7.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(rollup@4.40.2)(use-sync-external-store@1.5.0(react@19.1.1))
+        specifier: ^1.1.15
+        version: 1.1.15(@types/react@19.1.4)(luxon@3.5.0)(moment@2.30.1)(rc-field-form@2.7.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(rollup@4.40.2)(use-sync-external-store@1.5.0(react@19.2.0))
       '@trapar-waves/react-mantine-tailwind':
-        specifier: ^1.1.14
-        version: 1.1.14(@types/react@19.1.4)
+        specifier: ^1.1.15
+        version: 1.1.15(@types/react@19.1.4)
       '@trapar-waves/react-tailwind':
-        specifier: ^1.1.14
-        version: 1.1.14
+        specifier: ^1.1.15
+        version: 1.1.15
       '@trapar-waves/react-tanstack':
-        specifier: ^1.1.14
-        version: 1.1.14
+        specifier: ^1.1.15
+        version: 1.1.15
       '@trapar-waves/react-three-maplibre':
-        specifier: ^1.1.14
-        version: 1.1.14(@types/react@19.1.4)(@types/three@0.176.0)(immer@10.1.3)(mapbox-gl@1.13.3)
+        specifier: ^1.1.15
+        version: 1.1.15(@types/react@19.1.4)(@types/three@0.176.0)(immer@10.1.3)(mapbox-gl@1.13.3)
       '@trapar-waves/react-visgl-maplibre':
-        specifier: ^1.1.14
-        version: 1.1.14(@arcgis/core@4.32.10)(@deck.gl/extensions@9.1.14(@deck.gl/core@9.1.14)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))))(@deck.gl/layers@9.1.14(@deck.gl/core@9.1.14)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))))(@deck.gl/mesh-layers@9.1.14(@deck.gl/core@9.1.14)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))))(@deck.gl/widgets@9.1.14(@deck.gl/core@9.1.14))(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1)))(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))(@types/react@19.1.4)(@types/three@0.176.0)(immer@10.1.3)(mapbox-gl@1.13.3)
+        specifier: ^1.1.15
+        version: 1.1.15(@arcgis/core@4.32.10)(@deck.gl/extensions@9.1.15(@deck.gl/core@9.1.15)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))))(@deck.gl/layers@9.1.15(@deck.gl/core@9.1.15)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))))(@deck.gl/mesh-layers@9.1.15(@deck.gl/core@9.1.15)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))))(@deck.gl/widgets@9.1.15(@deck.gl/core@9.1.15))(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2)))(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))(@types/react@19.1.4)(@types/three@0.176.0)(immer@10.1.3)(mapbox-gl@1.13.3)
       '@trapar-waves/vue-tailwind':
-        specifier: ^1.1.14
-        version: 1.1.14(typescript@5.9.3)
+        specifier: ^1.1.15
+        version: 1.1.15(typescript@5.9.3)
       '@types/node':
         specifier: ^24.7.0
         version: 24.7.0
@@ -69,14 +69,14 @@ importers:
 
 packages:
 
-  '@ai-sdk/gateway@1.0.30':
-    resolution: {integrity: sha512-QdrSUryr/CLcsCISokLHOImcHj1adGXk1yy4B3qipqLhcNc33Kj/O/3crI790Qp85oDx7sc4vm7R4raf9RA/kg==}
+  '@ai-sdk/gateway@1.0.33':
+    resolution: {integrity: sha512-v9i3GPEo4t3fGcSkQkc07xM6KJN75VUv7C1Mqmmsu2xD8lQwnQfsrgAXyNuWe20yGY0eHuheSPDZhiqsGKtH1g==}
     engines: {node: '>=18'}
     peerDependencies:
       zod: ^3.25.76 || ^4.1.8
 
-  '@ai-sdk/openai@2.0.38':
-    resolution: {integrity: sha512-aPK5jSz5/UkbYnh59/Yy5ic3JsOrz7Gt6TJdB8ggYDYEUHJ9FHEKoRKz8DEHh3Zaf3yngxZLkdP4JSbroK3jsQ==}
+  '@ai-sdk/openai@2.0.42':
+    resolution: {integrity: sha512-9mM6QS8k0ooH9qMC27nlrYLQmNDnO6Rk0JTmFo/yUxpABEWOcvQhMWNHbp9lFL6Ty5vkdINrujhsAQfWuEleOg==}
     engines: {node: '>=18'}
     peerDependencies:
       zod: ^3.25.76 || ^4.1.8
@@ -428,11 +428,6 @@ packages:
     resolution: {integrity: sha512-FCvFTm0sWV8Fxhpp2McP5/W53GPllQ9QeQ7SiqGWjMf/LVG07lFa5+pgK05IRhVwtvafT22KF+ZSnM9I545CvQ==}
     engines: {node: '>=6.9.0'}
 
-  '@babel/parser@7.28.3':
-    resolution: {integrity: sha512-7+Ey1mAgYqFAx2h0RuoxcQT5+MlG3GTV0TQrgr7/ZliKsm/MNDxVVutlWaziMq7wJNAz8MTqz55XLpWvva6StA==}
-    engines: {node: '>=6.0.0'}
-    hasBin: true
-
   '@babel/parser@7.28.4':
     resolution: {integrity: sha512-yZbBqeM6TkpP9du/I2pUZnJsRMGGvOuIrhjzC1AwHwW+6he4mni6Bp/m8ijn0iOuZuPI2BfkCoSRunpyjnrQKg==}
     engines: {node: '>=6.0.0'}
@@ -448,10 +443,6 @@ packages:
 
   '@babel/traverse@7.27.1':
     resolution: {integrity: sha512-ZCYtZciz1IWJB4U61UPu4KEaqyfj+r5T1Q5mqPo+IBpcG9kHv30Z0aD8LXPgC1trYa6rK0orRyAhqUgk4MjmEg==}
-    engines: {node: '>=6.9.0'}
-
-  '@babel/types@7.28.2':
-    resolution: {integrity: sha512-ruv7Ae4J5dUYULmeXw1gmb7rYRz57OWCPM57pHojnLq/3Z1CK2lNSLTCVjxVk1F/TZHwOZZrOWi0ur95BbLxNQ==}
     engines: {node: '>=6.9.0'}
 
   '@babel/types@7.28.4':
@@ -482,16 +473,16 @@ packages:
     resolution: {integrity: sha512-SITSV6aIXsuVNV3f3O0f2n/cgyEDWoSqtZMYiAmcsYHydcKrOz3gUxB/iXd/Qf08+IZX4KpgNbvUdMBmWz+kcA==}
     engines: {node: '>=10'}
 
-  '@deck.gl/aggregation-layers@9.1.14':
-    resolution: {integrity: sha512-EEciz1/SL1bdf/lm+DRy9Arno81vLWc9frcz2w/ZFdIKxVfcJmAFtyKeo2BJdjR9aspNxpOW+RJdl3/tK/ICYw==}
+  '@deck.gl/aggregation-layers@9.1.15':
+    resolution: {integrity: sha512-EC+WZX64Uv8K1H42e6oZEfuVtcx/bOd+KdgKshE7alfdby8LkVvwfz+uoO6h87BYSG0KRAVqZny/nbGmKkjdtw==}
     peerDependencies:
       '@deck.gl/core': ^9.1.0
       '@deck.gl/layers': ^9.1.0
       '@luma.gl/core': ~9.1.9
       '@luma.gl/engine': ~9.1.9
 
-  '@deck.gl/arcgis@9.1.14':
-    resolution: {integrity: sha512-UQoknFpRCeSuY+KALbTAu7Z/qHS9r2Rb0RFllnNiCFKUbW3FLtIo0uszom3d69yCrdC6Sl6Tv1iVDB9JMIeItw==}
+  '@deck.gl/arcgis@9.1.15':
+    resolution: {integrity: sha512-Jcsmy0Q5YwagPEeOTVOLvNUfDQjLzJcUM1t6f8c9lrWynIogdC8QEcVvo4sRpLrSZFlo8iR+HeF27Gy9VN1V5w==}
     peerDependencies:
       '@arcgis/core': ^4.0.0
       '@deck.gl/core': ^9.1.0
@@ -499,8 +490,8 @@ packages:
       '@luma.gl/engine': ~9.1.9
       '@luma.gl/webgl': ~9.1.9
 
-  '@deck.gl/carto@9.1.14':
-    resolution: {integrity: sha512-afOaNLDTZZPyYfxSJYzJltQ45nK4MwE3etp3P7Mu3nP0HLvEpzVn7E6rEOYqra3ABk2nP+6Se28rYGnEmzmCSw==}
+  '@deck.gl/carto@9.1.15':
+    resolution: {integrity: sha512-AFfSx5puU/BdhiRyS9vIujydk2zgRAOHWqW5Q5joPEZspoG8DKp1NkIV6EgPR1+LO6ZgOh1JrYAnvaNW+tARUg==}
     peerDependencies:
       '@deck.gl/aggregation-layers': ^9.1.0
       '@deck.gl/core': ^9.1.0
@@ -510,18 +501,18 @@ packages:
       '@loaders.gl/core': ^4.2.0
       '@luma.gl/core': ~9.1.9
 
-  '@deck.gl/core@9.1.14':
-    resolution: {integrity: sha512-tXakSSvi5g+EvxSsnnjoRO8z3XxHxISTRzzIqcs3AZuWHnDptK28y9iD0Da21ILop1IYLaWE1QTUe6IAdp/Wag==}
+  '@deck.gl/core@9.1.15':
+    resolution: {integrity: sha512-2Tx2aKNskDS8SZ6EB7V53exo3SVntCJJGjrAnz3KhNj4fA4BVqOH++LSpjCFhuG9m4WOWDSDq9s7w4DQnTiT+Q==}
 
-  '@deck.gl/extensions@9.1.14':
-    resolution: {integrity: sha512-uPm9Ye/XD8YAYNxT1G6HxyIOBxa2+MBdGLyqobQj3pCnkO/YtgY/fi/BjM+eVOBXX+keBrXEclEvB0Add5eS8Q==}
+  '@deck.gl/extensions@9.1.15':
+    resolution: {integrity: sha512-pH3SArgiEibHwrYwbKTknUurgpUndUFa+O97in+zRVF6KFGNZSLm1AePERh1gQjcpuQ+GwrxJ/ijmVmuH2zOow==}
     peerDependencies:
       '@deck.gl/core': ^9.1.0
       '@luma.gl/core': ~9.1.9
       '@luma.gl/engine': ~9.1.9
 
-  '@deck.gl/geo-layers@9.1.14':
-    resolution: {integrity: sha512-vk/vssJl9mxvPH04EyUFVa+gHedJYo55KrNjUiQWPBgtMyVefF/5M2X09UPXSnL44cMat7ZgX5wR9HMMxAwo+Q==}
+  '@deck.gl/geo-layers@9.1.15':
+    resolution: {integrity: sha512-dehvciiUyCnklCfY5v0JgGAgJfbQ0Rn/ml55Maqdw5c5K6fIQzi4xMglu1NdgO3L+MOutWWA1eFD9WLT2X0mkA==}
     peerDependencies:
       '@deck.gl/core': ^9.1.0
       '@deck.gl/extensions': ^9.1.0
@@ -531,49 +522,49 @@ packages:
       '@luma.gl/core': ~9.1.9
       '@luma.gl/engine': ~9.1.9
 
-  '@deck.gl/google-maps@9.1.14':
-    resolution: {integrity: sha512-xkMHsTyq6tTKWA3KfhCrcOuoMOND9nVbzS+TTHfulEPfaE9HNu6HiJE4Jh7KON9HUpRGY6Z3GUHqZqXFCC1Bhw==}
+  '@deck.gl/google-maps@9.1.15':
+    resolution: {integrity: sha512-iwMrN6R69PFWdYgRcSzD7e/TSkG4y6dLA5vSoiAVd15rWEsCQkySlP/wtZ660ma/WqUSlaWz5ogfWhd5Uy2fgA==}
     peerDependencies:
       '@deck.gl/core': ^9.1.0
       '@luma.gl/core': ~9.1.9
       '@luma.gl/webgl': ~9.1.9
 
-  '@deck.gl/json@9.1.14':
-    resolution: {integrity: sha512-+TUkMNQFrsP0OQeUl1k2YvczeYaaE2C99SfMX+elpVHTWGE100C/5L94UeS5XT2REEunJ8tDaDNO+aUXTz2nDA==}
+  '@deck.gl/json@9.1.15':
+    resolution: {integrity: sha512-/B8eIRQvOK/DtQbgUi9icd7fQMGbsCgLVcLVZ6iWMtJjjztza5pDM5cdAh0WNAr6YqHvDBGTwmCbaDLRv+gl3Q==}
     peerDependencies:
       '@deck.gl/core': ^9.1.0
 
-  '@deck.gl/layers@9.1.14':
-    resolution: {integrity: sha512-cCClyZxznzXLPJnH2er7ZJAnXYuEHH/0hcDoc5Lp3SNByx3ASNrZcizIBOCxO7132LHFN4cSeyz0JVP8p56TDg==}
+  '@deck.gl/layers@9.1.15':
+    resolution: {integrity: sha512-4C8LaCXnd/cHGMGwuLu6YUqcf/4dyz82Im+C0IrY56OgJnVOKf2f75zwAKa1Uekq4XEsyPgqg9k5MWEohBzGYw==}
     peerDependencies:
       '@deck.gl/core': ^9.1.0
       '@loaders.gl/core': ^4.2.0
       '@luma.gl/core': ~9.1.9
       '@luma.gl/engine': ~9.1.9
 
-  '@deck.gl/mapbox@9.1.14':
-    resolution: {integrity: sha512-l3c5NFwKjIOeVWMtqK5LR8MA4grRe7tpLctkovNIo+owPBoW+q7gAWBJ1hGFmE1sxVFhoqZx70FqBAT9Mqn1ow==}
+  '@deck.gl/mapbox@9.1.15':
+    resolution: {integrity: sha512-XnQKlQUOYx27+m2WJqYMFeDv36yGkUPbbra5bb1j+jDLA11GRBweYM/rq9JtrdWpfcdtJTmLnpeeVPJV8Bm3/Q==}
     peerDependencies:
       '@deck.gl/core': ^9.1.0
       '@luma.gl/core': ~9.1.9
 
-  '@deck.gl/mesh-layers@9.1.14':
-    resolution: {integrity: sha512-NVUw0yG4stJfrklWCGP9j8bNlf9YQc4PccMeNNIHNrU/Je6/Va6dJZg0RGtVkeaTY1Lk3A7wRzq8/M5Urfvuiw==}
+  '@deck.gl/mesh-layers@9.1.15':
+    resolution: {integrity: sha512-/GuXxa2Y5Bv/6DSOA6sgPalCZAPN137cTE5SDbOH88yKAY0ggn5FmgcimhGNRcR28tGy+yOCy/PbtIDoba6dpw==}
     peerDependencies:
       '@deck.gl/core': ^9.1.0
       '@luma.gl/core': ~9.1.9
       '@luma.gl/engine': ~9.1.9
 
-  '@deck.gl/react@9.1.14':
-    resolution: {integrity: sha512-G9uiL/+ZzTUaSH+NPrL+OfyWPN6LfRIIfQicjkqF5v5Mtnv8EO9raOHgYk8ZYdt4Z7MPD8TiXbyeENZwrlNSzg==}
+  '@deck.gl/react@9.1.15':
+    resolution: {integrity: sha512-QJuCWyX3mBzW/rzFs0Bq/53rDEMMFbP1wDBTpnAeDDda4QLJK3bLReWLKzM/p0Ewoil0re/OHAWnSf1w9ePhDA==}
     peerDependencies:
       '@deck.gl/core': ^9.1.0
       '@deck.gl/widgets': ^9.1.0
       react: '>=16.3.0'
       react-dom: '>=16.3.0'
 
-  '@deck.gl/widgets@9.1.14':
-    resolution: {integrity: sha512-hEyvvrqxEr7ujqTyTbdm5VTwY4oMYKNsLyXKjxWerHCIyfT971UYyV4cbILqvYf+L8spE146NFqwx0jj1bBqWw==}
+  '@deck.gl/widgets@9.1.15':
+    resolution: {integrity: sha512-cSscNelsIlgjNrfVCmgXiXcYQbvJxmFv8iedpUPxTYLrW0hQq/ftZtLVZ8sWsNkn/EM8/KKysO5IXeEVj3iGbQ==}
     peerDependencies:
       '@deck.gl/core': ^9.1.0
 
@@ -1065,14 +1056,14 @@ packages:
   '@luma.gl/constants@9.1.9':
     resolution: {integrity: sha512-yc9fml04OeTTcwK+7gmDMxoLQ67j4ZiAFXjmYvPomYyBVzS0NZxTDuwcCBmnxjLOiroOZW8FRRrVc/yOiFug2w==}
 
-  '@luma.gl/constants@9.2.1':
-    resolution: {integrity: sha512-zFAB0++fTTOh8VGl87RYrqGGItWkcEkH+9HslHPFwTSLz1thLWMLAPOvQ5PLFxF1ekort95R4lqA5fgML9Bylw==}
+  '@luma.gl/constants@9.2.2':
+    resolution: {integrity: sha512-XURMF0gSh0ImZltYa/PCe9KgmopQJiOA6y1m1PxDxJY8OCLma7ZJyvomLn7TQBvPtWTYZsibTW7blu7RwThsaQ==}
 
   '@luma.gl/core@9.1.9':
     resolution: {integrity: sha512-1i9N7+I/UbFjx3axSMlc3/NufA+C2iBv/7mw51gRE/ypQPgvFmY/QqXBVZRe+nthF+OhlUMhO19TBndzYFTWhA==}
 
-  '@luma.gl/core@9.2.1':
-    resolution: {integrity: sha512-KP4mhE9q0FW7lRQpjbbsrnS4fuN76vXFskJA3uTm2dSG6FmOZl8cRWH0ae1RAnoWP/n1qGdgncGrFuntEz8pmA==}
+  '@luma.gl/core@9.2.2':
+    resolution: {integrity: sha512-X63BnXXDlC9AmoG4sUVsfxLn+DoNovbX/z5ZXxnhpxx47536Ss/SLzwnLvm/ZoDhK9/s5qdI95mSZKuqzKCkjw==}
 
   '@luma.gl/engine@9.1.9':
     resolution: {integrity: sha512-n1GLK1sUMFkWxdb+aZYn6ZBFltFEMi7X+6ZPxn2pBsNT6oeF4AyvH5AyqhOpvHvUnCLDt3Zsf1UIfx3MI//YSw==}
@@ -1097,20 +1088,20 @@ packages:
     peerDependencies:
       '@luma.gl/core': ^9.1.0
 
-  '@luma.gl/webgl@9.2.1':
-    resolution: {integrity: sha512-+INEvSL6SDX9z6OV2eAXrKO8Zq2RHub9eOvMjxJp5D2Ifn0u+wmpQ0Urjg3W8di+y+K+6MkjzbJi5b4+dfBR1w==}
+  '@luma.gl/webgl@9.2.2':
+    resolution: {integrity: sha512-6g1UWpa61teUDju6gf8hRj4Z/vh4HKscO1FBkZRW/N4AimjXf0wDYwE20m0tD1u6ZRiUORkqVAoMPf8CyMfU/g==}
     peerDependencies:
       '@luma.gl/core': ~9.2.0
 
-  '@mantine/core@8.3.2':
-    resolution: {integrity: sha512-uIHC9ooEZ9E+/pw8ag4f8pi0GmwSQ1DYnETjr4a4ZNVKJHfVv5NSkjprBxPrKJq9oox/SdcrAWy5XlKTwBzRag==}
+  '@mantine/core@8.3.3':
+    resolution: {integrity: sha512-OdTAQ0lsXjEqfea0KyXJ1rV9cZb/Rtqv5l3luG2m8Sx5BTGMqXas6mKHtdj4LwIiUKeFkIkZYjNmH6ri1HXjSA==}
     peerDependencies:
-      '@mantine/hooks': 8.3.2
+      '@mantine/hooks': 8.3.3
       react: ^18.x || ^19.x
       react-dom: ^18.x || ^19.x
 
-  '@mantine/hooks@8.3.2':
-    resolution: {integrity: sha512-urDgQJNAs2t2mAyGaA+7uNsBMRn9U/ccvi+ZUl5ef3/Wzfv5KYHe9LA9DBNhn24BTSewxrI27W0EFpFxv/Jsbg==}
+  '@mantine/hooks@8.3.3':
+    resolution: {integrity: sha512-nmspxbFSjFkimRXYhgAujnyBwGeAWDSP1WKHFR+Yl5x3Q0IkmsiOTE9yJPjMjmjffZfunFXQFwQDl1OF3m42Pw==}
     peerDependencies:
       react: ^18.x || ^19.x
 
@@ -1165,8 +1156,8 @@ packages:
     resolution: {integrity: sha512-cOZZOVhDSulgK0meTsTkmNXb1ahVvmTmWmfx9gRBwc6hq98wS9JP35ESIoNq3xqEan+UN+gn8187Z6E4NKhLsw==}
     hasBin: true
 
-  '@maplibre/maplibre-gl-style-spec@24.1.1':
-    resolution: {integrity: sha512-xErR4lvMdzPNTxmglGEhSZxeyG55OusHjGhcPSrdZUnskBMPliVBQBxuzevmkQkb8gnl/UGDCYR+Byy3rkAgYQ==}
+  '@maplibre/maplibre-gl-style-spec@24.2.0':
+    resolution: {integrity: sha512-cE80g83fRcBbZbQC70siOUxUK6YJ/5ZkClDZbmm+hzrUbv+J6yntkMmcpdz9DbOrWOM7FHKR5rruc6Q/hWx5cA==}
     hasBin: true
 
   '@maplibre/vt-pbf@4.0.3':
@@ -1573,8 +1564,8 @@ packages:
   '@swc/helpers@0.5.17':
     resolution: {integrity: sha512-5IKx/Y13RsYd+sauPb2x+U/xZikHjolzfuDgTAl/Tdf3Q8rslRvC19NKDLgAJQ6wsqADk10ntlv08nPFw/gO/A==}
 
-  '@tanstack/history@1.132.21':
-    resolution: {integrity: sha512-5ziPz3YarKU5cBJoEJ4muV8cy+5W4oWdJMqW7qosMrK5fb9Qfm+QWX+kO3emKJMu4YOUofVu3toEuuD3x1zXKw==}
+  '@tanstack/history@1.132.31':
+    resolution: {integrity: sha512-UCHM2uS0t/uSszqPEo+SBSSoQVeQ+LlOWAVBl5SA7+AedeAbKafIPjFn8huZCXNLAYb0WKV2+wETr7lDK9uz7g==}
     engines: {node: '>=12'}
 
   '@tanstack/query-core@5.90.2':
@@ -1585,8 +1576,8 @@ packages:
     peerDependencies:
       react: ^18 || ^19
 
-  '@tanstack/react-router@1.132.23':
-    resolution: {integrity: sha512-k/ffpPwWWUyPp4FS7EJR2zIWWdU7XvQwlI2eK+NQOCXNX8SA+Kyy73rAedOb0JUFAuGPF36ySP15IH7mzTB+Xg==}
+  '@tanstack/react-router@1.132.41':
+    resolution: {integrity: sha512-KaQhU3lsxYgwa02EuxskOrMGI+EWSZ03F4Ac4NNReWK041iOIzYM5RbluyMNAEAv7gWJsysZOzG2/dbuR/8JHg==}
     engines: {node: '>=12'}
     peerDependencies:
       react: '>=18.0.0 || >=19.0.0'
@@ -1598,40 +1589,40 @@ packages:
       react: ^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0
       react-dom: ^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0
 
-  '@tanstack/router-core@1.132.21':
-    resolution: {integrity: sha512-C+Pe/p6EwMs9DIPBfAXoNtbp1POo/abfl4AEWsDXNAnjVr2OB6aHFMIENUJx1cjs6zUT/4t9FtA/+zptSWtv9A==}
+  '@tanstack/router-core@1.132.41':
+    resolution: {integrity: sha512-NW1KWvhaMZpRlRtrr433xe5RErqUVRwnbwhWJWrqVkkZL5R2c/aH9dcW1xTKkEFX2k4VZkFpVJ181iPHYOktUA==}
     engines: {node: '>=12'}
 
   '@tanstack/store@0.7.0':
     resolution: {integrity: sha512-CNIhdoUsmD2NolYuaIs8VfWM467RK6oIBAW4nPEKZhg1smZ+/CwtCdpURgp7nxSqOaV9oKkzdWD80+bC66F/Jg==}
 
-  '@trapar-waves/cli-template@1.1.14':
-    resolution: {integrity: sha512-jv5xO2O2wShH3B/llltw7x2FQ3Apt1R+I4GCRdZ1oOnQuFdHe69ky9H9928RPCCoJrePWgpsiyDXITkkWx6muQ==}
+  '@trapar-waves/cli-template@1.1.15':
+    resolution: {integrity: sha512-Xok2Oz+Iex9lNCsc3U5fG7uk3PvsiC+PHeEIp+Q373om1xR/Sm+lrjGvXJB4aENQCaGNgIPTWBFNaQaCeAV1Ow==}
     hasBin: true
 
-  '@trapar-waves/llm-template@1.1.14':
-    resolution: {integrity: sha512-JcqH76XYa+/+FXbVzHh2Y42DH/fmIlwz1ZCoV2fIK8z3CfJz3XDrBEWKdXy59rre5FmZt0/nzSKIAabv+dH/6g==}
+  '@trapar-waves/llm-template@1.1.15':
+    resolution: {integrity: sha512-I0QolhM6WIWWP2YH7nkhEIBkm6YR1Rwgh8YS30Xm4IlX1wCgBZgPvatnGixDkl1wOd2702liws/45ARG9SyF2g==}
 
-  '@trapar-waves/react-antd-pro@1.1.14':
-    resolution: {integrity: sha512-nFOAxyvBCv8LA1l3XYGK9357rfeQder6mQoi6NB3By11IklgfvL6S/A9O/zTTk5iJ+AfGWql7CzsTgDNEa/POA==}
+  '@trapar-waves/react-antd-pro@1.1.15':
+    resolution: {integrity: sha512-94fMx4QV1RkQjGs9nkQNdp7ie8ulut3aGkIS6EyGrUCq4xcR5dCXIzr6TcLo/7ereiElOoff7FFaGC2tIF4vFA==}
 
-  '@trapar-waves/react-mantine-tailwind@1.1.14':
-    resolution: {integrity: sha512-35WfFm6fc8LRBBNw1tp5czbiBwJzl8TBgGQrRZDeTuz9Clq71SCmr39y+w/w7zejTPtznuL6H6DU29MN112Pjw==}
+  '@trapar-waves/react-mantine-tailwind@1.1.15':
+    resolution: {integrity: sha512-8u8Ld4p6Z+sytPfMgY22/0YRrW3BJnv8PZKWn5J7W1DJNQOVtRcUF/znHtKEXdJDnEdCiHf8rM7fWjy1W1GODg==}
 
-  '@trapar-waves/react-tailwind@1.1.14':
-    resolution: {integrity: sha512-PZqHxH760zU79R9wUkix7DfxvwotWQ7//h8r01bb0O8cmemdmk4Kw0NKOrFW81wMp3ODYPzmpUdUhMziVINqVA==}
+  '@trapar-waves/react-tailwind@1.1.15':
+    resolution: {integrity: sha512-A/lFMggkFwJSB+JjCswXbVYhpU3raLXapzcHS5AV7TPoZYBo7sTPqi0Ajgtqyls2zkNahFkcDf0s6uAWjmiY/A==}
 
-  '@trapar-waves/react-tanstack@1.1.14':
-    resolution: {integrity: sha512-Wpzk1KL1/so9d9MYjNAs+RJcJ4IFuq4BiHqqDWiDht4Zh61mqPZxBX2JbApJElDOM7oIm9PwZhGNQK9r/VsToQ==}
+  '@trapar-waves/react-tanstack@1.1.15':
+    resolution: {integrity: sha512-y54kwEDqSc/6F4htZ+sfiyoY8AYKh/6H5OoJKTlFEcirHcZLalUsjzVXnaGbWb+em6K+BncKTxtSTMlyLhf0bw==}
 
-  '@trapar-waves/react-three-maplibre@1.1.14':
-    resolution: {integrity: sha512-/8a8fFL92jnA3UP7NBHMbn6+Nfs8q7Lzju8/Y+fFi/6Mmpx5q/Iul8/ICLj3g4Eu9WCkClUbNnh3DQgyvWq0YA==}
+  '@trapar-waves/react-three-maplibre@1.1.15':
+    resolution: {integrity: sha512-kT59watbrWvH3vBcS25BLwjU00Tds6zClR+4cvQLqHKYPhcH5AT43geM/rcN/NIOToXIhXuqa1mlHWa4hZbn9Q==}
 
-  '@trapar-waves/react-visgl-maplibre@1.1.14':
-    resolution: {integrity: sha512-t9DSwfE1mHq2BlEYU7lON2LaKlhibY7X/k4s9gtzYU7nZHLkkNS49RMTWuJ+fOsLU4H3+npfIOILI3YW0Hr5Ag==}
+  '@trapar-waves/react-visgl-maplibre@1.1.15':
+    resolution: {integrity: sha512-Nr0KWnWpvIs+29L+pAlNURIcbqaQlQqckMzLpfQWWxJPYHiHQdXEBA64+Itp0SnqFGoWoKYH8rpu1cRcwzzd2A==}
 
-  '@trapar-waves/vue-tailwind@1.1.14':
-    resolution: {integrity: sha512-eeCtoUgktjkgXF5Gz6Arb//AqlBHnf9qh/gyD8QnXmuPvQy3E2tH2k/Wd6oAX+gIiuCxn0jBvl5hgXCppWnYWw==}
+  '@trapar-waves/vue-tailwind@1.1.15':
+    resolution: {integrity: sha512-agzDEabcgkPLDRRfdCudXO7T8K64oKqF/ORfksZPQQhE5AYM0SJcdJv5DXM9b06I+zSPSClhRbXxXShsiJMgjg==}
 
   '@turf/bbox-clip@7.2.0':
     resolution: {integrity: sha512-q6RXTpqeUQAYLAieUL1n3J6ukRGsNVDOqcYtfzaJbPW+0VsAf+1cI16sN700t0sekbeU1DH/RRVAHhpf8+36wA==}
@@ -2002,8 +1993,12 @@ packages:
     resolution: {integrity: sha512-8r4TNknD7OJQADe3VygeofFR7UNAXZ2/jjBFP5dgI8+2uMfnuGYgbuHivasKr9WSQ64sPej6m8rDoM1uSllXjQ==}
     engines: {node: ^12.20.0 || ^14.13.1 || >=16.0.0}
 
-  '@vis.gl/react-mapbox@8.0.4':
-    resolution: {integrity: sha512-NFk0vsWcNzSs0YCsVdt2100Zli9QWR+pje8DacpLkkGEAXFaJsFtI1oKD0Hatiate4/iAIW39SQHhgfhbeEPfQ==}
+  '@vercel/oidc@3.0.1':
+    resolution: {integrity: sha512-V/YRVrJDqM6VaMBjRUrd6qRMrTKvZjHdVdEmdXsOZMulTa3iK98ijKTc3wldBmst6W5rHpqMoKllKcBAHgN7GQ==}
+    engines: {node: '>= 20'}
+
+  '@vis.gl/react-mapbox@8.1.0':
+    resolution: {integrity: sha512-FwvH822oxEjWYOr+pP2L8hpv+7cZB2UsQbHHHT0ryrkvvqzmTgt7qHDhamv0EobKw86e1I+B4ojENdJ5G5BkyQ==}
     peerDependencies:
       mapbox-gl: '>=3.5.0'
       react: '>=16.3.0'
@@ -2012,8 +2007,8 @@ packages:
       mapbox-gl:
         optional: true
 
-  '@vis.gl/react-maplibre@8.0.4':
-    resolution: {integrity: sha512-HwZyfLjEu+y1mUFvwDAkVxinGm8fEegaWN+O8np/WZ2Sqe5Lv6OXFpV6GWz9LOEvBYMbGuGk1FQdejo+4HCJ5w==}
+  '@vis.gl/react-maplibre@8.1.0':
+    resolution: {integrity: sha512-PkAK/gp3mUfhCLhUuc+4gc3PN9zCtVGxTF2hB6R5R5yYUw+hdg84OZ770U5MU4tPMTCG6fbduExuIW6RRKN6qQ==}
     peerDependencies:
       maplibre-gl: '>=4.0.0'
       react: '>=16.3.0'
@@ -2128,8 +2123,8 @@ packages:
   add-dom-event-listener@1.1.0:
     resolution: {integrity: sha512-WCxx1ixHT0GQU9hb0KI/mhgRQhnU+U3GvwY6ZvVjYq8rsihIGoaIOUbY0yMPBxLH5MDtr0kz3fisWGNcbWW7Jw==}
 
-  ai@5.0.56:
-    resolution: {integrity: sha512-Rl++Ogg6DxzFkVHAOJZzhqcqvqtBLGOP9mMxJOGr2EJWj5HH5zjqDcnRh6x5vBoca5kj/Gd0rvUZFMnyI+sRiw==}
+  ai@5.0.60:
+    resolution: {integrity: sha512-80U/3kmdBW6g+JkLXpz/P2EwkyEaWlPlYtuLUpx/JYK9F7WZh9NnkYoh1KvUi1Sbpo0NyurBTvX0a2AG9mmbDA==}
     engines: {node: '>=18'}
     peerDependencies:
       zod: ^3.25.76 || ^4.1.8
@@ -2490,8 +2485,8 @@ packages:
       supports-color:
         optional: true
 
-  deck.gl@9.1.14:
-    resolution: {integrity: sha512-y6gBkHlGU5XpxnNOy5POE9oA1m6GAJURvB9cBgRAcnDidVfpY4VZT75a5034T09fKBQK0zB/kzHs/2VGZrfrWw==}
+  deck.gl@9.1.15:
+    resolution: {integrity: sha512-iJz8FelqonAetaNxaAlQcSmbgGJx+J1Q4KGUR5wy/4FtyTrolNrva0nLpoBWkRxMfC1dCUZNX9BFwopxoapkEA==}
     peerDependencies:
       '@arcgis/core': ^4.0.0
       react: '>=16.3.0'
@@ -3379,8 +3374,8 @@ packages:
     resolution: {integrity: sha512-krg2KFIdOpLPngONDhP6ixCoWl5kbdMINP0moMSJFVX7wX1Clm2M9hlNKXS8vBGlVWwR5R3ZfI6IPrYz7c+aCQ==}
     engines: {node: '>=16.14.0', npm: '>=8.1.0'}
 
-  maplibre-gl@5.7.3:
-    resolution: {integrity: sha512-T6XsjwcSfOr0vtAt4GTzx4m/vD6nrbR0+61MgMzZ9REQwILSEnhqwNpFuFbDedX6LC3ZWjZWnxN7fN/I66WoDQ==}
+  maplibre-gl@5.8.0:
+    resolution: {integrity: sha512-zLblPFK+z5sxeitDF8RL2cnqfRaivNwxbGoQMfwAm9st6d1lRGTxgI7NNNr/U1AEPkp5+X+wjROagiHvJD8aqg==}
     engines: {node: '>=16.14.0', npm: '>=8.1.0'}
 
   markdown-table@3.0.4:
@@ -4054,10 +4049,10 @@ packages:
       react: '>=16.9.0'
       react-dom: '>=16.9.0'
 
-  react-dom@19.1.1:
-    resolution: {integrity: sha512-Dlq/5LAZgF0Gaz6yiqZCf6VCcZs1ghAJyrsu84Q/GT0gV+mCxbfmKNoGRKBYMJ8IEdGPqu49YWXD02GCknEDkw==}
+  react-dom@19.2.0:
+    resolution: {integrity: sha512-UlbRu4cAiGaIewkPyiRGJk0imDN2T3JjieT6spoL2UeSf5od4n5LB/mQ4ejmxhCFT1tYe8IvaFulzynWovsEFQ==}
     peerDependencies:
-      react: ^19.1.1
+      react: ^19.2.0
 
   react-is@16.13.1:
     resolution: {integrity: sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==}
@@ -4068,8 +4063,8 @@ packages:
   react-lifecycles-compat@3.0.4:
     resolution: {integrity: sha512-fBASbA6LnOU9dOU2eW7aQ8xmYBSXUIWr+UmF9b1efZBazGNO+rcXT/icdKnYm2pTwcRylVUYwW7H1PHfLekVzA==}
 
-  react-map-gl@8.0.4:
-    resolution: {integrity: sha512-SHdpvFIvswsZBg6BCPcwY/nbKuCo3sJM1Cj7Sd+gA3gFRFOixD+KtZ2XSuUWq2WySL2emYEXEgrLZoXsV4Ut4Q==}
+  react-map-gl@8.1.0:
+    resolution: {integrity: sha512-vDx/QXR3Tb+8/ap/z6gdMjJQ8ZEyaZf6+uMSPz7jhWF5VZeIsKsGfPvwHVPPwGF43Ryn+YR4bd09uEFNR5OPdg==}
     peerDependencies:
       mapbox-gl: '>=1.13.0'
       maplibre-gl: '>=1.13.0'
@@ -4173,8 +4168,8 @@ packages:
       react-dom:
         optional: true
 
-  react@19.1.1:
-    resolution: {integrity: sha512-w8nqGImo45dmMIfljjMwOGtbmC/mk4CMYhWIicdSflH91J9TyCyczcPFXJzrZ/ZXcgGRFeP6BU0BEJTw6tZdfQ==}
+  react@19.2.0:
+    resolution: {integrity: sha512-tmbWg6W31tQLeB5cdIBOicJDJRR2KzXsV7uSK9iNfLWQ5bIZfxuPEHp7M8wiHyHnn0DD1i7w3Zmin0FtkrwoCQ==}
     engines: {node: '>=0.10.0'}
 
   reactcss@1.2.3:
@@ -4268,8 +4263,8 @@ packages:
   scheduler@0.25.0:
     resolution: {integrity: sha512-xFVuu11jh+xcO7JOAGJNOXld8/TcEHK/4CituBUeUb5hqxJLj9YuemAEuvm9gQ/+pgXYfbQuqAkiYu+u7YEsNA==}
 
-  scheduler@0.26.0:
-    resolution: {integrity: sha512-NlHwttCI/l5gCPR3D1nNXtWABUmBwvZpEQiD4IXSbIDq8BzLIK/7Ir5gTFSGZDUu37K5cMNp0hFtzO38sC7gWA==}
+  scheduler@0.27.0:
+    resolution: {integrity: sha512-eNv+WrVbKu1f3vbYJT/xtiF5syA5HPIMtf9IgY/nKg0sWqzAUEvqY/xm7OcZc/qafLx/iO9FgOmeSAp4v5ti/Q==}
 
   scroll-into-view-if-needed@3.1.0:
     resolution: {integrity: sha512-49oNpRjWRvnU8NyGVmUaYG4jtTkNonFZI86MmGRDqBphEK2EXT9gdEUoQPZhuBM8yWHxCWbobltqYO5M4XrUvQ==}
@@ -4875,13 +4870,14 @@ packages:
 
 snapshots:
 
-  '@ai-sdk/gateway@1.0.30(zod@4.1.11)':
+  '@ai-sdk/gateway@1.0.33(zod@4.1.11)':
     dependencies:
       '@ai-sdk/provider': 2.0.0
       '@ai-sdk/provider-utils': 3.0.10(zod@4.1.11)
+      '@vercel/oidc': 3.0.1
       zod: 4.1.11
 
-  '@ai-sdk/openai@2.0.38(zod@4.1.11)':
+  '@ai-sdk/openai@2.0.42(zod@4.1.11)':
     dependencies:
       '@ai-sdk/provider': 2.0.0
       '@ai-sdk/provider-utils': 3.0.10(zod@4.1.11)
@@ -4909,24 +4905,24 @@ snapshots:
     dependencies:
       '@ant-design/fast-color': 2.0.6
 
-  '@ant-design/cssinjs-utils@1.1.3(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
+  '@ant-design/cssinjs-utils@1.1.3(react-dom@19.2.0(react@19.2.0))(react@19.2.0)':
     dependencies:
-      '@ant-design/cssinjs': 1.23.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      '@ant-design/cssinjs': 1.23.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       '@babel/runtime': 7.27.1
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  '@ant-design/cssinjs@1.23.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
+  '@ant-design/cssinjs@1.23.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)':
     dependencies:
       '@babel/runtime': 7.27.1
       '@emotion/hash': 0.8.0
       '@emotion/unitless': 0.7.5
       classnames: 2.5.1
       csstype: 3.1.3
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
       stylis: 4.3.6
 
   '@ant-design/fast-color@2.0.6':
@@ -4935,218 +4931,218 @@ snapshots:
 
   '@ant-design/icons-svg@4.4.2': {}
 
-  '@ant-design/icons@5.6.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
+  '@ant-design/icons@5.6.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0)':
     dependencies:
       '@ant-design/colors': 7.2.1
       '@ant-design/icons-svg': 4.4.2
       '@babel/runtime': 7.27.1
       classnames: 2.5.1
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  '@ant-design/pro-card@2.10.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
+  '@ant-design/pro-card@2.10.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)':
     dependencies:
-      '@ant-design/cssinjs': 1.23.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/icons': 5.6.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/pro-provider': 2.16.2(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/pro-utils': 2.18.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      '@ant-design/cssinjs': 1.23.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/icons': 5.6.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/pro-provider': 2.16.2(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/pro-utils': 2.18.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       '@babel/runtime': 7.27.1
-      antd: 5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      antd: 5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       classnames: 2.5.1
-      rc-resize-observer: 1.4.3(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
+      rc-resize-observer: 1.4.3(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
     transitivePeerDependencies:
       - react-dom
 
-  '@ant-design/pro-components@2.8.10(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(rc-field-form@2.7.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
+  '@ant-design/pro-components@2.8.10(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(rc-field-form@2.7.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)':
     dependencies:
-      '@ant-design/pro-card': 2.10.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/pro-descriptions': 2.6.10(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(rc-field-form@2.7.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/pro-field': 3.1.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/pro-form': 2.32.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(rc-field-form@2.7.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/pro-layout': 7.22.7(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/pro-list': 2.6.10(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(rc-field-form@2.7.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/pro-provider': 2.16.2(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/pro-skeleton': 2.2.1(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/pro-table': 3.21.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(rc-field-form@2.7.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/pro-utils': 2.18.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      '@ant-design/pro-card': 2.10.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/pro-descriptions': 2.6.10(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(rc-field-form@2.7.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/pro-field': 3.1.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/pro-form': 2.32.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(rc-field-form@2.7.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/pro-layout': 7.22.7(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/pro-list': 2.6.10(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(rc-field-form@2.7.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/pro-provider': 2.16.2(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/pro-skeleton': 2.2.1(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/pro-table': 3.21.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(rc-field-form@2.7.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/pro-utils': 2.18.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       '@babel/runtime': 7.27.1
-      antd: 5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      antd: 5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
     transitivePeerDependencies:
       - rc-field-form
 
-  '@ant-design/pro-descriptions@2.6.10(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(rc-field-form@2.7.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
+  '@ant-design/pro-descriptions@2.6.10(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(rc-field-form@2.7.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)':
     dependencies:
-      '@ant-design/pro-field': 3.1.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/pro-form': 2.32.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(rc-field-form@2.7.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/pro-provider': 2.16.2(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/pro-skeleton': 2.2.1(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/pro-utils': 2.18.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      '@ant-design/pro-field': 3.1.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/pro-form': 2.32.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(rc-field-form@2.7.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/pro-provider': 2.16.2(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/pro-skeleton': 2.2.1(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/pro-utils': 2.18.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       '@babel/runtime': 7.27.1
-      antd: 5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-resize-observer: 0.2.6(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
+      antd: 5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-resize-observer: 0.2.6(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
     transitivePeerDependencies:
       - rc-field-form
       - react-dom
 
-  '@ant-design/pro-field@3.1.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
+  '@ant-design/pro-field@3.1.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)':
     dependencies:
-      '@ant-design/icons': 5.6.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/pro-provider': 2.16.2(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/pro-utils': 2.18.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      '@ant-design/icons': 5.6.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/pro-provider': 2.16.2(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/pro-utils': 2.18.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       '@babel/runtime': 7.27.1
-      '@chenshuai2144/sketch-color': 1.0.9(react@19.1.1)
-      antd: 5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      '@chenshuai2144/sketch-color': 1.0.9(react@19.2.0)
+      antd: 5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       classnames: 2.5.1
       dayjs: 1.11.13
       lodash: 4.17.21
       lodash-es: 4.17.21
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      swr: 2.3.3(react@19.1.1)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      swr: 2.3.3(react@19.2.0)
     transitivePeerDependencies:
       - react-dom
 
-  '@ant-design/pro-form@2.32.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(rc-field-form@2.7.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
+  '@ant-design/pro-form@2.32.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(rc-field-form@2.7.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)':
     dependencies:
-      '@ant-design/icons': 5.6.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/pro-field': 3.1.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/pro-provider': 2.16.2(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/pro-utils': 2.18.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      '@ant-design/icons': 5.6.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/pro-field': 3.1.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/pro-provider': 2.16.2(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/pro-utils': 2.18.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       '@babel/runtime': 7.27.1
-      '@chenshuai2144/sketch-color': 1.0.9(react@19.1.1)
-      '@umijs/use-params': 1.0.9(react@19.1.1)
-      antd: 5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      '@chenshuai2144/sketch-color': 1.0.9(react@19.2.0)
+      '@umijs/use-params': 1.0.9(react@19.2.0)
+      antd: 5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       classnames: 2.5.1
       dayjs: 1.11.13
       lodash: 4.17.21
       lodash-es: 4.17.21
-      rc-field-form: 2.7.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-resize-observer: 1.4.3(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-field-form: 2.7.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-resize-observer: 1.4.3(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  '@ant-design/pro-layout@7.22.7(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
+  '@ant-design/pro-layout@7.22.7(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)':
     dependencies:
-      '@ant-design/cssinjs': 1.23.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/icons': 5.6.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/pro-provider': 2.16.2(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/pro-utils': 2.18.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      '@ant-design/cssinjs': 1.23.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/icons': 5.6.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/pro-provider': 2.16.2(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/pro-utils': 2.18.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       '@babel/runtime': 7.27.1
       '@umijs/route-utils': 4.0.1
-      '@umijs/use-params': 1.0.9(react@19.1.1)
-      antd: 5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      '@umijs/use-params': 1.0.9(react@19.2.0)
+      antd: 5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       classnames: 2.5.1
       lodash: 4.17.21
       lodash-es: 4.17.21
       path-to-regexp: 8.2.0
-      rc-resize-observer: 1.4.3(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
-      swr: 2.3.3(react@19.1.1)
+      rc-resize-observer: 1.4.3(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
+      swr: 2.3.3(react@19.2.0)
       warning: 4.0.3
 
-  '@ant-design/pro-list@2.6.10(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(rc-field-form@2.7.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
+  '@ant-design/pro-list@2.6.10(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(rc-field-form@2.7.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)':
     dependencies:
-      '@ant-design/cssinjs': 1.23.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/icons': 5.6.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/pro-card': 2.10.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/pro-field': 3.1.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/pro-table': 3.21.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(rc-field-form@2.7.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/pro-utils': 2.18.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      '@ant-design/cssinjs': 1.23.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/icons': 5.6.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/pro-card': 2.10.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/pro-field': 3.1.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/pro-table': 3.21.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(rc-field-form@2.7.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/pro-utils': 2.18.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       '@babel/runtime': 7.27.1
-      antd: 5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      antd: 5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       classnames: 2.5.1
       dayjs: 1.11.13
-      rc-resize-observer: 1.4.3(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      rc-resize-observer: 1.4.3(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       rc-util: 4.21.1
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
     transitivePeerDependencies:
       - rc-field-form
 
-  '@ant-design/pro-provider@2.16.2(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
+  '@ant-design/pro-provider@2.16.2(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)':
     dependencies:
-      '@ant-design/cssinjs': 1.23.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      '@ant-design/cssinjs': 1.23.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       '@babel/runtime': 7.27.1
       '@ctrl/tinycolor': 3.6.1
-      antd: 5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      antd: 5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       dayjs: 1.11.13
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
-      swr: 2.3.3(react@19.1.1)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
+      swr: 2.3.3(react@19.2.0)
 
-  '@ant-design/pro-skeleton@2.2.1(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
+  '@ant-design/pro-skeleton@2.2.1(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)':
     dependencies:
       '@babel/runtime': 7.27.1
-      antd: 5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      antd: 5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  '@ant-design/pro-table@3.21.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(rc-field-form@2.7.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
+  '@ant-design/pro-table@3.21.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(rc-field-form@2.7.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)':
     dependencies:
-      '@ant-design/cssinjs': 1.23.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/icons': 5.6.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/pro-card': 2.10.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/pro-field': 3.1.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/pro-form': 2.32.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(rc-field-form@2.7.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/pro-provider': 2.16.2(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/pro-utils': 2.18.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      '@ant-design/cssinjs': 1.23.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/icons': 5.6.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/pro-card': 2.10.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/pro-field': 3.1.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/pro-form': 2.32.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(rc-field-form@2.7.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/pro-provider': 2.16.2(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/pro-utils': 2.18.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       '@babel/runtime': 7.27.1
-      '@dnd-kit/core': 6.3.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@dnd-kit/modifiers': 6.0.1(@dnd-kit/core@6.3.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react@19.1.1)
-      '@dnd-kit/sortable': 7.0.2(@dnd-kit/core@6.3.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react@19.1.1)
-      '@dnd-kit/utilities': 3.2.2(react@19.1.1)
-      antd: 5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      '@dnd-kit/core': 6.3.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@dnd-kit/modifiers': 6.0.1(@dnd-kit/core@6.3.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react@19.2.0)
+      '@dnd-kit/sortable': 7.0.2(@dnd-kit/core@6.3.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react@19.2.0)
+      '@dnd-kit/utilities': 3.2.2(react@19.2.0)
+      antd: 5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       classnames: 2.5.1
       dayjs: 1.11.13
       lodash: 4.17.21
       lodash-es: 4.17.21
-      rc-field-form: 2.7.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-resize-observer: 1.4.3(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-field-form: 2.7.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-resize-observer: 1.4.3(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  '@ant-design/pro-utils@2.18.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
+  '@ant-design/pro-utils@2.18.0(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)':
     dependencies:
-      '@ant-design/icons': 5.6.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/pro-provider': 2.16.2(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      '@ant-design/icons': 5.6.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/pro-provider': 2.16.2(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       '@babel/runtime': 7.27.1
-      antd: 5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      antd: 5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       classnames: 2.5.1
       dayjs: 1.11.13
       lodash: 4.17.21
       lodash-es: 4.17.21
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
       safe-stable-stringify: 2.5.0
-      swr: 2.3.3(react@19.1.1)
+      swr: 2.3.3(react@19.2.0)
 
-  '@ant-design/react-slick@1.1.2(react@19.1.1)':
+  '@ant-design/react-slick@1.1.2(react@19.2.0)':
     dependencies:
       '@babel/runtime': 7.27.1
       classnames: 2.5.1
       json2mq: 0.2.0
-      react: 19.1.1
+      react: 19.2.0
       resize-observer-polyfill: 1.5.1
       throttle-debounce: 5.0.2
 
-  '@ant-design/v5-patch-for-react-19@1.0.3(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
+  '@ant-design/v5-patch-for-react-19@1.0.3(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)':
     dependencies:
-      antd: 5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      antd: 5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
   '@antfu/eslint-config@5.4.1(@vue/compiler-sfc@3.5.22)(eslint-plugin-format@1.0.2(eslint@9.37.0(jiti@2.6.0)))(eslint@9.37.0(jiti@2.6.0))(typescript@5.9.3)(vitest@3.2.4(@types/debug@4.1.12)(@types/node@24.7.0)(jiti@2.6.0)(tsx@4.20.6)(yaml@2.8.1))':
     dependencies:
@@ -5429,10 +5425,10 @@ snapshots:
       '@babel/helper-compilation-targets': 7.27.2
       '@babel/helper-module-transforms': 7.27.1(@babel/core@7.27.1)
       '@babel/helpers': 7.27.1
-      '@babel/parser': 7.28.3
+      '@babel/parser': 7.28.4
       '@babel/template': 7.27.2
       '@babel/traverse': 7.27.1
-      '@babel/types': 7.28.2
+      '@babel/types': 7.28.4
       convert-source-map: 2.0.0
       debug: 4.4.3
       gensync: 1.0.0-beta.2
@@ -5443,8 +5439,8 @@ snapshots:
 
   '@babel/generator@7.27.1':
     dependencies:
-      '@babel/parser': 7.28.3
-      '@babel/types': 7.28.2
+      '@babel/parser': 7.28.4
+      '@babel/types': 7.28.4
       '@jridgewell/gen-mapping': 0.3.8
       '@jridgewell/trace-mapping': 0.3.25
       jsesc: 3.1.0
@@ -5460,7 +5456,7 @@ snapshots:
   '@babel/helper-module-imports@7.27.1':
     dependencies:
       '@babel/traverse': 7.27.1
-      '@babel/types': 7.28.2
+      '@babel/types': 7.28.4
     transitivePeerDependencies:
       - supports-color
 
@@ -5482,11 +5478,7 @@ snapshots:
   '@babel/helpers@7.27.1':
     dependencies:
       '@babel/template': 7.27.2
-      '@babel/types': 7.28.2
-
-  '@babel/parser@7.28.3':
-    dependencies:
-      '@babel/types': 7.28.2
+      '@babel/types': 7.28.4
 
   '@babel/parser@7.28.4':
     dependencies:
@@ -5497,25 +5489,20 @@ snapshots:
   '@babel/template@7.27.2':
     dependencies:
       '@babel/code-frame': 7.27.1
-      '@babel/parser': 7.28.3
-      '@babel/types': 7.28.2
+      '@babel/parser': 7.28.4
+      '@babel/types': 7.28.4
 
   '@babel/traverse@7.27.1':
     dependencies:
       '@babel/code-frame': 7.27.1
       '@babel/generator': 7.27.1
-      '@babel/parser': 7.28.3
+      '@babel/parser': 7.28.4
       '@babel/template': 7.27.2
-      '@babel/types': 7.28.2
+      '@babel/types': 7.28.4
       debug: 4.4.3
       globals: 11.12.0
     transitivePeerDependencies:
       - supports-color
-
-  '@babel/types@7.28.2':
-    dependencies:
-      '@babel/helper-string-parser': 7.27.1
-      '@babel/helper-validator-identifier': 7.27.1
 
   '@babel/types@7.28.4':
     dependencies:
@@ -5540,10 +5527,10 @@ snapshots:
     transitivePeerDependencies:
       - '@loaders.gl/core'
 
-  '@chenshuai2144/sketch-color@1.0.9(react@19.1.1)':
+  '@chenshuai2144/sketch-color@1.0.9(react@19.2.0)':
     dependencies:
-      react: 19.1.1
-      reactcss: 1.2.3(react@19.1.1)
+      react: 19.2.0
+      reactcss: 1.2.3(react@19.2.0)
       tinycolor2: 1.6.0
 
   '@clack/core@0.3.5':
@@ -5570,36 +5557,36 @@ snapshots:
 
   '@ctrl/tinycolor@3.6.1': {}
 
-  '@deck.gl/aggregation-layers@9.1.14(@deck.gl/core@9.1.14)(@deck.gl/layers@9.1.14(@deck.gl/core@9.1.14)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))))(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1)))':
+  '@deck.gl/aggregation-layers@9.1.15(@deck.gl/core@9.1.15)(@deck.gl/layers@9.1.15(@deck.gl/core@9.1.15)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))))(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2)))':
     dependencies:
-      '@deck.gl/core': 9.1.14
-      '@deck.gl/layers': 9.1.14(@deck.gl/core@9.1.14)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1)))
+      '@deck.gl/core': 9.1.15
+      '@deck.gl/layers': 9.1.15(@deck.gl/core@9.1.15)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2)))
       '@luma.gl/constants': 9.1.9
-      '@luma.gl/core': 9.2.1
-      '@luma.gl/engine': 9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))
+      '@luma.gl/core': 9.2.2
+      '@luma.gl/engine': 9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))
       '@luma.gl/shadertools': 9.1.9(@luma.gl/core@9.1.9)
       '@math.gl/core': 4.1.0
       '@math.gl/web-mercator': 4.1.0
       d3-hexbin: 0.2.2
 
-  '@deck.gl/arcgis@9.1.14(@arcgis/core@4.32.10)(@deck.gl/core@9.1.14)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1)))(@luma.gl/webgl@9.2.1(@luma.gl/core@9.2.1))':
+  '@deck.gl/arcgis@9.1.15(@arcgis/core@4.32.10)(@deck.gl/core@9.1.15)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2)))(@luma.gl/webgl@9.2.2(@luma.gl/core@9.2.2))':
     dependencies:
       '@arcgis/core': 4.32.10
-      '@deck.gl/core': 9.1.14
+      '@deck.gl/core': 9.1.15
       '@luma.gl/constants': 9.1.9
       '@luma.gl/core': 9.1.9
-      '@luma.gl/engine': 9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))
-      '@luma.gl/webgl': 9.2.1(@luma.gl/core@9.2.1)
+      '@luma.gl/engine': 9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))
+      '@luma.gl/webgl': 9.2.2(@luma.gl/core@9.2.2)
       esri-loader: 3.7.0
 
-  '@deck.gl/carto@9.1.14(a21e023e1ff0c8cdb7c88487649d848c)':
+  '@deck.gl/carto@9.1.15(d3f59ae238468f3a21ce5db37aab08ed)':
     dependencies:
       '@carto/api-client': 0.4.9(@loaders.gl/core@4.3.4)
-      '@deck.gl/aggregation-layers': 9.1.14(@deck.gl/core@9.1.14)(@deck.gl/layers@9.1.14(@deck.gl/core@9.1.14)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))))(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1)))
-      '@deck.gl/core': 9.1.14
-      '@deck.gl/extensions': 9.1.14(@deck.gl/core@9.1.14)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1)))
-      '@deck.gl/geo-layers': 9.1.14(@deck.gl/core@9.1.14)(@deck.gl/extensions@9.1.14(@deck.gl/core@9.1.14)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))))(@deck.gl/layers@9.1.14(@deck.gl/core@9.1.14)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))))(@deck.gl/mesh-layers@9.1.14(@deck.gl/core@9.1.14)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))))(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1)))
-      '@deck.gl/layers': 9.1.14(@deck.gl/core@9.1.14)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1)))
+      '@deck.gl/aggregation-layers': 9.1.15(@deck.gl/core@9.1.15)(@deck.gl/layers@9.1.15(@deck.gl/core@9.1.15)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))))(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2)))
+      '@deck.gl/core': 9.1.15
+      '@deck.gl/extensions': 9.1.15(@deck.gl/core@9.1.15)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2)))
+      '@deck.gl/geo-layers': 9.1.15(@deck.gl/core@9.1.15)(@deck.gl/extensions@9.1.15(@deck.gl/core@9.1.15)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))))(@deck.gl/layers@9.1.15(@deck.gl/core@9.1.15)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))))(@deck.gl/mesh-layers@9.1.15(@deck.gl/core@9.1.15)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))))(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2)))
+      '@deck.gl/layers': 9.1.15(@deck.gl/core@9.1.15)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2)))
       '@loaders.gl/compression': 4.3.4(@loaders.gl/core@4.3.4)
       '@loaders.gl/core': 4.3.4
       '@loaders.gl/gis': 4.3.3(@loaders.gl/core@4.3.4)
@@ -5624,13 +5611,13 @@ snapshots:
       pbf: 3.3.0
       quadbin: 0.4.2
 
-  '@deck.gl/core@9.1.14':
+  '@deck.gl/core@9.1.15':
     dependencies:
       '@loaders.gl/core': 4.3.4
       '@loaders.gl/images': 4.3.4(@loaders.gl/core@4.3.4)
       '@luma.gl/constants': 9.1.9
       '@luma.gl/core': 9.1.9
-      '@luma.gl/engine': 9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))
+      '@luma.gl/engine': 9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))
       '@luma.gl/shadertools': 9.1.9(@luma.gl/core@9.1.9)
       '@luma.gl/webgl': 9.1.9(@luma.gl/core@9.1.9)
       '@math.gl/core': 4.1.0
@@ -5644,30 +5631,30 @@ snapshots:
       gl-matrix: 3.4.4
       mjolnir.js: 3.0.0
 
-  '@deck.gl/extensions@9.1.14(@deck.gl/core@9.1.14)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1)))':
+  '@deck.gl/extensions@9.1.15(@deck.gl/core@9.1.15)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2)))':
     dependencies:
-      '@deck.gl/core': 9.1.14
+      '@deck.gl/core': 9.1.15
       '@luma.gl/constants': 9.1.9
       '@luma.gl/core': 9.1.9
-      '@luma.gl/engine': 9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))
+      '@luma.gl/engine': 9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))
       '@luma.gl/shadertools': 9.1.9(@luma.gl/core@9.1.9)
       '@math.gl/core': 4.1.0
 
-  '@deck.gl/extensions@9.1.14(@deck.gl/core@9.1.14)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1)))':
+  '@deck.gl/extensions@9.1.15(@deck.gl/core@9.1.15)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2)))':
     dependencies:
-      '@deck.gl/core': 9.1.14
+      '@deck.gl/core': 9.1.15
       '@luma.gl/constants': 9.1.9
-      '@luma.gl/core': 9.2.1
-      '@luma.gl/engine': 9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))
-      '@luma.gl/shadertools': 9.1.9(@luma.gl/core@9.2.1)
+      '@luma.gl/core': 9.2.2
+      '@luma.gl/engine': 9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))
+      '@luma.gl/shadertools': 9.1.9(@luma.gl/core@9.2.2)
       '@math.gl/core': 4.1.0
 
-  '@deck.gl/geo-layers@9.1.14(@deck.gl/core@9.1.14)(@deck.gl/extensions@9.1.14(@deck.gl/core@9.1.14)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))))(@deck.gl/layers@9.1.14(@deck.gl/core@9.1.14)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))))(@deck.gl/mesh-layers@9.1.14(@deck.gl/core@9.1.14)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))))(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1)))':
+  '@deck.gl/geo-layers@9.1.15(@deck.gl/core@9.1.15)(@deck.gl/extensions@9.1.15(@deck.gl/core@9.1.15)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))))(@deck.gl/layers@9.1.15(@deck.gl/core@9.1.15)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))))(@deck.gl/mesh-layers@9.1.15(@deck.gl/core@9.1.15)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))))(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2)))':
     dependencies:
-      '@deck.gl/core': 9.1.14
-      '@deck.gl/extensions': 9.1.14(@deck.gl/core@9.1.14)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1)))
-      '@deck.gl/layers': 9.1.14(@deck.gl/core@9.1.14)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1)))
-      '@deck.gl/mesh-layers': 9.1.14(@deck.gl/core@9.1.14)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1)))
+      '@deck.gl/core': 9.1.15
+      '@deck.gl/extensions': 9.1.15(@deck.gl/core@9.1.15)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2)))
+      '@deck.gl/layers': 9.1.15(@deck.gl/core@9.1.15)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2)))
+      '@deck.gl/mesh-layers': 9.1.15(@deck.gl/core@9.1.15)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2)))
       '@loaders.gl/3d-tiles': 4.3.4(@loaders.gl/core@4.3.4)
       '@loaders.gl/core': 4.3.4
       '@loaders.gl/gis': 4.3.3(@loaders.gl/core@4.3.4)
@@ -5677,9 +5664,9 @@ snapshots:
       '@loaders.gl/terrain': 4.3.3(@loaders.gl/core@4.3.4)
       '@loaders.gl/tiles': 4.3.4(@loaders.gl/core@4.3.4)
       '@loaders.gl/wms': 4.3.3(@loaders.gl/core@4.3.4)
-      '@luma.gl/core': 9.2.1
-      '@luma.gl/engine': 9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))
-      '@luma.gl/gltf': 9.1.9(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1)))(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))
+      '@luma.gl/core': 9.2.2
+      '@luma.gl/engine': 9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))
+      '@luma.gl/gltf': 9.1.9(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2)))(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))
       '@luma.gl/shadertools': 9.1.9(@luma.gl/core@9.1.9)
       '@math.gl/core': 4.1.0
       '@math.gl/culling': 4.1.0
@@ -5688,28 +5675,28 @@ snapshots:
       h3-js: 4.2.1
       long: 3.2.0
 
-  '@deck.gl/google-maps@9.1.14(@deck.gl/core@9.1.14)(@luma.gl/core@9.1.9)(@luma.gl/webgl@9.2.1(@luma.gl/core@9.2.1))':
+  '@deck.gl/google-maps@9.1.15(@deck.gl/core@9.1.15)(@luma.gl/core@9.1.9)(@luma.gl/webgl@9.2.2(@luma.gl/core@9.2.2))':
     dependencies:
-      '@deck.gl/core': 9.1.14
+      '@deck.gl/core': 9.1.15
       '@luma.gl/constants': 9.1.9
       '@luma.gl/core': 9.1.9
-      '@luma.gl/webgl': 9.2.1(@luma.gl/core@9.2.1)
+      '@luma.gl/webgl': 9.2.2(@luma.gl/core@9.2.2)
       '@math.gl/core': 4.1.0
       '@types/google.maps': 3.58.1
 
-  '@deck.gl/json@9.1.14(@deck.gl/core@9.1.14)':
+  '@deck.gl/json@9.1.15(@deck.gl/core@9.1.15)':
     dependencies:
-      '@deck.gl/core': 9.1.14
+      '@deck.gl/core': 9.1.15
       jsep: 0.3.5
 
-  '@deck.gl/layers@9.1.14(@deck.gl/core@9.1.14)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1)))':
+  '@deck.gl/layers@9.1.15(@deck.gl/core@9.1.15)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2)))':
     dependencies:
-      '@deck.gl/core': 9.1.14
+      '@deck.gl/core': 9.1.15
       '@loaders.gl/core': 4.3.4
       '@loaders.gl/images': 4.3.4(@loaders.gl/core@4.3.4)
       '@loaders.gl/schema': 4.3.4(@loaders.gl/core@4.3.4)
       '@luma.gl/core': 9.1.9
-      '@luma.gl/engine': 9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))
+      '@luma.gl/engine': 9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))
       '@luma.gl/shadertools': 9.1.9(@luma.gl/core@9.1.9)
       '@mapbox/tiny-sdf': 2.0.7
       '@math.gl/core': 4.1.0
@@ -5717,101 +5704,101 @@ snapshots:
       '@math.gl/web-mercator': 4.1.0
       earcut: 2.2.4
 
-  '@deck.gl/layers@9.1.14(@deck.gl/core@9.1.14)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1)))':
+  '@deck.gl/layers@9.1.15(@deck.gl/core@9.1.15)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2)))':
     dependencies:
-      '@deck.gl/core': 9.1.14
+      '@deck.gl/core': 9.1.15
       '@loaders.gl/core': 4.3.4
       '@loaders.gl/images': 4.3.4(@loaders.gl/core@4.3.4)
       '@loaders.gl/schema': 4.3.4(@loaders.gl/core@4.3.4)
-      '@luma.gl/core': 9.2.1
-      '@luma.gl/engine': 9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))
-      '@luma.gl/shadertools': 9.1.9(@luma.gl/core@9.2.1)
+      '@luma.gl/core': 9.2.2
+      '@luma.gl/engine': 9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))
+      '@luma.gl/shadertools': 9.1.9(@luma.gl/core@9.2.2)
       '@mapbox/tiny-sdf': 2.0.7
       '@math.gl/core': 4.1.0
       '@math.gl/polygon': 4.1.0
       '@math.gl/web-mercator': 4.1.0
       earcut: 2.2.4
 
-  '@deck.gl/mapbox@9.1.14(@deck.gl/core@9.1.14)(@luma.gl/core@9.1.9)':
+  '@deck.gl/mapbox@9.1.15(@deck.gl/core@9.1.15)(@luma.gl/core@9.1.9)':
     dependencies:
-      '@deck.gl/core': 9.1.14
+      '@deck.gl/core': 9.1.15
       '@luma.gl/constants': 9.1.9
       '@luma.gl/core': 9.1.9
       '@math.gl/web-mercator': 4.1.0
 
-  '@deck.gl/mapbox@9.1.14(@deck.gl/core@9.1.14)(@luma.gl/core@9.2.1)':
+  '@deck.gl/mapbox@9.1.15(@deck.gl/core@9.1.15)(@luma.gl/core@9.2.2)':
     dependencies:
-      '@deck.gl/core': 9.1.14
+      '@deck.gl/core': 9.1.15
       '@luma.gl/constants': 9.1.9
-      '@luma.gl/core': 9.2.1
+      '@luma.gl/core': 9.2.2
       '@math.gl/web-mercator': 4.1.0
 
-  '@deck.gl/mesh-layers@9.1.14(@deck.gl/core@9.1.14)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1)))':
+  '@deck.gl/mesh-layers@9.1.15(@deck.gl/core@9.1.15)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2)))':
     dependencies:
-      '@deck.gl/core': 9.1.14
+      '@deck.gl/core': 9.1.15
       '@loaders.gl/gltf': 4.3.4(@loaders.gl/core@4.3.4)
       '@luma.gl/core': 9.1.9
-      '@luma.gl/engine': 9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))
-      '@luma.gl/gltf': 9.1.9(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1)))(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))
+      '@luma.gl/engine': 9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))
+      '@luma.gl/gltf': 9.1.9(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2)))(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))
       '@luma.gl/shadertools': 9.1.9(@luma.gl/core@9.1.9)
     transitivePeerDependencies:
       - '@loaders.gl/core'
 
-  '@deck.gl/mesh-layers@9.1.14(@deck.gl/core@9.1.14)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1)))':
+  '@deck.gl/mesh-layers@9.1.15(@deck.gl/core@9.1.15)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2)))':
     dependencies:
-      '@deck.gl/core': 9.1.14
+      '@deck.gl/core': 9.1.15
       '@loaders.gl/gltf': 4.3.4(@loaders.gl/core@4.3.4)
-      '@luma.gl/core': 9.2.1
-      '@luma.gl/engine': 9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))
-      '@luma.gl/gltf': 9.1.9(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1)))(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))
-      '@luma.gl/shadertools': 9.1.9(@luma.gl/core@9.2.1)
+      '@luma.gl/core': 9.2.2
+      '@luma.gl/engine': 9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))
+      '@luma.gl/gltf': 9.1.9(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2)))(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))
+      '@luma.gl/shadertools': 9.1.9(@luma.gl/core@9.2.2)
     transitivePeerDependencies:
       - '@loaders.gl/core'
 
-  '@deck.gl/react@9.1.14(@deck.gl/core@9.1.14)(@deck.gl/widgets@9.1.14(@deck.gl/core@9.1.14))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
+  '@deck.gl/react@9.1.15(@deck.gl/core@9.1.15)(@deck.gl/widgets@9.1.15(@deck.gl/core@9.1.15))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)':
     dependencies:
-      '@deck.gl/core': 9.1.14
-      '@deck.gl/widgets': 9.1.14(@deck.gl/core@9.1.14)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      '@deck.gl/core': 9.1.15
+      '@deck.gl/widgets': 9.1.15(@deck.gl/core@9.1.15)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  '@deck.gl/widgets@9.1.14(@deck.gl/core@9.1.14)':
+  '@deck.gl/widgets@9.1.15(@deck.gl/core@9.1.15)':
     dependencies:
-      '@deck.gl/core': 9.1.14
+      '@deck.gl/core': 9.1.15
       preact: 10.26.6
 
   '@dimforge/rapier3d-compat@0.12.0': {}
 
-  '@dnd-kit/accessibility@3.1.1(react@19.1.1)':
+  '@dnd-kit/accessibility@3.1.1(react@19.2.0)':
     dependencies:
-      react: 19.1.1
+      react: 19.2.0
       tslib: 2.8.1
 
-  '@dnd-kit/core@6.3.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
+  '@dnd-kit/core@6.3.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0)':
     dependencies:
-      '@dnd-kit/accessibility': 3.1.1(react@19.1.1)
-      '@dnd-kit/utilities': 3.2.2(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      '@dnd-kit/accessibility': 3.1.1(react@19.2.0)
+      '@dnd-kit/utilities': 3.2.2(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
       tslib: 2.8.1
 
-  '@dnd-kit/modifiers@6.0.1(@dnd-kit/core@6.3.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react@19.1.1)':
+  '@dnd-kit/modifiers@6.0.1(@dnd-kit/core@6.3.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react@19.2.0)':
     dependencies:
-      '@dnd-kit/core': 6.3.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@dnd-kit/utilities': 3.2.2(react@19.1.1)
-      react: 19.1.1
+      '@dnd-kit/core': 6.3.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@dnd-kit/utilities': 3.2.2(react@19.2.0)
+      react: 19.2.0
       tslib: 2.8.1
 
-  '@dnd-kit/sortable@7.0.2(@dnd-kit/core@6.3.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react@19.1.1)':
+  '@dnd-kit/sortable@7.0.2(@dnd-kit/core@6.3.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react@19.2.0)':
     dependencies:
-      '@dnd-kit/core': 6.3.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@dnd-kit/utilities': 3.2.2(react@19.1.1)
-      react: 19.1.1
+      '@dnd-kit/core': 6.3.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@dnd-kit/utilities': 3.2.2(react@19.2.0)
+      react: 19.2.0
       tslib: 2.8.1
 
-  '@dnd-kit/utilities@3.2.2(react@19.1.1)':
+  '@dnd-kit/utilities@3.2.2(react@19.2.0)':
     dependencies:
-      react: 19.1.1
+      react: 19.2.0
       tslib: 2.8.1
 
   '@dprint/formatter@0.3.0': {}
@@ -6043,18 +6030,18 @@ snapshots:
       '@floating-ui/core': 1.7.3
       '@floating-ui/utils': 0.2.10
 
-  '@floating-ui/react-dom@2.1.6(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
+  '@floating-ui/react-dom@2.1.6(react-dom@19.2.0(react@19.2.0))(react@19.2.0)':
     dependencies:
       '@floating-ui/dom': 1.7.4
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  '@floating-ui/react@0.27.16(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
+  '@floating-ui/react@0.27.16(react-dom@19.2.0(react@19.2.0))(react@19.2.0)':
     dependencies:
-      '@floating-ui/react-dom': 2.1.6(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      '@floating-ui/react-dom': 2.1.6(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       '@floating-ui/utils': 0.2.10
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
       tabbable: 6.2.0
 
   '@floating-ui/utils@0.2.10': {}
@@ -6323,7 +6310,7 @@ snapshots:
 
   '@luma.gl/constants@9.1.9': {}
 
-  '@luma.gl/constants@9.2.1': {}
+  '@luma.gl/constants@9.2.2': {}
 
   '@luma.gl/core@9.1.9':
     dependencies:
@@ -6333,7 +6320,7 @@ snapshots:
       '@probe.gl/stats': 4.1.0
       '@types/offscreencanvas': 2019.7.3
 
-  '@luma.gl/core@9.2.1':
+  '@luma.gl/core@9.2.2':
     dependencies:
       '@math.gl/types': 4.1.0
       '@probe.gl/env': 4.1.0
@@ -6341,40 +6328,40 @@ snapshots:
       '@probe.gl/stats': 4.1.0
       '@types/offscreencanvas': 2019.7.3
 
-  '@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))':
+  '@luma.gl/engine@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))':
     dependencies:
       '@luma.gl/core': 9.1.9
-      '@luma.gl/shadertools': 9.1.9(@luma.gl/core@9.2.1)
+      '@luma.gl/shadertools': 9.1.9(@luma.gl/core@9.2.2)
       '@math.gl/core': 4.1.0
       '@math.gl/types': 4.1.0
       '@probe.gl/log': 4.1.0
       '@probe.gl/stats': 4.1.0
 
-  '@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))':
+  '@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))':
     dependencies:
-      '@luma.gl/core': 9.2.1
-      '@luma.gl/shadertools': 9.1.9(@luma.gl/core@9.2.1)
+      '@luma.gl/core': 9.2.2
+      '@luma.gl/shadertools': 9.1.9(@luma.gl/core@9.2.2)
       '@math.gl/core': 4.1.0
       '@math.gl/types': 4.1.0
       '@probe.gl/log': 4.1.0
       '@probe.gl/stats': 4.1.0
 
-  '@luma.gl/gltf@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1)))(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))':
+  '@luma.gl/gltf@9.1.9(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2)))(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))':
     dependencies:
       '@loaders.gl/core': 4.3.4
       '@loaders.gl/textures': 4.3.4(@loaders.gl/core@4.3.4)
       '@luma.gl/core': 9.1.9
-      '@luma.gl/engine': 9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))
-      '@luma.gl/shadertools': 9.1.9(@luma.gl/core@9.2.1)
+      '@luma.gl/engine': 9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))
+      '@luma.gl/shadertools': 9.1.9(@luma.gl/core@9.2.2)
       '@math.gl/core': 4.1.0
 
-  '@luma.gl/gltf@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1)))(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))':
+  '@luma.gl/gltf@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2)))(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))':
     dependencies:
       '@loaders.gl/core': 4.3.4
       '@loaders.gl/textures': 4.3.4(@loaders.gl/core@4.3.4)
-      '@luma.gl/core': 9.2.1
-      '@luma.gl/engine': 9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))
-      '@luma.gl/shadertools': 9.1.9(@luma.gl/core@9.2.1)
+      '@luma.gl/core': 9.2.2
+      '@luma.gl/engine': 9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))
+      '@luma.gl/shadertools': 9.1.9(@luma.gl/core@9.2.2)
       '@math.gl/core': 4.1.0
 
   '@luma.gl/shadertools@9.1.9(@luma.gl/core@9.1.9)':
@@ -6384,9 +6371,9 @@ snapshots:
       '@math.gl/types': 4.1.0
       wgsl_reflect: 1.2.1
 
-  '@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1)':
+  '@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2)':
     dependencies:
-      '@luma.gl/core': 9.2.1
+      '@luma.gl/core': 9.2.2
       '@math.gl/core': 4.1.0
       '@math.gl/types': 4.1.0
       wgsl_reflect: 1.2.1
@@ -6398,30 +6385,30 @@ snapshots:
       '@math.gl/types': 4.1.0
       '@probe.gl/env': 4.1.0
 
-  '@luma.gl/webgl@9.2.1(@luma.gl/core@9.2.1)':
+  '@luma.gl/webgl@9.2.2(@luma.gl/core@9.2.2)':
     dependencies:
-      '@luma.gl/constants': 9.2.1
-      '@luma.gl/core': 9.2.1
+      '@luma.gl/constants': 9.2.2
+      '@luma.gl/core': 9.2.2
       '@math.gl/types': 4.1.0
       '@probe.gl/env': 4.1.0
 
-  '@mantine/core@8.3.2(@mantine/hooks@8.3.2(react@19.1.1))(@types/react@19.1.4)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
+  '@mantine/core@8.3.3(@mantine/hooks@8.3.3(react@19.2.0))(@types/react@19.1.4)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)':
     dependencies:
-      '@floating-ui/react': 0.27.16(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@mantine/hooks': 8.3.2(react@19.1.1)
+      '@floating-ui/react': 0.27.16(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@mantine/hooks': 8.3.3(react@19.2.0)
       clsx: 2.1.1
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
-      react-number-format: 5.4.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react-remove-scroll: 2.7.1(@types/react@19.1.4)(react@19.1.1)
-      react-textarea-autosize: 8.5.9(@types/react@19.1.4)(react@19.1.1)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
+      react-number-format: 5.4.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react-remove-scroll: 2.7.1(@types/react@19.1.4)(react@19.2.0)
+      react-textarea-autosize: 8.5.9(@types/react@19.1.4)(react@19.2.0)
       type-fest: 4.41.0
     transitivePeerDependencies:
       - '@types/react'
 
-  '@mantine/hooks@8.3.2(react@19.1.1)':
+  '@mantine/hooks@8.3.3(react@19.2.0)':
     dependencies:
-      react: 19.1.1
+      react: 19.2.0
 
   '@mapbox/geojson-rewind@0.5.2':
     dependencies:
@@ -6471,7 +6458,7 @@ snapshots:
       rw: 1.3.3
       sort-object: 3.0.3
 
-  '@maplibre/maplibre-gl-style-spec@24.1.1':
+  '@maplibre/maplibre-gl-style-spec@24.2.0':
     dependencies:
       '@mapbox/jsonlint-lines-primitives': 2.0.2
       '@mapbox/unitbezier': 0.0.1
@@ -6576,10 +6563,10 @@ snapshots:
     dependencies:
       parse5: 7.3.0
 
-  '@pivanov/utils@0.0.2(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
+  '@pivanov/utils@0.0.2(react-dom@19.2.0(react@19.2.0))(react@19.2.0)':
     dependencies:
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
   '@pkgr/core@0.1.2': {}
 
@@ -6608,78 +6595,78 @@ snapshots:
     dependencies:
       '@babel/runtime': 7.27.1
 
-  '@rc-component/color-picker@2.0.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
+  '@rc-component/color-picker@2.0.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0)':
     dependencies:
       '@ant-design/fast-color': 2.0.6
       '@babel/runtime': 7.27.1
       classnames: 2.5.1
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  '@rc-component/context@1.4.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
+  '@rc-component/context@1.4.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)':
     dependencies:
       '@babel/runtime': 7.27.1
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
   '@rc-component/mini-decimal@1.1.0':
     dependencies:
       '@babel/runtime': 7.27.1
 
-  '@rc-component/mutate-observer@1.1.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
+  '@rc-component/mutate-observer@1.1.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)':
     dependencies:
       '@babel/runtime': 7.27.1
       classnames: 2.5.1
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  '@rc-component/portal@1.1.2(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
+  '@rc-component/portal@1.1.2(react-dom@19.2.0(react@19.2.0))(react@19.2.0)':
     dependencies:
       '@babel/runtime': 7.27.1
       classnames: 2.5.1
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  '@rc-component/qrcode@1.0.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
+  '@rc-component/qrcode@1.0.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)':
     dependencies:
       '@babel/runtime': 7.27.1
       classnames: 2.5.1
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  '@rc-component/tour@1.15.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
+  '@rc-component/tour@1.15.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0)':
     dependencies:
       '@babel/runtime': 7.27.1
-      '@rc-component/portal': 1.1.2(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@rc-component/trigger': 2.3.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      '@rc-component/portal': 1.1.2(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@rc-component/trigger': 2.3.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       classnames: 2.5.1
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  '@rc-component/trigger@2.3.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
+  '@rc-component/trigger@2.3.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)':
     dependencies:
       '@babel/runtime': 7.27.1
-      '@rc-component/portal': 1.1.2(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      '@rc-component/portal': 1.1.2(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       classnames: 2.5.1
-      rc-motion: 2.9.5(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-resize-observer: 1.4.3(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-motion: 2.9.5(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-resize-observer: 1.4.3(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  '@react-three/drei@10.7.6(@react-three/fiber@9.3.0(@types/react@19.1.4)(immer@10.1.3)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)(three@0.180.0))(@types/react@19.1.4)(@types/three@0.176.0)(immer@10.1.3)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)(three@0.180.0)':
+  '@react-three/drei@10.7.6(@react-three/fiber@9.3.0(@types/react@19.1.4)(immer@10.1.3)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(three@0.180.0))(@types/react@19.1.4)(@types/three@0.176.0)(immer@10.1.3)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(three@0.180.0)':
     dependencies:
       '@babel/runtime': 7.27.1
       '@mediapipe/tasks-vision': 0.10.17
       '@monogrid/gainmap-js': 3.1.0(three@0.180.0)
-      '@react-three/fiber': 9.3.0(@types/react@19.1.4)(immer@10.1.3)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)(three@0.180.0)
-      '@use-gesture/react': 10.3.1(react@19.1.1)
+      '@react-three/fiber': 9.3.0(@types/react@19.1.4)(immer@10.1.3)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(three@0.180.0)
+      '@use-gesture/react': 10.3.1(react@19.2.0)
       camera-controls: 3.1.0(three@0.180.0)
       cross-env: 7.0.3
       detect-gpu: 5.0.70
@@ -6687,43 +6674,43 @@ snapshots:
       hls.js: 1.6.2
       maath: 0.10.8(@types/three@0.176.0)(three@0.180.0)
       meshline: 3.3.1(three@0.180.0)
-      react: 19.1.1
+      react: 19.2.0
       stats-gl: 2.4.2(@types/three@0.176.0)(three@0.180.0)
       stats.js: 0.17.0
-      suspend-react: 0.1.3(react@19.1.1)
+      suspend-react: 0.1.3(react@19.2.0)
       three: 0.180.0
       three-mesh-bvh: 0.8.3(three@0.180.0)
       three-stdlib: 2.36.0(three@0.180.0)
       troika-three-text: 0.52.4(three@0.180.0)
-      tunnel-rat: 0.1.2(@types/react@19.1.4)(immer@10.1.3)(react@19.1.1)
-      use-sync-external-store: 1.5.0(react@19.1.1)
+      tunnel-rat: 0.1.2(@types/react@19.1.4)(immer@10.1.3)(react@19.2.0)
+      use-sync-external-store: 1.5.0(react@19.2.0)
       utility-types: 3.11.0
-      zustand: 5.0.8(@types/react@19.1.4)(immer@10.1.3)(react@19.1.1)(use-sync-external-store@1.5.0(react@19.1.1))
+      zustand: 5.0.8(@types/react@19.1.4)(immer@10.1.3)(react@19.2.0)(use-sync-external-store@1.5.0(react@19.2.0))
     optionalDependencies:
-      react-dom: 19.1.1(react@19.1.1)
+      react-dom: 19.2.0(react@19.2.0)
     transitivePeerDependencies:
       - '@types/react'
       - '@types/three'
       - immer
 
-  '@react-three/fiber@9.3.0(@types/react@19.1.4)(immer@10.1.3)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)(three@0.180.0)':
+  '@react-three/fiber@9.3.0(@types/react@19.1.4)(immer@10.1.3)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(three@0.180.0)':
     dependencies:
       '@babel/runtime': 7.27.1
       '@types/react-reconciler': 0.32.0(@types/react@19.1.4)
       '@types/webxr': 0.5.22
       base64-js: 1.5.1
       buffer: 6.0.3
-      its-fine: 2.0.0(@types/react@19.1.4)(react@19.1.1)
-      react: 19.1.1
-      react-reconciler: 0.31.0(react@19.1.1)
-      react-use-measure: 2.1.7(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      its-fine: 2.0.0(@types/react@19.1.4)(react@19.2.0)
+      react: 19.2.0
+      react-reconciler: 0.31.0(react@19.2.0)
+      react-use-measure: 2.1.7(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       scheduler: 0.25.0
-      suspend-react: 0.1.3(react@19.1.1)
+      suspend-react: 0.1.3(react@19.2.0)
       three: 0.180.0
-      use-sync-external-store: 1.5.0(react@19.1.1)
-      zustand: 5.0.8(@types/react@19.1.4)(immer@10.1.3)(react@19.1.1)(use-sync-external-store@1.5.0(react@19.1.1))
+      use-sync-external-store: 1.5.0(react@19.2.0)
+      zustand: 5.0.8(@types/react@19.1.4)(immer@10.1.3)(react@19.2.0)(use-sync-external-store@1.5.0(react@19.2.0))
     optionalDependencies:
-      react-dom: 19.1.1(react@19.1.1)
+      react-dom: 19.2.0(react@19.2.0)
     transitivePeerDependencies:
       - '@types/react'
       - immer
@@ -6884,36 +6871,36 @@ snapshots:
     dependencies:
       tslib: 2.8.1
 
-  '@tanstack/history@1.132.21': {}
+  '@tanstack/history@1.132.31': {}
 
   '@tanstack/query-core@5.90.2': {}
 
-  '@tanstack/react-query@5.90.2(react@19.1.1)':
+  '@tanstack/react-query@5.90.2(react@19.2.0)':
     dependencies:
       '@tanstack/query-core': 5.90.2
-      react: 19.1.1
+      react: 19.2.0
 
-  '@tanstack/react-router@1.132.23(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
+  '@tanstack/react-router@1.132.41(react-dom@19.2.0(react@19.2.0))(react@19.2.0)':
     dependencies:
-      '@tanstack/history': 1.132.21
-      '@tanstack/react-store': 0.7.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@tanstack/router-core': 1.132.21
+      '@tanstack/history': 1.132.31
+      '@tanstack/react-store': 0.7.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@tanstack/router-core': 1.132.41
       isbot: 5.1.28
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
       tiny-invariant: 1.3.3
       tiny-warning: 1.0.3
 
-  '@tanstack/react-store@0.7.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
+  '@tanstack/react-store@0.7.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)':
     dependencies:
       '@tanstack/store': 0.7.0
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
-      use-sync-external-store: 1.5.0(react@19.1.1)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
+      use-sync-external-store: 1.5.0(react@19.2.0)
 
-  '@tanstack/router-core@1.132.21':
+  '@tanstack/router-core@1.132.41':
     dependencies:
-      '@tanstack/history': 1.132.21
+      '@tanstack/history': 1.132.31
       '@tanstack/store': 0.7.0
       cookie-es: 2.0.0
       seroval: 1.3.2
@@ -6923,16 +6910,16 @@ snapshots:
 
   '@tanstack/store@0.7.0': {}
 
-  '@trapar-waves/cli-template@1.1.14':
+  '@trapar-waves/cli-template@1.1.15':
     dependencies:
       consola: 3.4.2
       destr: 2.0.5
       picocolors: 1.1.1
 
-  '@trapar-waves/llm-template@1.1.14(@types/debug@4.1.12)(@types/node@24.7.0)(jiti@2.6.0)(tsx@4.20.6)(yaml@2.8.1)':
+  '@trapar-waves/llm-template@1.1.15(@types/debug@4.1.12)(@types/node@24.7.0)(jiti@2.6.0)(tsx@4.20.6)(yaml@2.8.1)':
     dependencies:
-      '@ai-sdk/openai': 2.0.38(zod@4.1.11)
-      ai: 5.0.56(zod@4.1.11)
+      '@ai-sdk/openai': 2.0.42(zod@4.1.11)
+      ai: 5.0.60(zod@4.1.11)
       mdbox: 0.1.1
       pathe: 2.0.3
       prettier: 3.6.2
@@ -6959,22 +6946,22 @@ snapshots:
       - tsx
       - yaml
 
-  '@trapar-waves/react-antd-pro@1.1.14(@types/react@19.1.4)(luxon@3.5.0)(moment@2.30.1)(rc-field-form@2.7.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(rollup@4.40.2)(use-sync-external-store@1.5.0(react@19.1.1))':
+  '@trapar-waves/react-antd-pro@1.1.15(@types/react@19.1.4)(luxon@3.5.0)(moment@2.30.1)(rc-field-form@2.7.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(rollup@4.40.2)(use-sync-external-store@1.5.0(react@19.2.0))':
     dependencies:
-      '@ant-design/pro-components': 2.8.10(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(rc-field-form@2.7.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/pro-layout': 7.22.7(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/v5-patch-for-react-19': 1.0.3(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@tanstack/react-query': 5.90.2(react@19.1.1)
-      '@tanstack/react-router': 1.132.23(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      antd: 5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      '@ant-design/pro-components': 2.8.10(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(rc-field-form@2.7.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/pro-layout': 7.22.7(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/v5-patch-for-react-19': 1.0.3(antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@tanstack/react-query': 5.90.2(react@19.2.0)
+      '@tanstack/react-router': 1.132.41(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      antd: 5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       axios: 1.12.2
       clsx: 2.1.1
       immer: 10.1.3
-      motion: 12.23.22(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
-      react-scan: 0.4.3(@types/react@19.1.4)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)(rollup@4.40.2)
-      zustand: 5.0.8(@types/react@19.1.4)(immer@10.1.3)(react@19.1.1)(use-sync-external-store@1.5.0(react@19.1.1))
+      motion: 12.23.22(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
+      react-scan: 0.4.3(@types/react@19.1.4)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(rollup@4.40.2)
+      zustand: 5.0.8(@types/react@19.1.4)(immer@10.1.3)(react@19.2.0)(use-sync-external-store@1.5.0(react@19.2.0))
     transitivePeerDependencies:
       - '@emotion/is-prop-valid'
       - '@remix-run/react'
@@ -6991,38 +6978,38 @@ snapshots:
       - supports-color
       - use-sync-external-store
 
-  '@trapar-waves/react-mantine-tailwind@1.1.14(@types/react@19.1.4)':
+  '@trapar-waves/react-mantine-tailwind@1.1.15(@types/react@19.1.4)':
     dependencies:
-      '@mantine/core': 8.3.2(@mantine/hooks@8.3.2(react@19.1.1))(@types/react@19.1.4)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@mantine/hooks': 8.3.2(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      '@mantine/core': 8.3.3(@mantine/hooks@8.3.3(react@19.2.0))(@types/react@19.1.4)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@mantine/hooks': 8.3.3(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
     transitivePeerDependencies:
       - '@types/react'
 
-  '@trapar-waves/react-tailwind@1.1.14':
+  '@trapar-waves/react-tailwind@1.1.15':
     dependencies:
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  '@trapar-waves/react-tanstack@1.1.14':
+  '@trapar-waves/react-tanstack@1.1.15':
     dependencies:
-      '@tanstack/react-query': 5.90.2(react@19.1.1)
-      '@tanstack/react-router': 1.132.23(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      '@tanstack/react-query': 5.90.2(react@19.2.0)
+      '@tanstack/react-router': 1.132.41(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  '@trapar-waves/react-three-maplibre@1.1.14(@types/react@19.1.4)(@types/three@0.176.0)(immer@10.1.3)(mapbox-gl@1.13.3)':
+  '@trapar-waves/react-three-maplibre@1.1.15(@types/react@19.1.4)(@types/three@0.176.0)(immer@10.1.3)(mapbox-gl@1.13.3)':
     dependencies:
       '@antv/l7': 2.23.0
       '@antv/l7-maps': 2.23.0
-      '@react-three/drei': 10.7.6(@react-three/fiber@9.3.0(@types/react@19.1.4)(immer@10.1.3)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)(three@0.180.0))(@types/react@19.1.4)(@types/three@0.176.0)(immer@10.1.3)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)(three@0.180.0)
-      '@react-three/fiber': 9.3.0(@types/react@19.1.4)(immer@10.1.3)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)(three@0.180.0)
-      maplibre-gl: 5.7.3
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
-      react-map-gl: 8.0.4(mapbox-gl@1.13.3)(maplibre-gl@5.7.3)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react-three-map: 1.0.0(@react-three/fiber@9.3.0(@types/react@19.1.4)(immer@10.1.3)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)(three@0.180.0))(mapbox-gl@1.13.3)(maplibre-gl@5.7.3)(react-map-gl@8.0.4(mapbox-gl@1.13.3)(maplibre-gl@5.7.3)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react@19.1.1)(three@0.180.0)
+      '@react-three/drei': 10.7.6(@react-three/fiber@9.3.0(@types/react@19.1.4)(immer@10.1.3)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(three@0.180.0))(@types/react@19.1.4)(@types/three@0.176.0)(immer@10.1.3)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(three@0.180.0)
+      '@react-three/fiber': 9.3.0(@types/react@19.1.4)(immer@10.1.3)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(three@0.180.0)
+      maplibre-gl: 5.8.0
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
+      react-map-gl: 8.1.0(mapbox-gl@1.13.3)(maplibre-gl@5.8.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react-three-map: 1.0.0(@react-three/fiber@9.3.0(@types/react@19.1.4)(immer@10.1.3)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(three@0.180.0))(mapbox-gl@1.13.3)(maplibre-gl@5.8.0)(react-map-gl@8.1.0(mapbox-gl@1.13.3)(maplibre-gl@5.8.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react@19.2.0)(three@0.180.0)
       three: 0.180.0
       three-stdlib: 2.36.0(three@0.180.0)
     transitivePeerDependencies:
@@ -7036,27 +7023,27 @@ snapshots:
       - mapbox-gl
       - react-native
 
-  '@trapar-waves/react-visgl-maplibre@1.1.14(@arcgis/core@4.32.10)(@deck.gl/extensions@9.1.14(@deck.gl/core@9.1.14)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))))(@deck.gl/layers@9.1.14(@deck.gl/core@9.1.14)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))))(@deck.gl/mesh-layers@9.1.14(@deck.gl/core@9.1.14)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))))(@deck.gl/widgets@9.1.14(@deck.gl/core@9.1.14))(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1)))(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))(@types/react@19.1.4)(@types/three@0.176.0)(immer@10.1.3)(mapbox-gl@1.13.3)':
+  '@trapar-waves/react-visgl-maplibre@1.1.15(@arcgis/core@4.32.10)(@deck.gl/extensions@9.1.15(@deck.gl/core@9.1.15)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))))(@deck.gl/layers@9.1.15(@deck.gl/core@9.1.15)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))))(@deck.gl/mesh-layers@9.1.15(@deck.gl/core@9.1.15)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))))(@deck.gl/widgets@9.1.15(@deck.gl/core@9.1.15))(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2)))(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))(@types/react@19.1.4)(@types/three@0.176.0)(immer@10.1.3)(mapbox-gl@1.13.3)':
     dependencies:
-      '@deck.gl/aggregation-layers': 9.1.14(@deck.gl/core@9.1.14)(@deck.gl/layers@9.1.14(@deck.gl/core@9.1.14)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))))(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1)))
-      '@deck.gl/core': 9.1.14
-      '@deck.gl/geo-layers': 9.1.14(@deck.gl/core@9.1.14)(@deck.gl/extensions@9.1.14(@deck.gl/core@9.1.14)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))))(@deck.gl/layers@9.1.14(@deck.gl/core@9.1.14)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))))(@deck.gl/mesh-layers@9.1.14(@deck.gl/core@9.1.14)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))))(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1)))
-      '@deck.gl/mapbox': 9.1.14(@deck.gl/core@9.1.14)(@luma.gl/core@9.2.1)
-      '@deck.gl/react': 9.1.14(@deck.gl/core@9.1.14)(@deck.gl/widgets@9.1.14(@deck.gl/core@9.1.14))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      '@deck.gl/aggregation-layers': 9.1.15(@deck.gl/core@9.1.15)(@deck.gl/layers@9.1.15(@deck.gl/core@9.1.15)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))))(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2)))
+      '@deck.gl/core': 9.1.15
+      '@deck.gl/geo-layers': 9.1.15(@deck.gl/core@9.1.15)(@deck.gl/extensions@9.1.15(@deck.gl/core@9.1.15)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))))(@deck.gl/layers@9.1.15(@deck.gl/core@9.1.15)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))))(@deck.gl/mesh-layers@9.1.15(@deck.gl/core@9.1.15)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))))(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2)))
+      '@deck.gl/mapbox': 9.1.15(@deck.gl/core@9.1.15)(@luma.gl/core@9.2.2)
+      '@deck.gl/react': 9.1.15(@deck.gl/core@9.1.15)(@deck.gl/widgets@9.1.15(@deck.gl/core@9.1.15))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       '@loaders.gl/3d-tiles': 4.3.4(@loaders.gl/core@4.3.4)
       '@loaders.gl/core': 4.3.4
       '@loaders.gl/csv': 4.3.4(@loaders.gl/core@4.3.4)
       '@loaders.gl/tiles': 4.3.4(@loaders.gl/core@4.3.4)
-      '@luma.gl/core': 9.2.1
-      '@luma.gl/webgl': 9.2.1(@luma.gl/core@9.2.1)
-      '@react-three/drei': 10.7.6(@react-three/fiber@9.3.0(@types/react@19.1.4)(immer@10.1.3)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)(three@0.180.0))(@types/react@19.1.4)(@types/three@0.176.0)(immer@10.1.3)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)(three@0.180.0)
-      '@react-three/fiber': 9.3.0(@types/react@19.1.4)(immer@10.1.3)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)(three@0.180.0)
-      deck.gl: 9.1.14(@arcgis/core@4.32.10)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))(@luma.gl/webgl@9.2.1(@luma.gl/core@9.2.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      maplibre-gl: 5.7.3
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
-      react-map-gl: 8.0.4(mapbox-gl@1.13.3)(maplibre-gl@5.7.3)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react-three-map: 1.0.0(@react-three/fiber@9.3.0(@types/react@19.1.4)(immer@10.1.3)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)(three@0.180.0))(mapbox-gl@1.13.3)(maplibre-gl@5.7.3)(react-map-gl@8.0.4(mapbox-gl@1.13.3)(maplibre-gl@5.7.3)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react@19.1.1)(three@0.180.0)
+      '@luma.gl/core': 9.2.2
+      '@luma.gl/webgl': 9.2.2(@luma.gl/core@9.2.2)
+      '@react-three/drei': 10.7.6(@react-three/fiber@9.3.0(@types/react@19.1.4)(immer@10.1.3)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(three@0.180.0))(@types/react@19.1.4)(@types/three@0.176.0)(immer@10.1.3)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(three@0.180.0)
+      '@react-three/fiber': 9.3.0(@types/react@19.1.4)(immer@10.1.3)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(three@0.180.0)
+      deck.gl: 9.1.15(@arcgis/core@4.32.10)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))(@luma.gl/webgl@9.2.2(@luma.gl/core@9.2.2))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      maplibre-gl: 5.8.0
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
+      react-map-gl: 8.1.0(mapbox-gl@1.13.3)(maplibre-gl@5.8.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react-three-map: 1.0.0(@react-three/fiber@9.3.0(@types/react@19.1.4)(immer@10.1.3)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(three@0.180.0))(mapbox-gl@1.13.3)(maplibre-gl@5.8.0)(react-map-gl@8.1.0(mapbox-gl@1.13.3)(maplibre-gl@5.8.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react@19.2.0)(three@0.180.0)
       three: 0.180.0
       three-stdlib: 2.36.0(three@0.180.0)
     transitivePeerDependencies:
@@ -7077,7 +7064,7 @@ snapshots:
       - mapbox-gl
       - react-native
 
-  '@trapar-waves/vue-tailwind@1.1.14(typescript@5.9.3)':
+  '@trapar-waves/vue-tailwind@1.1.15(typescript@5.9.3)':
     dependencies:
       '@vueuse/core': 13.9.0(vue@3.5.22(typescript@5.9.3))
       vue: 3.5.22(typescript@5.9.3)
@@ -7534,16 +7521,16 @@ snapshots:
 
   '@umijs/route-utils@4.0.1': {}
 
-  '@umijs/use-params@1.0.9(react@19.1.1)':
+  '@umijs/use-params@1.0.9(react@19.2.0)':
     dependencies:
-      react: 19.1.1
+      react: 19.2.0
 
   '@use-gesture/core@10.3.1': {}
 
-  '@use-gesture/react@10.3.1(react@19.1.1)':
+  '@use-gesture/react@10.3.1(react@19.2.0)':
     dependencies:
       '@use-gesture/core': 10.3.1
-      react: 19.1.1
+      react: 19.2.0
 
   '@vaadin/a11y-base@24.6.10':
     dependencies:
@@ -7653,20 +7640,22 @@ snapshots:
     dependencies:
       '@vaadin/vaadin-development-mode-detector': 2.0.7
 
-  '@vis.gl/react-mapbox@8.0.4(mapbox-gl@1.13.3)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
+  '@vercel/oidc@3.0.1': {}
+
+  '@vis.gl/react-mapbox@8.1.0(mapbox-gl@1.13.3)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)':
     dependencies:
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
     optionalDependencies:
       mapbox-gl: 1.13.3
 
-  '@vis.gl/react-maplibre@8.0.4(maplibre-gl@5.7.3)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)':
+  '@vis.gl/react-maplibre@8.1.0(maplibre-gl@5.8.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)':
     dependencies:
       '@maplibre/maplibre-gl-style-spec': 19.3.3
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
     optionalDependencies:
-      maplibre-gl: 5.7.3
+      maplibre-gl: 5.8.0
 
   '@vitest/eslint-plugin@1.3.12(eslint@9.37.0(jiti@2.6.0))(typescript@5.9.3)(vitest@3.2.4(@types/debug@4.1.12)(@types/node@24.7.0)(jiti@2.6.0)(tsx@4.20.6)(yaml@2.8.1))':
     dependencies:
@@ -7804,9 +7793,9 @@ snapshots:
     dependencies:
       object-assign: 4.1.1
 
-  ai@5.0.56(zod@4.1.11):
+  ai@5.0.60(zod@4.1.11):
     dependencies:
-      '@ai-sdk/gateway': 1.0.30(zod@4.1.11)
+      '@ai-sdk/gateway': 1.0.33(zod@4.1.11)
       '@ai-sdk/provider': 2.0.0
       '@ai-sdk/provider-utils': 3.0.10(zod@4.1.11)
       '@opentelemetry/api': 1.9.0
@@ -7825,57 +7814,57 @@ snapshots:
 
   ansis@4.1.0: {}
 
-  antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  antd@5.27.4(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@ant-design/colors': 7.2.1
-      '@ant-design/cssinjs': 1.23.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/cssinjs-utils': 1.1.3(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      '@ant-design/cssinjs': 1.23.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/cssinjs-utils': 1.1.3(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       '@ant-design/fast-color': 2.0.6
-      '@ant-design/icons': 5.6.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@ant-design/react-slick': 1.1.2(react@19.1.1)
+      '@ant-design/icons': 5.6.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@ant-design/react-slick': 1.1.2(react@19.2.0)
       '@babel/runtime': 7.27.1
-      '@rc-component/color-picker': 2.0.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@rc-component/mutate-observer': 1.1.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@rc-component/qrcode': 1.0.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@rc-component/tour': 1.15.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@rc-component/trigger': 2.3.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      '@rc-component/color-picker': 2.0.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@rc-component/mutate-observer': 1.1.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@rc-component/qrcode': 1.0.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@rc-component/tour': 1.15.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@rc-component/trigger': 2.3.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       classnames: 2.5.1
       copy-to-clipboard: 3.3.3
       dayjs: 1.11.13
-      rc-cascader: 3.34.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-checkbox: 3.5.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-collapse: 3.9.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-dialog: 9.6.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-drawer: 7.3.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-dropdown: 4.2.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-field-form: 2.7.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-image: 7.12.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-input: 1.8.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-input-number: 9.5.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-mentions: 2.20.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-menu: 9.16.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-motion: 2.9.5(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-notification: 5.6.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-pagination: 5.1.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-picker: 4.11.3(dayjs@1.11.13)(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-progress: 4.0.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-rate: 2.13.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-resize-observer: 1.4.3(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-segmented: 2.7.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-select: 14.16.8(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-slider: 11.1.9(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-steps: 6.0.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-switch: 4.1.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-table: 7.53.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-tabs: 15.7.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-textarea: 1.10.2(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-tooltip: 6.4.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-tree: 5.13.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-tree-select: 5.27.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-upload: 4.9.2(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-cascader: 3.34.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-checkbox: 3.5.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-collapse: 3.9.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-dialog: 9.6.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-drawer: 7.3.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-dropdown: 4.2.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-field-form: 2.7.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-image: 7.12.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-input: 1.8.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-input-number: 9.5.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-mentions: 2.20.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-menu: 9.16.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-motion: 2.9.5(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-notification: 5.6.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-pagination: 5.1.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-picker: 4.11.3(dayjs@1.11.13)(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-progress: 4.0.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-rate: 2.13.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-resize-observer: 1.4.3(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-segmented: 2.7.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-select: 14.16.8(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-slider: 11.1.9(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-steps: 6.0.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-switch: 4.1.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-table: 7.53.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-tabs: 15.7.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-textarea: 1.10.2(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-tooltip: 6.4.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-tree: 5.13.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-tree-select: 5.27.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-upload: 4.9.2(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
       scroll-into-view-if-needed: 3.1.0
       throttle-debounce: 5.0.2
     transitivePeerDependencies:
@@ -7923,10 +7912,10 @@ snapshots:
 
   bignumber.js@9.3.0: {}
 
-  bippy@0.3.11(@types/react@19.1.4)(react@19.1.1):
+  bippy@0.3.11(@types/react@19.1.4)(react@19.2.0):
     dependencies:
       '@types/react-reconciler': 0.28.9(@types/react@19.1.4)
-      react: 19.1.1
+      react: 19.2.0
     transitivePeerDependencies:
       - '@types/react'
 
@@ -8188,28 +8177,28 @@ snapshots:
     dependencies:
       ms: 2.1.3
 
-  deck.gl@9.1.14(@arcgis/core@4.32.10)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))(@luma.gl/webgl@9.2.1(@luma.gl/core@9.2.1))(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  deck.gl@9.1.15(@arcgis/core@4.32.10)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))(@luma.gl/webgl@9.2.2(@luma.gl/core@9.2.2))(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
-      '@deck.gl/aggregation-layers': 9.1.14(@deck.gl/core@9.1.14)(@deck.gl/layers@9.1.14(@deck.gl/core@9.1.14)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))))(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1)))
-      '@deck.gl/arcgis': 9.1.14(@arcgis/core@4.32.10)(@deck.gl/core@9.1.14)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1)))(@luma.gl/webgl@9.2.1(@luma.gl/core@9.2.1))
-      '@deck.gl/carto': 9.1.14(a21e023e1ff0c8cdb7c88487649d848c)
-      '@deck.gl/core': 9.1.14
-      '@deck.gl/extensions': 9.1.14(@deck.gl/core@9.1.14)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1)))
-      '@deck.gl/geo-layers': 9.1.14(@deck.gl/core@9.1.14)(@deck.gl/extensions@9.1.14(@deck.gl/core@9.1.14)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))))(@deck.gl/layers@9.1.14(@deck.gl/core@9.1.14)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))))(@deck.gl/mesh-layers@9.1.14(@deck.gl/core@9.1.14)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))))(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.1)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1)))
-      '@deck.gl/google-maps': 9.1.14(@deck.gl/core@9.1.14)(@luma.gl/core@9.1.9)(@luma.gl/webgl@9.2.1(@luma.gl/core@9.2.1))
-      '@deck.gl/json': 9.1.14(@deck.gl/core@9.1.14)
-      '@deck.gl/layers': 9.1.14(@deck.gl/core@9.1.14)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1)))
-      '@deck.gl/mapbox': 9.1.14(@deck.gl/core@9.1.14)(@luma.gl/core@9.1.9)
-      '@deck.gl/mesh-layers': 9.1.14(@deck.gl/core@9.1.14)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.1)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1)))
-      '@deck.gl/react': 9.1.14(@deck.gl/core@9.1.14)(@deck.gl/widgets@9.1.14(@deck.gl/core@9.1.14))(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@deck.gl/widgets': 9.1.14(@deck.gl/core@9.1.14)
+      '@deck.gl/aggregation-layers': 9.1.15(@deck.gl/core@9.1.15)(@deck.gl/layers@9.1.15(@deck.gl/core@9.1.15)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))))(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2)))
+      '@deck.gl/arcgis': 9.1.15(@arcgis/core@4.32.10)(@deck.gl/core@9.1.15)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2)))(@luma.gl/webgl@9.2.2(@luma.gl/core@9.2.2))
+      '@deck.gl/carto': 9.1.15(d3f59ae238468f3a21ce5db37aab08ed)
+      '@deck.gl/core': 9.1.15
+      '@deck.gl/extensions': 9.1.15(@deck.gl/core@9.1.15)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2)))
+      '@deck.gl/geo-layers': 9.1.15(@deck.gl/core@9.1.15)(@deck.gl/extensions@9.1.15(@deck.gl/core@9.1.15)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))))(@deck.gl/layers@9.1.15(@deck.gl/core@9.1.15)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))))(@deck.gl/mesh-layers@9.1.15(@deck.gl/core@9.1.15)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))))(@loaders.gl/core@4.3.4)(@luma.gl/core@9.2.2)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2)))
+      '@deck.gl/google-maps': 9.1.15(@deck.gl/core@9.1.15)(@luma.gl/core@9.1.9)(@luma.gl/webgl@9.2.2(@luma.gl/core@9.2.2))
+      '@deck.gl/json': 9.1.15(@deck.gl/core@9.1.15)
+      '@deck.gl/layers': 9.1.15(@deck.gl/core@9.1.15)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2)))
+      '@deck.gl/mapbox': 9.1.15(@deck.gl/core@9.1.15)(@luma.gl/core@9.1.9)
+      '@deck.gl/mesh-layers': 9.1.15(@deck.gl/core@9.1.15)(@loaders.gl/core@4.3.4)(@luma.gl/core@9.1.9)(@luma.gl/engine@9.1.9(@luma.gl/core@9.2.2)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2)))
+      '@deck.gl/react': 9.1.15(@deck.gl/core@9.1.15)(@deck.gl/widgets@9.1.15(@deck.gl/core@9.1.15))(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@deck.gl/widgets': 9.1.15(@deck.gl/core@9.1.15)
       '@loaders.gl/core': 4.3.4
       '@luma.gl/core': 9.1.9
-      '@luma.gl/engine': 9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.1))
+      '@luma.gl/engine': 9.1.9(@luma.gl/core@9.1.9)(@luma.gl/shadertools@9.1.9(@luma.gl/core@9.2.2))
     optionalDependencies:
       '@arcgis/core': 4.32.10
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
     transitivePeerDependencies:
       - '@luma.gl/shadertools'
       - '@luma.gl/webgl'
@@ -8734,14 +8723,14 @@ snapshots:
     dependencies:
       fetch-blob: 3.2.0
 
-  framer-motion@12.23.22(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  framer-motion@12.23.22(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       motion-dom: 12.23.21
       motion-utils: 12.23.6
       tslib: 2.8.1
     optionalDependencies:
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
   fsevents@2.3.2:
     optional: true
@@ -8922,10 +8911,10 @@ snapshots:
 
   isobject@3.0.1: {}
 
-  its-fine@2.0.0(@types/react@19.1.4)(react@19.1.1):
+  its-fine@2.0.0(@types/react@19.1.4)(react@19.2.0):
     dependencies:
       '@types/react-reconciler': 0.28.9(@types/react@19.1.4)
-      react: 19.1.1
+      react: 19.2.0
     transitivePeerDependencies:
       - '@types/react'
 
@@ -9121,7 +9110,7 @@ snapshots:
       tinyqueue: 2.0.3
       vt-pbf: 3.1.3
 
-  maplibre-gl@5.7.3:
+  maplibre-gl@5.8.0:
     dependencies:
       '@mapbox/geojson-rewind': 0.5.2
       '@mapbox/jsonlint-lines-primitives': 2.0.2
@@ -9130,7 +9119,7 @@ snapshots:
       '@mapbox/unitbezier': 0.0.1
       '@mapbox/vector-tile': 2.0.4
       '@mapbox/whoots-js': 3.1.0
-      '@maplibre/maplibre-gl-style-spec': 24.1.1
+      '@maplibre/maplibre-gl-style-spec': 24.2.0
       '@maplibre/vt-pbf': 4.0.3
       '@types/geojson': 7946.0.16
       '@types/geojson-vt': 3.2.5
@@ -9527,13 +9516,13 @@ snapshots:
 
   motion-utils@12.23.6: {}
 
-  motion@12.23.22(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  motion@12.23.22(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
-      framer-motion: 12.23.22(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      framer-motion: 12.23.22(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       tslib: 2.8.1
     optionalDependencies:
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
   mri@1.2.0: {}
 
@@ -9733,319 +9722,319 @@ snapshots:
 
   quickselect@3.0.0: {}
 
-  rc-cascader@3.34.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rc-cascader@3.34.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
       classnames: 2.5.1
-      rc-select: 14.16.8(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-tree: 5.13.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-select: 14.16.8(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-tree: 5.13.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  rc-checkbox@3.5.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rc-checkbox@3.5.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
       classnames: 2.5.1
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  rc-collapse@3.9.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rc-collapse@3.9.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
       classnames: 2.5.1
-      rc-motion: 2.9.5(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-motion: 2.9.5(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  rc-dialog@9.6.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rc-dialog@9.6.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
-      '@rc-component/portal': 1.1.2(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      '@rc-component/portal': 1.1.2(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       classnames: 2.5.1
-      rc-motion: 2.9.5(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-motion: 2.9.5(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  rc-drawer@7.3.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rc-drawer@7.3.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
-      '@rc-component/portal': 1.1.2(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      '@rc-component/portal': 1.1.2(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       classnames: 2.5.1
-      rc-motion: 2.9.5(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-motion: 2.9.5(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  rc-dropdown@4.2.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rc-dropdown@4.2.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
-      '@rc-component/trigger': 2.3.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      '@rc-component/trigger': 2.3.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       classnames: 2.5.1
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  rc-field-form@2.7.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rc-field-form@2.7.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
       '@rc-component/async-validator': 5.0.4
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  rc-image@7.12.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rc-image@7.12.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
-      '@rc-component/portal': 1.1.2(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      '@rc-component/portal': 1.1.2(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       classnames: 2.5.1
-      rc-dialog: 9.6.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-motion: 2.9.5(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-dialog: 9.6.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-motion: 2.9.5(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  rc-input-number@9.5.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rc-input-number@9.5.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
       '@rc-component/mini-decimal': 1.1.0
       classnames: 2.5.1
-      rc-input: 1.8.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-input: 1.8.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  rc-input@1.8.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rc-input@1.8.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
       classnames: 2.5.1
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  rc-mentions@2.20.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rc-mentions@2.20.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
-      '@rc-component/trigger': 2.3.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      '@rc-component/trigger': 2.3.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       classnames: 2.5.1
-      rc-input: 1.8.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-menu: 9.16.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-textarea: 1.10.2(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-input: 1.8.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-menu: 9.16.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-textarea: 1.10.2(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  rc-menu@9.16.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rc-menu@9.16.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
-      '@rc-component/trigger': 2.3.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      '@rc-component/trigger': 2.3.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       classnames: 2.5.1
-      rc-motion: 2.9.5(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-overflow: 1.4.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-motion: 2.9.5(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-overflow: 1.4.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  rc-motion@2.9.5(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
-    dependencies:
-      '@babel/runtime': 7.27.1
-      classnames: 2.5.1
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
-
-  rc-notification@5.6.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rc-motion@2.9.5(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
       classnames: 2.5.1
-      rc-motion: 2.9.5(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  rc-overflow@1.4.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rc-notification@5.6.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
       classnames: 2.5.1
-      rc-resize-observer: 1.4.3(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-motion: 2.9.5(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  rc-pagination@5.1.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rc-overflow@1.4.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
       classnames: 2.5.1
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-resize-observer: 1.4.3(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  rc-picker@4.11.3(dayjs@1.11.13)(luxon@3.5.0)(moment@2.30.1)(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rc-pagination@5.1.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
-      '@rc-component/trigger': 2.3.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
       classnames: 2.5.1
-      rc-overflow: 1.4.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-resize-observer: 1.4.3(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
+
+  rc-picker@4.11.3(dayjs@1.11.13)(luxon@3.5.0)(moment@2.30.1)(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
+    dependencies:
+      '@babel/runtime': 7.27.1
+      '@rc-component/trigger': 2.3.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      classnames: 2.5.1
+      rc-overflow: 1.4.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-resize-observer: 1.4.3(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
     optionalDependencies:
       dayjs: 1.11.13
       luxon: 3.5.0
       moment: 2.30.1
 
-  rc-progress@4.0.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rc-progress@4.0.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
       classnames: 2.5.1
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  rc-rate@2.13.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rc-rate@2.13.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
       classnames: 2.5.1
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  rc-resize-observer@0.2.6(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rc-resize-observer@0.2.6(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
       classnames: 2.5.1
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
       resize-observer-polyfill: 1.5.1
 
-  rc-resize-observer@1.4.3(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rc-resize-observer@1.4.3(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
       classnames: 2.5.1
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
       resize-observer-polyfill: 1.5.1
 
-  rc-segmented@2.7.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rc-segmented@2.7.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
       classnames: 2.5.1
-      rc-motion: 2.9.5(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-motion: 2.9.5(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  rc-select@14.16.8(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rc-select@14.16.8(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
-      '@rc-component/trigger': 2.3.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      '@rc-component/trigger': 2.3.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       classnames: 2.5.1
-      rc-motion: 2.9.5(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-overflow: 1.4.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-virtual-list: 3.18.6(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-motion: 2.9.5(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-overflow: 1.4.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-virtual-list: 3.18.6(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  rc-slider@11.1.9(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rc-slider@11.1.9(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
       classnames: 2.5.1
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  rc-steps@6.0.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rc-steps@6.0.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
       classnames: 2.5.1
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  rc-switch@4.1.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rc-switch@4.1.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
       classnames: 2.5.1
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  rc-table@7.53.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rc-table@7.53.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
-      '@rc-component/context': 1.4.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      '@rc-component/context': 1.4.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       classnames: 2.5.1
-      rc-resize-observer: 1.4.3(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-virtual-list: 3.18.6(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-resize-observer: 1.4.3(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-virtual-list: 3.18.6(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  rc-tabs@15.7.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rc-tabs@15.7.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
       classnames: 2.5.1
-      rc-dropdown: 4.2.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-menu: 9.16.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-motion: 2.9.5(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-resize-observer: 1.4.3(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-dropdown: 4.2.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-menu: 9.16.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-motion: 2.9.5(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-resize-observer: 1.4.3(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  rc-textarea@1.10.2(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rc-textarea@1.10.2(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
       classnames: 2.5.1
-      rc-input: 1.8.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-resize-observer: 1.4.3(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-input: 1.8.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-resize-observer: 1.4.3(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  rc-tooltip@6.4.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rc-tooltip@6.4.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
-      '@rc-component/trigger': 2.3.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      '@rc-component/trigger': 2.3.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       classnames: 2.5.1
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  rc-tree-select@5.27.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rc-tree-select@5.27.0(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
       classnames: 2.5.1
-      rc-select: 14.16.8(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-tree: 5.13.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-select: 14.16.8(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-tree: 5.13.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  rc-tree@5.13.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rc-tree@5.13.1(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
       classnames: 2.5.1
-      rc-motion: 2.9.5(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-virtual-list: 3.18.6(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-motion: 2.9.5(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-virtual-list: 3.18.6(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  rc-upload@4.9.2(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rc-upload@4.9.2(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
       classnames: 2.5.1
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
   rc-util@4.21.1:
     dependencies:
@@ -10055,26 +10044,26 @@ snapshots:
       react-lifecycles-compat: 3.0.4
       shallowequal: 1.1.0
 
-  rc-util@5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rc-util@5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
       react-is: 18.3.1
 
-  rc-virtual-list@3.18.6(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  rc-virtual-list@3.18.6(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
       classnames: 2.5.1
-      rc-resize-observer: 1.4.3(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      rc-util: 5.44.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      rc-resize-observer: 1.4.3(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      rc-util: 5.44.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  react-dom@19.1.1(react@19.1.1):
+  react-dom@19.2.0(react@19.2.0):
     dependencies:
-      react: 19.1.1
-      scheduler: 0.26.0
+      react: 19.2.0
+      scheduler: 0.27.0
 
   react-is@16.13.1: {}
 
@@ -10082,65 +10071,65 @@ snapshots:
 
   react-lifecycles-compat@3.0.4: {}
 
-  react-map-gl@8.0.4(mapbox-gl@1.13.3)(maplibre-gl@5.7.3)(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  react-map-gl@8.1.0(mapbox-gl@1.13.3)(maplibre-gl@5.8.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
-      '@vis.gl/react-mapbox': 8.0.4(mapbox-gl@1.13.3)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      '@vis.gl/react-maplibre': 8.0.4(maplibre-gl@5.7.3)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      '@vis.gl/react-mapbox': 8.1.0(mapbox-gl@1.13.3)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      '@vis.gl/react-maplibre': 8.1.0(maplibre-gl@5.8.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
     optionalDependencies:
       mapbox-gl: 1.13.3
-      maplibre-gl: 5.7.3
+      maplibre-gl: 5.8.0
 
-  react-number-format@5.4.4(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  react-number-format@5.4.4(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
 
-  react-reconciler@0.31.0(react@19.1.1):
+  react-reconciler@0.31.0(react@19.2.0):
     dependencies:
-      react: 19.1.1
+      react: 19.2.0
       scheduler: 0.25.0
 
-  react-remove-scroll-bar@2.3.8(@types/react@19.1.4)(react@19.1.1):
+  react-remove-scroll-bar@2.3.8(@types/react@19.1.4)(react@19.2.0):
     dependencies:
-      react: 19.1.1
-      react-style-singleton: 2.2.3(@types/react@19.1.4)(react@19.1.1)
+      react: 19.2.0
+      react-style-singleton: 2.2.3(@types/react@19.1.4)(react@19.2.0)
       tslib: 2.8.1
     optionalDependencies:
       '@types/react': 19.1.4
 
-  react-remove-scroll@2.7.1(@types/react@19.1.4)(react@19.1.1):
+  react-remove-scroll@2.7.1(@types/react@19.1.4)(react@19.2.0):
     dependencies:
-      react: 19.1.1
-      react-remove-scroll-bar: 2.3.8(@types/react@19.1.4)(react@19.1.1)
-      react-style-singleton: 2.2.3(@types/react@19.1.4)(react@19.1.1)
+      react: 19.2.0
+      react-remove-scroll-bar: 2.3.8(@types/react@19.1.4)(react@19.2.0)
+      react-style-singleton: 2.2.3(@types/react@19.1.4)(react@19.2.0)
       tslib: 2.8.1
-      use-callback-ref: 1.3.3(@types/react@19.1.4)(react@19.1.1)
-      use-sidecar: 1.1.3(@types/react@19.1.4)(react@19.1.1)
+      use-callback-ref: 1.3.3(@types/react@19.1.4)(react@19.2.0)
+      use-sidecar: 1.1.3(@types/react@19.1.4)(react@19.2.0)
     optionalDependencies:
       '@types/react': 19.1.4
 
-  react-scan@0.4.3(@types/react@19.1.4)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)(rollup@4.40.2):
+  react-scan@0.4.3(@types/react@19.1.4)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(rollup@4.40.2):
     dependencies:
       '@babel/core': 7.27.1
       '@babel/generator': 7.27.1
-      '@babel/types': 7.28.2
+      '@babel/types': 7.28.4
       '@clack/core': 0.3.5
       '@clack/prompts': 0.8.2
-      '@pivanov/utils': 0.0.2(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      '@pivanov/utils': 0.0.2(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       '@preact/signals': 1.3.2(preact@10.26.6)
       '@rollup/pluginutils': 5.1.4(rollup@4.40.2)
       '@types/node': 20.17.47
-      bippy: 0.3.11(@types/react@19.1.4)(react@19.1.1)
+      bippy: 0.3.11(@types/react@19.1.4)(react@19.2.0)
       esbuild: 0.25.4
       estree-walker: 3.0.3
       kleur: 4.1.5
       mri: 1.2.0
       playwright: 1.52.0
       preact: 10.26.6
-      react: 19.1.1
-      react-dom: 19.1.1(react@19.1.1)
+      react: 19.2.0
+      react-dom: 19.2.0(react@19.2.0)
       tsx: 4.20.6
     optionalDependencies:
       unplugin: 2.1.0
@@ -10149,45 +10138,45 @@ snapshots:
       - rollup
       - supports-color
 
-  react-style-singleton@2.2.3(@types/react@19.1.4)(react@19.1.1):
+  react-style-singleton@2.2.3(@types/react@19.1.4)(react@19.2.0):
     dependencies:
       get-nonce: 1.0.1
-      react: 19.1.1
+      react: 19.2.0
       tslib: 2.8.1
     optionalDependencies:
       '@types/react': 19.1.4
 
-  react-textarea-autosize@8.5.9(@types/react@19.1.4)(react@19.1.1):
+  react-textarea-autosize@8.5.9(@types/react@19.1.4)(react@19.2.0):
     dependencies:
       '@babel/runtime': 7.27.1
-      react: 19.1.1
-      use-composed-ref: 1.4.0(@types/react@19.1.4)(react@19.1.1)
-      use-latest: 1.3.0(@types/react@19.1.4)(react@19.1.1)
+      react: 19.2.0
+      use-composed-ref: 1.4.0(@types/react@19.1.4)(react@19.2.0)
+      use-latest: 1.3.0(@types/react@19.1.4)(react@19.2.0)
     transitivePeerDependencies:
       - '@types/react'
 
-  react-three-map@1.0.0(@react-three/fiber@9.3.0(@types/react@19.1.4)(immer@10.1.3)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)(three@0.180.0))(mapbox-gl@1.13.3)(maplibre-gl@5.7.3)(react-map-gl@8.0.4(mapbox-gl@1.13.3)(maplibre-gl@5.7.3)(react-dom@19.1.1(react@19.1.1))(react@19.1.1))(react@19.1.1)(three@0.180.0):
+  react-three-map@1.0.0(@react-three/fiber@9.3.0(@types/react@19.1.4)(immer@10.1.3)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(three@0.180.0))(mapbox-gl@1.13.3)(maplibre-gl@5.8.0)(react-map-gl@8.1.0(mapbox-gl@1.13.3)(maplibre-gl@5.8.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react@19.2.0)(three@0.180.0):
     dependencies:
-      '@react-three/fiber': 9.3.0(@types/react@19.1.4)(immer@10.1.3)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)(three@0.180.0)
-      react: 19.1.1
-      react-map-gl: 8.0.4(mapbox-gl@1.13.3)(maplibre-gl@5.7.3)(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      '@react-three/fiber': 9.3.0(@types/react@19.1.4)(immer@10.1.3)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(three@0.180.0)
+      react: 19.2.0
+      react-map-gl: 8.1.0(mapbox-gl@1.13.3)(maplibre-gl@5.8.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       three: 0.180.0
     optionalDependencies:
       mapbox-gl: 1.13.3
-      maplibre-gl: 5.7.3
+      maplibre-gl: 5.8.0
 
-  react-use-measure@2.1.7(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  react-use-measure@2.1.7(react-dom@19.2.0(react@19.2.0))(react@19.2.0):
     dependencies:
-      react: 19.1.1
+      react: 19.2.0
     optionalDependencies:
-      react-dom: 19.1.1(react@19.1.1)
+      react-dom: 19.2.0(react@19.2.0)
 
-  react@19.1.1: {}
+  react@19.2.0: {}
 
-  reactcss@1.2.3(react@19.1.1):
+  reactcss@1.2.3(react@19.2.0):
     dependencies:
       lodash: 4.17.21
-      react: 19.1.1
+      react: 19.2.0
 
   readable-stream@2.3.8:
     dependencies:
@@ -10279,7 +10268,7 @@ snapshots:
 
   scheduler@0.25.0: {}
 
-  scheduler@0.26.0: {}
+  scheduler@0.27.0: {}
 
   scroll-into-view-if-needed@3.1.0:
     dependencies:
@@ -10403,19 +10392,19 @@ snapshots:
     dependencies:
       has-flag: 4.0.0
 
-  suspend-react@0.1.3(react@19.1.1):
+  suspend-react@0.1.3(react@19.2.0):
     dependencies:
-      react: 19.1.1
+      react: 19.2.0
 
   sweepline-intersections@1.5.0:
     dependencies:
       tinyqueue: 2.0.3
 
-  swr@2.3.3(react@19.1.1):
+  swr@2.3.3(react@19.2.0):
     dependencies:
       dequal: 2.0.3
-      react: 19.1.1
-      use-sync-external-store: 1.5.0(react@19.1.1)
+      react: 19.2.0
+      use-sync-external-store: 1.5.0(react@19.2.0)
 
   synckit@0.11.6:
     dependencies:
@@ -10524,9 +10513,9 @@ snapshots:
     optionalDependencies:
       fsevents: 2.3.3
 
-  tunnel-rat@0.1.2(@types/react@19.1.4)(immer@10.1.3)(react@19.1.1):
+  tunnel-rat@0.1.2(@types/react@19.1.4)(immer@10.1.3)(react@19.2.0):
     dependencies:
-      zustand: 4.5.7(@types/react@19.1.4)(immer@10.1.3)(react@19.1.1)
+      zustand: 4.5.7(@types/react@19.1.4)(immer@10.1.3)(react@19.2.0)
     transitivePeerDependencies:
       - '@types/react'
       - immer
@@ -10596,43 +10585,43 @@ snapshots:
     dependencies:
       punycode: 2.3.1
 
-  use-callback-ref@1.3.3(@types/react@19.1.4)(react@19.1.1):
+  use-callback-ref@1.3.3(@types/react@19.1.4)(react@19.2.0):
     dependencies:
-      react: 19.1.1
+      react: 19.2.0
       tslib: 2.8.1
     optionalDependencies:
       '@types/react': 19.1.4
 
-  use-composed-ref@1.4.0(@types/react@19.1.4)(react@19.1.1):
+  use-composed-ref@1.4.0(@types/react@19.1.4)(react@19.2.0):
     dependencies:
-      react: 19.1.1
+      react: 19.2.0
     optionalDependencies:
       '@types/react': 19.1.4
 
-  use-isomorphic-layout-effect@1.2.0(@types/react@19.1.4)(react@19.1.1):
+  use-isomorphic-layout-effect@1.2.0(@types/react@19.1.4)(react@19.2.0):
     dependencies:
-      react: 19.1.1
+      react: 19.2.0
     optionalDependencies:
       '@types/react': 19.1.4
 
-  use-latest@1.3.0(@types/react@19.1.4)(react@19.1.1):
+  use-latest@1.3.0(@types/react@19.1.4)(react@19.2.0):
     dependencies:
-      react: 19.1.1
-      use-isomorphic-layout-effect: 1.2.0(@types/react@19.1.4)(react@19.1.1)
+      react: 19.2.0
+      use-isomorphic-layout-effect: 1.2.0(@types/react@19.1.4)(react@19.2.0)
     optionalDependencies:
       '@types/react': 19.1.4
 
-  use-sidecar@1.1.3(@types/react@19.1.4)(react@19.1.1):
+  use-sidecar@1.1.3(@types/react@19.1.4)(react@19.2.0):
     dependencies:
       detect-node-es: 1.1.0
-      react: 19.1.1
+      react: 19.2.0
       tslib: 2.8.1
     optionalDependencies:
       '@types/react': 19.1.4
 
-  use-sync-external-store@1.5.0(react@19.1.1):
+  use-sync-external-store@1.5.0(react@19.2.0):
     dependencies:
-      react: 19.1.1
+      react: 19.2.0
 
   util-deprecate@1.0.2: {}
 
@@ -10804,19 +10793,19 @@ snapshots:
   zstd-codec@0.1.5:
     optional: true
 
-  zustand@4.5.7(@types/react@19.1.4)(immer@10.1.3)(react@19.1.1):
+  zustand@4.5.7(@types/react@19.1.4)(immer@10.1.3)(react@19.2.0):
     dependencies:
-      use-sync-external-store: 1.5.0(react@19.1.1)
+      use-sync-external-store: 1.5.0(react@19.2.0)
     optionalDependencies:
       '@types/react': 19.1.4
       immer: 10.1.3
-      react: 19.1.1
+      react: 19.2.0
 
-  zustand@5.0.8(@types/react@19.1.4)(immer@10.1.3)(react@19.1.1)(use-sync-external-store@1.5.0(react@19.1.1)):
+  zustand@5.0.8(@types/react@19.1.4)(immer@10.1.3)(react@19.2.0)(use-sync-external-store@1.5.0(react@19.2.0)):
     optionalDependencies:
       '@types/react': 19.1.4
       immer: 10.1.3
-      react: 19.1.1
-      use-sync-external-store: 1.5.0(react@19.1.1)
+      react: 19.2.0
+      use-sync-external-store: 1.5.0(react@19.2.0)
 
   zwitch@2.0.4: {}
