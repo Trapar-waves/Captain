@@ -25,8 +25,8 @@ importers:
         specifier: ^0.16.1
         version: 0.16.1(typescript@5.9.3)
       '@trapar-waves/cli-template':
-        specifier: ^1.1.16
-        version: 1.1.16
+        specifier: ^1.1.17
+        version: 1.1.17
       '@trapar-waves/llm-template':
         specifier: ^1.1.16
         version: 1.1.16(@types/debug@4.1.12)(@types/node@24.9.2)(jiti@2.6.1)(tsx@4.20.6)(yaml@2.8.1)
@@ -1625,8 +1625,8 @@ packages:
   '@tanstack/store@0.7.0':
     resolution: {integrity: sha512-CNIhdoUsmD2NolYuaIs8VfWM467RK6oIBAW4nPEKZhg1smZ+/CwtCdpURgp7nxSqOaV9oKkzdWD80+bC66F/Jg==}
 
-  '@trapar-waves/cli-template@1.1.16':
-    resolution: {integrity: sha512-RVGzs1QzzNThah3JV6yEiulWnVjkzQj5PP+HDJzDhJya00OZDIahdspE+DFMqH1K9yrJN2TRMRPNHO6GBbXn+g==}
+  '@trapar-waves/cli-template@1.1.17':
+    resolution: {integrity: sha512-u5AfARHpnhtT34DjWW/37czRgisMH/DzSBbxFvCpSSkTUecxgoltC9f8hyMR5so6lvzR1zCWJ2Qpeoygge3Hvw==}
     hasBin: true
 
   '@trapar-waves/llm-template@1.1.16':
@@ -6872,7 +6872,7 @@ snapshots:
 
   '@tanstack/store@0.7.0': {}
 
-  '@trapar-waves/cli-template@1.1.16':
+  '@trapar-waves/cli-template@1.1.17':
     dependencies:
       consola: 3.4.2
       destr: 2.0.5
