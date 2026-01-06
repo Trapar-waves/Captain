@@ -61,7 +61,7 @@
     "@trapar-waves/vue-tailwind": "^1.1.21",
     "@types/node": "^24.10.4",
     "eslint": "^9.39.2",
-    "eslint-plugin-format": "^1.1.0",
+    "eslint-plugin-format": "^1.2.0",
     "tsx": "^4.21.0",
     "typescript": "^5.9.3"
   }
