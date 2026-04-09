@@ -48,7 +48,7 @@
     "ufo": "^1.6.3"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^8.0.0",
+    "@antfu/eslint-config": "^8.1.0",
     "@rslib/core": "^0.20.3",
     "@trapar-waves/cli-template": "^1.1.23",
     "@trapar-waves/llm-template": "^1.1.23",
