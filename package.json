@@ -53,7 +53,7 @@
     "@rslib/core": "^0.21.3",
     "@trapar-waves/cli-template": "^1.1.23",
     "@trapar-waves/llm-template": "^1.1.23",
-    "@trapar-waves/react-antd-pro": "^1.1.23",
+    "@trapar-waves/react-antd-pro": "^1.1.24",
     "@trapar-waves/react-mantine-tailwind": "^1.1.23",
     "@trapar-waves/react-tailwind": "^1.1.23",
     "@trapar-waves/react-tanstack": "^1.1.23",
