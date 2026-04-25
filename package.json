@@ -40,7 +40,8 @@
   "scripts": {
     "dev": "tsx ./src/index.ts",
     "build": "rslib build",
-    "build:watch": "rslib build --watch"
+    "build:watch": "rslib build --watch",
+    "lint": "eslint . --cache"
   },
   "dependencies": {
     "destr": "^2.0.5",

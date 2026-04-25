@@ -38,7 +38,7 @@ pnpm add @trapar-waves/captain
 This package is primarily used as a dependency to provide a list of available templates. Here's how you can import and use it in your project:
 
 ```js
-import { createList } from '@trapar-waves/captain';
+import { createList } from "@trapar-waves/captain";
 
 console.log(createList);
 // Outputs an array of template objects with name and description
