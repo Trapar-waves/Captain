@@ -1,3 +1,5 @@
+minimumReleaseAge: 480
+
 allowBuilds:
   '@trapar-waves/cli-template': false
   '@trapar-waves/llm-template': false
