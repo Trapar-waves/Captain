@@ -1,15 +1,19 @@
-minimumReleaseAge: 480
+minimumReleaseAge: 0
+
+shellEmulator: true
+
+trustPolicy: off
 
 allowBuilds:
-  '@trapar-waves/cli-template': false
-  '@trapar-waves/llm-template': false
-  '@trapar-waves/react-antd-pro': false
-  '@trapar-waves/react-mantine-tailwind': false
-  '@trapar-waves/react-tailwind': false
-  '@trapar-waves/react-tanstack': false
-  '@trapar-waves/react-three-maplibre': false
-  '@trapar-waves/react-visgl-maplibre': false
-  '@trapar-waves/vue-tailwind': false
-  '@vaadin/vaadin-usage-statistics': false
+  "@trapar-waves/cli-template": false
+  "@trapar-waves/llm-template": false
+  "@trapar-waves/react-antd-pro": false
+  "@trapar-waves/react-mantine-tailwind": false
+  "@trapar-waves/react-tailwind": false
+  "@trapar-waves/react-tanstack": false
+  "@trapar-waves/react-three-maplibre": false
+  "@trapar-waves/react-visgl-maplibre": false
+  "@trapar-waves/vue-tailwind": false
+  "@vaadin/vaadin-usage-statistics": false
   core-js: false
   esbuild: true
