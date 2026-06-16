@@ -52,7 +52,7 @@ importers:
         specifier: ^1.2.0
         version: 1.2.0(typescript@6.0.3)
       '@types/node':
-        specifier: ^25.9.2
+        specifier: ^25.9.3
         version: 25.9.3
       eslint:
         specifier: ^10.5.0
