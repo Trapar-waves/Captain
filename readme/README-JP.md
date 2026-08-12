@@ -17,8 +17,6 @@
 
 ![Features](../assets/readme/headers/features.svg)
 
-## ✨ 特徴
-
 - **集中型テンプレートレジストリ：** 複数のプロジェクトテンプレート（CLI、React、Vue、LLM など）を単一の情報源から管理。
 - **事前統合されたメタデータ：** 公式 Trapar Waves テンプレートパッケージのメタデータが組み込まれており、すぐに使用可能。
 - **統一テンプレートリスト：** プログラムによるテンプレートへのアクセスと選択のための一貫した API（`createList`）を提供。
@@ -27,8 +25,6 @@
 - **軽量：** 最小限の依存関係（`destr`、`pkg-types`、`ufo`）で小さなフットプリント。
 
 ![Tech Stack](../assets/readme/headers/tech-stack.svg)
-
-## 💻 技術スタック
 
 - **言語：** TypeScript
 - **ビルドツール：** Rslib（`@rslib/core`）
@@ -39,8 +35,6 @@
 依存関係の完全なリストは [package.json](../package.json) を参照してください。
 
 ![Getting Started](../assets/readme/headers/getting-started.svg)
-
-## 🚀 はじめに
 
 ### 前提条件
 
@@ -80,8 +74,6 @@ console.log(createList);
 
 ![Project Structure](../assets/readme/headers/project-structure.svg)
 
-## 📁 プロジェクト構造
-
 ```
 ├── src/
 │   ├── index.ts          # エントリーポイント、パブリック API の再エクスポート
@@ -95,8 +87,6 @@ console.log(createList);
 ```
 
 ![Supported Templates](../assets/readme/headers/supported-templates.svg)
-
-## 📋 サポートされているテンプレート
 
 | テンプレート | 説明 |
 |-------------|------|
@@ -112,8 +102,6 @@ console.log(createList);
 
 ![Contributing](../assets/readme/headers/contributing.svg)
 
-## 🤝 コントリビュート
-
 コントリビュートを歓迎します！以下の手順に従ってコントリビュートしてください：
 
 1. リポジトリをフォーク
@@ -123,8 +111,6 @@ console.log(createList);
 5. Pull Request を作成
 
 ![License](../assets/readme/headers/license.svg)
-
-## 📄 ライセンス
 
 MIT License © 2025 Trapar Waves
 

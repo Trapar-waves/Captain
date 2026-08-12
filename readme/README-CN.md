@@ -17,8 +17,6 @@
 
 ![Features](../assets/readme/headers/features.svg)
 
-## ✨ 特性
-
 - **集中式模板注册表：** 从单一来源管理多个项目模板（CLI、React、Vue、LLM 等）。
 - **预集成元数据：** 内置来自官方 Trapar Waves 模板包的模板元数据，开箱即用。
 - **统一模板列表：** 提供一致的 API（`createList`），支持以编程方式访问和选择模板。
@@ -27,8 +25,6 @@
 - **轻量级：** 最少的依赖（`destr`、`pkg-types`、`ufo`），体积小巧。
 
 ![Tech Stack](../assets/readme/headers/tech-stack.svg)
-
-## 💻 技术栈
 
 - **语言：** TypeScript
 - **构建工具：** Rslib（`@rslib/core`）
@@ -39,8 +35,6 @@
 查看 [package.json](../package.json) 获取完整的依赖列表。
 
 ![Getting Started](../assets/readme/headers/getting-started.svg)
-
-## 🚀 快速开始
 
 ### 前置条件
 
@@ -80,8 +74,6 @@ console.log(createList);
 
 ![Project Structure](../assets/readme/headers/project-structure.svg)
 
-## 📁 项目结构
-
 ```
 ├── src/
 │   ├── index.ts          # 入口点，重新导出公共 API
@@ -95,8 +87,6 @@ console.log(createList);
 ```
 
 ![Supported Templates](../assets/readme/headers/supported-templates.svg)
-
-## 📋 支持的模板
 
 | 模板 | 描述 |
 |------|------|
@@ -112,8 +102,6 @@ console.log(createList);
 
 ![Contributing](../assets/readme/headers/contributing.svg)
 
-## 🤝 贡献
-
 欢迎贡献，非常感谢！请按照以下步骤贡献：
 
 1. Fork 仓库
@@ -123,8 +111,6 @@ console.log(createList);
 5. 创建 Pull Request
 
 ![License](../assets/readme/headers/license.svg)
-
-## 📄 许可证
 
 MIT License © 2025 Trapar Waves
 

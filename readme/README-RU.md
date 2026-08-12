@@ -17,8 +17,6 @@
 
 ![Features](../assets/readme/headers/features.svg)
 
-## ✨ Возможности
-
 - **Централизованный реестр шаблонов:** Управление несколькими проектными шаблонами (CLI, React, Vue, LLM и др.) из единого источника.
 - **Предустановленные метаданные:** Поставляется со встроенными метаданными шаблонов из официальных пакетов Trapar Waves, готовыми к использованию.
 - **Единый список шаблонов:** Предоставляет единообразный API (`createList`) для программного доступа и выбора шаблонов.
@@ -27,8 +25,6 @@
 - **Лёгкость:** Минимальные зависимости (`destr`, `pkg-types`, `ufo`) с небольшим размером.
 
 ![Tech Stack](../assets/readme/headers/tech-stack.svg)
-
-## 💻 Технический стек
 
 - **Язык:** TypeScript
 - **Инструмент сборки:** Rslib (`@rslib/core`)
@@ -39,8 +35,6 @@
 Полный список зависимостей смотрите в [package.json](../package.json).
 
 ![Getting Started](../assets/readme/headers/getting-started.svg)
-
-## 🚀 Начало работы
 
 ### Предварительные требования
 
@@ -80,8 +74,6 @@ console.log(createList);
 
 ![Project Structure](../assets/readme/headers/project-structure.svg)
 
-## 📁 Структура проекта
-
 ```
 ├── src/
 │   ├── index.ts          # Точка входа, реэкспорт публичного API
@@ -95,8 +87,6 @@ console.log(createList);
 ```
 
 ![Supported Templates](../assets/readme/headers/supported-templates.svg)
-
-## 📋 Поддерживаемые шаблоны
 
 | Шаблон | Описание |
 |--------|----------|
@@ -112,8 +102,6 @@ console.log(createList);
 
 ![Contributing](../assets/readme/headers/contributing.svg)
 
-## 🤝 Участие в разработке
-
 Участие приветствуется и высоко ценится! Пожалуйста, следуйте этим шагам для вклада:
 
 1. Fork репозиторий
@@ -123,8 +111,6 @@ console.log(createList);
 5. Откройте Pull Request
 
 ![License](../assets/readme/headers/license.svg)
-
-## 📄 Лицензия
 
 MIT License © 2025 Trapar Waves
 

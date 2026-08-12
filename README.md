@@ -17,8 +17,6 @@
 
 ![Features](assets/readme/headers/features.svg)
 
-## ✨ Features
-
 - **Centralized Template Registry:** Manages multiple project templates (CLI, React, Vue, LLM, etc.) from a single source of truth.
 - **Pre-integrated Metadata:** Ships with built-in template metadata from official Trapar Waves template packages, ready to use out of the box.
 - **Unified Template List:** Provides a consistent API (`createList`) for accessing and selecting templates programmatically.
@@ -27,8 +25,6 @@
 - **Lightweight:** Minimal dependencies (`destr`, `pkg-types`, `ufo`) with a small footprint.
 
 ![Tech Stack](assets/readme/headers/tech-stack.svg)
-
-## 💻 Tech Stack
 
 - **Language:** TypeScript
 - **Build Tool:** Rslib (`@rslib/core`)
@@ -39,8 +35,6 @@
 See the [package.json](./package.json) for a full list of dependencies.
 
 ![Getting Started](assets/readme/headers/getting-started.svg)
-
-## 🚀 Getting Started
 
 ### Prerequisites
 
@@ -80,8 +74,6 @@ console.log(createList);
 
 ![Project Structure](assets/readme/headers/project-structure.svg)
 
-## 📁 Project Structure
-
 ```
 ├── src/
 │   ├── index.ts          # Entry point, re-exports public API
@@ -95,8 +87,6 @@ console.log(createList);
 ```
 
 ![Supported Templates](assets/readme/headers/supported-templates.svg)
-
-## 📋 Supported Templates
 
 | Template | Description |
 |----------|-------------|
@@ -112,8 +102,6 @@ console.log(createList);
 
 ![Contributing](assets/readme/headers/contributing.svg)
 
-## 🤝 Contributing
-
 Contributions are welcome and greatly appreciated! Please follow these steps to contribute:
 
 1. Fork the repository
@@ -123,8 +111,6 @@ Contributions are welcome and greatly appreciated! Please follow these steps to 
 5. Open a Pull Request
 
 ![License](assets/readme/headers/license.svg)
-
-## 📄 License
 
 MIT License © 2025 Trapar Waves
 
