@@ -13,6 +13,10 @@
 
 > Инструмент управления шаблонами для организации и перечисления различных проектных шаблонов. Предоставляет единый реестр шаблонных пакетов Trapar Waves с метаданными, обеспечивая быстрый поиск и выбор шаблонов для CLI, React, Vue, LLM и других.
 
+![Captain hero](../assets/readme/hero.svg)
+
+![Features](../assets/readme/headers/features.svg)
+
 ## ✨ Возможности
 
 - **Централизованный реестр шаблонов:** Управление несколькими проектными шаблонами (CLI, React, Vue, LLM и др.) из единого источника.
@@ -21,6 +25,8 @@
 - **Поддержка двух форматов модулей:** Поддерживает как ESM, так и CommonJS форматы модулей для максимальной совместимости.
 - **Типобезопасность:** Написан на TypeScript с экспортируемыми полными определениями типов для надёжного опыта разработки.
 - **Лёгкость:** Минимальные зависимости (`destr`, `pkg-types`, `ufo`) с небольшим размером.
+
+![Tech Stack](../assets/readme/headers/tech-stack.svg)
 
 ## 💻 Технический стек
 
@@ -31,6 +37,8 @@
 - **Линтинг:** ESLint и `@antfu/eslint-config`
 
 Полный список зависимостей смотрите в [package.json](../package.json).
+
+![Getting Started](../assets/readme/headers/getting-started.svg)
 
 ## 🚀 Начало работы
 
@@ -70,6 +78,8 @@ console.log(createList);
 // Выводит массив объектов шаблонов с именем и описанием
 ```
 
+![Project Structure](../assets/readme/headers/project-structure.svg)
+
 ## 📁 Структура проекта
 
 ```
@@ -83,6 +93,8 @@ console.log(createList);
 ├── tsconfig.json         # Конфигурация TypeScript
 └── package.json          # Зависимости и скрипты проекта
 ```
+
+![Supported Templates](../assets/readme/headers/supported-templates.svg)
 
 ## 📋 Поддерживаемые шаблоны
 
@@ -98,6 +110,8 @@ console.log(createList);
 | `@trapar-waves/react-visgl-maplibre` | Геопространственный 3D рендеринг (Deck.gl + MapLibre) |
 | `@trapar-waves/vue-tailwind` | Стартер Vue 3 + Tailwind |
 
+![Contributing](../assets/readme/headers/contributing.svg)
+
 ## 🤝 Участие в разработке
 
 Участие приветствуется и высоко ценится! Пожалуйста, следуйте этим шагам для вклада:
@@ -107,6 +121,8 @@ console.log(createList);
 3. Зафиксируйте изменения (`git commit -m 'Add some amazing feature'`)
 4. Отправьте изменения в ветку (`git push origin feature/amazing-feature`)
 5. Откройте Pull Request
+
+![License](../assets/readme/headers/license.svg)
 
 ## 📄 Лицензия
 

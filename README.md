@@ -13,6 +13,10 @@
 
 > A template management tool for organizing and listing various project templates. It provides a unified registry of Trapar Waves template packages with metadata, enabling quick discovery and selection of templates for CLI, React, Vue, LLM, and more.
 
+![Captain hero](assets/readme/hero.svg)
+
+![Features](assets/readme/headers/features.svg)
+
 ## ✨ Features
 
 - **Centralized Template Registry:** Manages multiple project templates (CLI, React, Vue, LLM, etc.) from a single source of truth.
@@ -21,6 +25,8 @@
 - **Dual Module Support:** Supports both ESM and CommonJS module formats for maximum compatibility.
 - **Type Safety:** Written in TypeScript with full type definitions exported for a reliable developer experience.
 - **Lightweight:** Minimal dependencies (`destr`, `pkg-types`, `ufo`) with a small footprint.
+
+![Tech Stack](assets/readme/headers/tech-stack.svg)
 
 ## 💻 Tech Stack
 
@@ -31,6 +37,8 @@
 - **Linting:** ESLint with `@antfu/eslint-config`
 
 See the [package.json](./package.json) for a full list of dependencies.
+
+![Getting Started](assets/readme/headers/getting-started.svg)
 
 ## 🚀 Getting Started
 
@@ -70,6 +78,8 @@ console.log(createList);
 // Outputs an array of template objects with name and description
 ```
 
+![Project Structure](assets/readme/headers/project-structure.svg)
+
 ## 📁 Project Structure
 
 ```
@@ -83,6 +93,8 @@ console.log(createList);
 ├── tsconfig.json         # TypeScript configuration
 └── package.json          # Project dependencies and scripts
 ```
+
+![Supported Templates](assets/readme/headers/supported-templates.svg)
 
 ## 📋 Supported Templates
 
@@ -98,6 +110,8 @@ console.log(createList);
 | `@trapar-waves/react-visgl-maplibre` | Geospatial 3D rendering (Deck.gl + MapLibre) |
 | `@trapar-waves/vue-tailwind` | Vue 3 + Tailwind starter |
 
+![Contributing](assets/readme/headers/contributing.svg)
+
 ## 🤝 Contributing
 
 Contributions are welcome and greatly appreciated! Please follow these steps to contribute:
@@ -107,6 +121,8 @@ Contributions are welcome and greatly appreciated! Please follow these steps to 
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
+
+![License](assets/readme/headers/license.svg)
 
 ## 📄 License
 

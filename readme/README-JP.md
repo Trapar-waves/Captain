@@ -13,6 +13,10 @@
 
 > さまざまなプロジェクトテンプレートを整理・一覧表示するテンプレート管理ツール。CLI、React、Vue、LLM などのテンプレートを迅速に発見・選択できるよう、Trapar Waves テンプレートパッケージの統一レジストリとメタデータを提供します。
 
+![Captain hero](../assets/readme/hero.svg)
+
+![Features](../assets/readme/headers/features.svg)
+
 ## ✨ 特徴
 
 - **集中型テンプレートレジストリ：** 複数のプロジェクトテンプレート（CLI、React、Vue、LLM など）を単一の情報源から管理。
@@ -21,6 +25,8 @@
 - **デュアルモジュールサポート：** ESM と CommonJS の両方のモジュール形式に対応し、最大限の互換性を実現。
 - **型安全性：** TypeScript で記述され、完全な型定義がエクスポートされ、信頼性の高い開発体験を提供。
 - **軽量：** 最小限の依存関係（`destr`、`pkg-types`、`ufo`）で小さなフットプリント。
+
+![Tech Stack](../assets/readme/headers/tech-stack.svg)
 
 ## 💻 技術スタック
 
@@ -31,6 +37,8 @@
 - **リント：** ESLint と `@antfu/eslint-config`
 
 依存関係の完全なリストは [package.json](../package.json) を参照してください。
+
+![Getting Started](../assets/readme/headers/getting-started.svg)
 
 ## 🚀 はじめに
 
@@ -70,6 +78,8 @@ console.log(createList);
 // 名前と説明を含むテンプレートオブジェクトの配列を出力
 ```
 
+![Project Structure](../assets/readme/headers/project-structure.svg)
+
 ## 📁 プロジェクト構造
 
 ```
@@ -83,6 +93,8 @@ console.log(createList);
 ├── tsconfig.json         # TypeScript 設定
 └── package.json          # プロジェクトの依存関係とスクリプト
 ```
+
+![Supported Templates](../assets/readme/headers/supported-templates.svg)
 
 ## 📋 サポートされているテンプレート
 
@@ -98,6 +110,8 @@ console.log(createList);
 | `@trapar-waves/react-visgl-maplibre` | 地理空間 3D レンダリング（Deck.gl + MapLibre） |
 | `@trapar-waves/vue-tailwind` | Vue 3 + Tailwind スターター |
 
+![Contributing](../assets/readme/headers/contributing.svg)
+
 ## 🤝 コントリビュート
 
 コントリビュートを歓迎します！以下の手順に従ってコントリビュートしてください：
@@ -107,6 +121,8 @@ console.log(createList);
 3. 変更をコミット（`git commit -m 'Add some amazing feature'`）
 4. ブランチにプッシュ（`git push origin feature/amazing-feature`）
 5. Pull Request を作成
+
+![License](../assets/readme/headers/license.svg)
 
 ## 📄 ライセンス
 

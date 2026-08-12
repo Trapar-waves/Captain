@@ -13,6 +13,10 @@
 
 > 一个模板管理工具，用于组织和列出各种项目模板。它提供了 Trapar Waves 模板包的统一注册表及元数据，方便快速发现和选择 CLI、React、Vue、LLM 等模板。
 
+![Captain hero](../assets/readme/hero.svg)
+
+![Features](../assets/readme/headers/features.svg)
+
 ## ✨ 特性
 
 - **集中式模板注册表：** 从单一来源管理多个项目模板（CLI、React、Vue、LLM 等）。
@@ -21,6 +25,8 @@
 - **双模块格式支持：** 同时支持 ESM 和 CommonJS 模块格式，具有最大兼容性。
 - **类型安全：** 使用 TypeScript 编写，导出完整的类型定义，提供可靠的开发体验。
 - **轻量级：** 最少的依赖（`destr`、`pkg-types`、`ufo`），体积小巧。
+
+![Tech Stack](../assets/readme/headers/tech-stack.svg)
 
 ## 💻 技术栈
 
@@ -31,6 +37,8 @@
 - **代码检查：** ESLint 和 `@antfu/eslint-config`
 
 查看 [package.json](../package.json) 获取完整的依赖列表。
+
+![Getting Started](../assets/readme/headers/getting-started.svg)
 
 ## 🚀 快速开始
 
@@ -70,6 +78,8 @@ console.log(createList);
 // 输出包含名称和描述的模板对象数组
 ```
 
+![Project Structure](../assets/readme/headers/project-structure.svg)
+
 ## 📁 项目结构
 
 ```
@@ -83,6 +93,8 @@ console.log(createList);
 ├── tsconfig.json         # TypeScript 配置
 └── package.json          # 项目依赖和脚本
 ```
+
+![Supported Templates](../assets/readme/headers/supported-templates.svg)
 
 ## 📋 支持的模板
 
@@ -98,6 +110,8 @@ console.log(createList);
 | `@trapar-waves/react-visgl-maplibre` | 地理空间 3D 渲染（Deck.gl + MapLibre） |
 | `@trapar-waves/vue-tailwind` | Vue 3 + Tailwind 入门模板 |
 
+![Contributing](../assets/readme/headers/contributing.svg)
+
 ## 🤝 贡献
 
 欢迎贡献，非常感谢！请按照以下步骤贡献：
@@ -107,6 +121,8 @@ console.log(createList);
 3. 提交更改（`git commit -m 'Add some amazing feature'`）
 4. 推送到分支（`git push origin feature/amazing-feature`）
 5. 创建 Pull Request
+
+![License](../assets/readme/headers/license.svg)
 
 ## 📄 许可证
 
