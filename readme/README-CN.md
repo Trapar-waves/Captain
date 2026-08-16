@@ -36,7 +36,7 @@
 
 ![Getting Started](../assets/readme/headers/getting-started.svg)
 
-### 前置条件
+## 前置条件
 
 - Node.js（推荐 >= 18.x）
 - 包管理器（npm、yarn 或 pnpm）
@@ -66,7 +66,7 @@ pnpm add @trapar-waves/captain
 在项目中导入并使用模板列表：
 
 ```ts
-import { createList } from '@trapar-waves/captain';
+import { createList } from "@trapar-waves/captain";
 
 console.log(createList);
 // 输出包含名称和描述的模板对象数组
@@ -88,17 +88,17 @@ console.log(createList);
 
 ![Supported Templates](../assets/readme/headers/supported-templates.svg)
 
-| 模板 | 描述 |
-|------|------|
-| `@trapar-waves/cli-template` | CLI 开发模板 |
-| `@trapar-waves/llm-template` | LLM 项目模板 |
-| `@trapar-waves/react-antd-pro` | React + Ant Design Pro 企业应用 |
-| `@trapar-waves/react-mantine-tailwind` | React + Mantine + Tailwind UI |
-| `@trapar-waves/react-tailwind` | React + Tailwind 入门模板 |
-| `@trapar-waves/react-tanstack` | React + TanStack Query/Router |
-| `@trapar-waves/react-three-maplibre` | 3D 地图可视化（Three.js + MapLibre） |
-| `@trapar-waves/react-visgl-maplibre` | 地理空间 3D 渲染（Deck.gl + MapLibre） |
-| `@trapar-waves/vue-tailwind` | Vue 3 + Tailwind 入门模板 |
+| 模板                                   | 描述                                   |
+| -------------------------------------- | -------------------------------------- |
+| `@trapar-waves/cli-template`           | CLI 开发模板                           |
+| `@trapar-waves/llm-template`           | LLM 项目模板                           |
+| `@trapar-waves/react-antd-pro`         | React + Ant Design Pro 企业应用        |
+| `@trapar-waves/react-mantine-tailwind` | React + Mantine + Tailwind UI          |
+| `@trapar-waves/react-tailwind`         | React + Tailwind 入门模板              |
+| `@trapar-waves/react-tanstack`         | React + TanStack Query/Router          |
+| `@trapar-waves/react-three-maplibre`   | 3D 地图可视化（Three.js + MapLibre）   |
+| `@trapar-waves/react-visgl-maplibre`   | 地理空间 3D 渲染（Deck.gl + MapLibre） |
+| `@trapar-waves/vue-tailwind`           | Vue 3 + Tailwind 入门模板              |
 
 ![Contributing](../assets/readme/headers/contributing.svg)
 

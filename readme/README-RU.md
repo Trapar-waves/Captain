@@ -36,7 +36,7 @@
 
 ![Getting Started](../assets/readme/headers/getting-started.svg)
 
-### Предварительные требования
+## Предварительные требования
 
 - Node.js (рекомендуется >= 18.x)
 - Менеджер пакетов (npm, yarn или pnpm)
@@ -66,7 +66,7 @@ pnpm add @trapar-waves/captain
 Импортируйте и используйте список шаблонов в вашем проекте:
 
 ```ts
-import { createList } from '@trapar-waves/captain';
+import { createList } from "@trapar-waves/captain";
 
 console.log(createList);
 // Выводит массив объектов шаблонов с именем и описанием
@@ -88,17 +88,17 @@ console.log(createList);
 
 ![Supported Templates](../assets/readme/headers/supported-templates.svg)
 
-| Шаблон | Описание |
-|--------|----------|
-| `@trapar-waves/cli-template` | Шаблон разработки CLI |
-| `@trapar-waves/llm-template` | Шаблон проекта LLM |
-| `@trapar-waves/react-antd-pro` | Корпоративное приложение React + Ant Design Pro |
-| `@trapar-waves/react-mantine-tailwind` | React + Mantine + Tailwind UI |
-| `@trapar-waves/react-tailwind` | Стартер React + Tailwind |
-| `@trapar-waves/react-tanstack` | React + TanStack Query/Router |
-| `@trapar-waves/react-three-maplibre` | 3D визуализация карт (Three.js + MapLibre) |
-| `@trapar-waves/react-visgl-maplibre` | Геопространственный 3D рендеринг (Deck.gl + MapLibre) |
-| `@trapar-waves/vue-tailwind` | Стартер Vue 3 + Tailwind |
+| Шаблон                                 | Описание                                              |
+| -------------------------------------- | ----------------------------------------------------- |
+| `@trapar-waves/cli-template`           | Шаблон разработки CLI                                 |
+| `@trapar-waves/llm-template`           | Шаблон проекта LLM                                    |
+| `@trapar-waves/react-antd-pro`         | Корпоративное приложение React + Ant Design Pro       |
+| `@trapar-waves/react-mantine-tailwind` | React + Mantine + Tailwind UI                         |
+| `@trapar-waves/react-tailwind`         | Стартер React + Tailwind                              |
+| `@trapar-waves/react-tanstack`         | React + TanStack Query/Router                         |
+| `@trapar-waves/react-three-maplibre`   | 3D визуализация карт (Three.js + MapLibre)            |
+| `@trapar-waves/react-visgl-maplibre`   | Геопространственный 3D рендеринг (Deck.gl + MapLibre) |
+| `@trapar-waves/vue-tailwind`           | Стартер Vue 3 + Tailwind                              |
 
 ![Contributing](../assets/readme/headers/contributing.svg)
 

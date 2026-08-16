@@ -36,7 +36,7 @@
 
 ![Getting Started](../assets/readme/headers/getting-started.svg)
 
-### 前提条件
+## 前提条件
 
 - Node.js（>= 18.x 推奨）
 - パッケージマネージャー（npm、yarn、または pnpm）
@@ -66,7 +66,7 @@ pnpm add @trapar-waves/captain
 プロジェクトでテンプレートリストをインポートして使用：
 
 ```ts
-import { createList } from '@trapar-waves/captain';
+import { createList } from "@trapar-waves/captain";
 
 console.log(createList);
 // 名前と説明を含むテンプレートオブジェクトの配列を出力
@@ -88,17 +88,17 @@ console.log(createList);
 
 ![Supported Templates](../assets/readme/headers/supported-templates.svg)
 
-| テンプレート | 説明 |
-|-------------|------|
-| `@trapar-waves/cli-template` | CLI 開発テンプレート |
-| `@trapar-waves/llm-template` | LLM プロジェクトテンプレート |
-| `@trapar-waves/react-antd-pro` | React + Ant Design Pro エンタープライズアプリ |
-| `@trapar-waves/react-mantine-tailwind` | React + Mantine + Tailwind UI |
-| `@trapar-waves/react-tailwind` | React + Tailwind スターター |
-| `@trapar-waves/react-tanstack` | React + TanStack Query/Router |
-| `@trapar-waves/react-three-maplibre` | 3D マップ可視化（Three.js + MapLibre） |
-| `@trapar-waves/react-visgl-maplibre` | 地理空間 3D レンダリング（Deck.gl + MapLibre） |
-| `@trapar-waves/vue-tailwind` | Vue 3 + Tailwind スターター |
+| テンプレート                           | 説明                                           |
+| -------------------------------------- | ---------------------------------------------- |
+| `@trapar-waves/cli-template`           | CLI 開発テンプレート                           |
+| `@trapar-waves/llm-template`           | LLM プロジェクトテンプレート                   |
+| `@trapar-waves/react-antd-pro`         | React + Ant Design Pro エンタープライズアプリ  |
+| `@trapar-waves/react-mantine-tailwind` | React + Mantine + Tailwind UI                  |
+| `@trapar-waves/react-tailwind`         | React + Tailwind スターター                    |
+| `@trapar-waves/react-tanstack`         | React + TanStack Query/Router                  |
+| `@trapar-waves/react-three-maplibre`   | 3D マップ可視化（Three.js + MapLibre）         |
+| `@trapar-waves/react-visgl-maplibre`   | 地理空間 3D レンダリング（Deck.gl + MapLibre） |
+| `@trapar-waves/vue-tailwind`           | Vue 3 + Tailwind スターター                    |
 
 ![Contributing](../assets/readme/headers/contributing.svg)
 

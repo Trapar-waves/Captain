@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "lib": ["ES2017"],
+    "rootDir": "src",
     "module": "esnext",
     "moduleResolution": "bundler",
     "resolveJsonModule": true,
@@ -13,7 +14,6 @@
     "noUnusedParameters": true,
     "declaration": true,
     "outDir": "dist",
-    "rootDir": "src",
     "sourceMap": true,
     "forceConsistentCasingInFileNames": true,
     "skipLibCheck": true

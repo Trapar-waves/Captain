@@ -36,7 +36,7 @@ See the [package.json](./package.json) for a full list of dependencies.
 
 ![Getting Started](assets/readme/headers/getting-started.svg)
 
-### Prerequisites
+## Prerequisites
 
 - Node.js (>= 18.x recommended)
 - Package manager (npm, yarn, or pnpm)
@@ -66,7 +66,7 @@ pnpm add @trapar-waves/captain
 Import and use the template list in your project:
 
 ```ts
-import { createList } from '@trapar-waves/captain';
+import { createList } from "@trapar-waves/captain";
 
 console.log(createList);
 // Outputs an array of template objects with name and description
@@ -88,17 +88,17 @@ console.log(createList);
 
 ![Supported Templates](assets/readme/headers/supported-templates.svg)
 
-| Template | Description |
-|----------|-------------|
-| `@trapar-waves/cli-template` | CLI development template |
-| `@trapar-waves/llm-template` | LLM project template |
-| `@trapar-waves/react-antd-pro` | React + Ant Design Pro enterprise app |
-| `@trapar-waves/react-mantine-tailwind` | React + Mantine + Tailwind UI |
-| `@trapar-waves/react-tailwind` | React + Tailwind starter |
-| `@trapar-waves/react-tanstack` | React + TanStack Query/Router |
-| `@trapar-waves/react-three-maplibre` | 3D map visualization (Three.js + MapLibre) |
-| `@trapar-waves/react-visgl-maplibre` | Geospatial 3D rendering (Deck.gl + MapLibre) |
-| `@trapar-waves/vue-tailwind` | Vue 3 + Tailwind starter |
+| Template                               | Description                                  |
+| -------------------------------------- | -------------------------------------------- |
+| `@trapar-waves/cli-template`           | CLI development template                     |
+| `@trapar-waves/llm-template`           | LLM project template                         |
+| `@trapar-waves/react-antd-pro`         | React + Ant Design Pro enterprise app        |
+| `@trapar-waves/react-mantine-tailwind` | React + Mantine + Tailwind UI                |
+| `@trapar-waves/react-tailwind`         | React + Tailwind starter                     |
+| `@trapar-waves/react-tanstack`         | React + TanStack Query/Router                |
+| `@trapar-waves/react-three-maplibre`   | 3D map visualization (Three.js + MapLibre)   |
+| `@trapar-waves/react-visgl-maplibre`   | Geospatial 3D rendering (Deck.gl + MapLibre) |
+| `@trapar-waves/vue-tailwind`           | Vue 3 + Tailwind starter                     |
 
 ![Contributing](assets/readme/headers/contributing.svg)
 
