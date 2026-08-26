@@ -19,8 +19,8 @@ importers:
         version: 1.6.4
     devDependencies:
       '@renton/eslint-config':
-        specifier: ^0.1.2
-        version: 0.1.2(@typescript-eslint/eslint-plugin@8.67.0(@typescript-eslint/parser@8.67.0(eslint@10.9.1(jiti@2.7.0))(typescript@6.0.3))(eslint@10.9.1(jiti@2.7.0))(typescript@6.0.3))(@typescript-eslint/typescript-estree@8.67.0(typescript@6.0.3))(@typescript-eslint/utils@8.67.0(eslint@10.9.1(jiti@2.7.0))(typescript@6.0.3))(eslint@10.9.1(jiti@2.7.0))(typescript@6.0.3)
+        specifier: ^0.2.0
+        version: 0.2.0(@typescript-eslint/eslint-plugin@8.67.0(@typescript-eslint/parser@8.67.0(eslint@10.9.1(jiti@2.7.0))(typescript@6.0.3))(eslint@10.9.1(jiti@2.7.0))(typescript@6.0.3))(@typescript-eslint/typescript-estree@8.67.0(typescript@6.0.3))(@typescript-eslint/utils@8.67.0(eslint@10.9.1(jiti@2.7.0))(typescript@6.0.3))(eslint@10.9.1(jiti@2.7.0))(typescript@6.0.3)(vitest@4.1.10(@opentelemetry/api@1.9.1)(@types/node@26.2.0)(vite@8.2.1(@types/node@26.2.0)(esbuild@0.28.2)(jiti@2.7.0)(tsx@4.23.12)(yaml@2.9.0)))
       '@rslib/core':
         specifier: ^0.23.2
         version: 0.23.2(typescript@6.0.3)
@@ -214,6 +214,9 @@ packages:
       antd: '>=5.22.6'
       react: '>=19.0.0'
       react-dom: '>=19.0.0'
+
+  '@antfu/install-pkg@0.5.0':
+    resolution: {integrity: sha512-dKnk2xlAyC7rvTkpkHmu+Qy/2Zc3Vm/l8PtNyIOGDBtXPY3kThfU4ORNEp3V7SXw5XSOb+tOJaUYpfquPzL/Tg==}
 
   '@antv/async-hook@2.2.9':
     resolution: {integrity: sha512-4BUp2ZUaTi2fYL67Ltkf6eV912rYJeSBokGhd5fhhnpUkMA1LEI1mg97Pqmx3yC50VEQ+LKXZxj9ePZs80ECfw==}
@@ -423,6 +426,12 @@ packages:
     resolution: {integrity: sha512-obzSy26cb7Pm7OprWyVpgMpIlrZpZ0B7vbrU0RMbvRg0YAI890S5Xy02Aj1Nhl4+KTbi1lVYHt6HQP8Hm9s+1w==}
     peerDependencies:
       react: '>=16.12.0'
+
+  '@clack/core@0.5.0':
+    resolution: {integrity: sha512-p3y0FIOwaYRUPRcMO7+dlmLh8PSRcrjuTndsiA0WAFbWES0mLZlrjVoBRZ9DzkPFJZG6KGkJmoEAY0ZcVWTkow==}
+
+  '@clack/prompts@0.11.0':
+    resolution: {integrity: sha512-pMN5FcrEw9hUkZA4f+zLlzivQSeQf5dRGJjSUbvVYDLvpKCdQx5OaknvKzgbtXOizhP+SJJJjqEbOe55uKKfAw==}
 
   '@ctrl/tinycolor@3.6.1':
     resolution: {integrity: sha512-SITSV6aIXsuVNV3f3O0f2n/cgyEDWoSqtZMYiAmcsYHydcKrOz3gUxB/iXd/Qf08+IZX4KpgNbvUdMBmWz+kcA==}
@@ -1826,8 +1835,8 @@ packages:
       react-native:
         optional: true
 
-  '@renton/eslint-config@0.1.2':
-    resolution: {integrity: sha512-nth5N7yJnOeewxuhcD6ICDYbPRvUj6lCj48l5h0SA5edsnwCYVw3jI27T88pBYn8TggZfjisJBstoOpNrvGKtA==}
+  '@renton/eslint-config@0.2.0':
+    resolution: {integrity: sha512-FLRowJqXKztnrSpC8Pr2MukQXsBA5gm4xV7/Mt800DYbr/mBhGZoaLDni5M/jkuFIzNxod47zXknL44dYP8FYg==}
     engines: {node: '>=24.0.0'}
     peerDependencies:
       eslint: ^9.0.0 || ^10.0.0
@@ -2574,6 +2583,22 @@ packages:
       react-dom: '>=16.3.0'
     peerDependenciesMeta:
       maplibre-gl:
+        optional: true
+
+  '@vitest/eslint-plugin@1.6.27':
+    resolution: {integrity: sha512-X1RCAfwbatG4GFbJ/1PIHP9MSZMt0JJThqbYID+vS4L783k6QGlLPe421wQE8dHXuGCcenVLsydiM4qzsYWxhg==}
+    engines: {node: '>=18'}
+    peerDependencies:
+      '@typescript-eslint/eslint-plugin': '*'
+      eslint: '>=8.57.0'
+      typescript: '>=5.0.0'
+      vitest: '*'
+    peerDependenciesMeta:
+      '@typescript-eslint/eslint-plugin':
+        optional: true
+      typescript:
+        optional: true
+      vitest:
         optional: true
 
   '@vitest/expect@4.1.10':
@@ -3394,6 +3419,11 @@ packages:
     peerDependencies:
       eslint: '>=8'
 
+  eslint-plugin-format@1.5.0:
+    resolution: {integrity: sha512-jaeOKrxs79Nn6rMkLycPkLHvBVKcgsFG+RqNXb6W9iS9y2Q0NYGhFTLcDUdp5mf01X99wEkjtX2O8cumM7lNMQ==}
+    peerDependencies:
+      eslint: ^8.40.0 || ^9.0.0 || ^10.0.0
+
   eslint-plugin-format@2.0.1:
     resolution: {integrity: sha512-0BA65p5DAiuKtx5MmMJfPk9WaTjoHHbyVW7ZXRhaZoA1fdiMHhay9QRiDL2wr0hJWZxdF7CRThOK/70VUKVg2g==}
     peerDependencies:
@@ -3429,6 +3459,10 @@ packages:
         optional: true
       typescript:
         optional: true
+
+  eslint-plugin-no-only-tests@3.4.0:
+    resolution: {integrity: sha512-4S3/9Nb7A2tiMcpzEQE9bQSlpeOz6WJkgryBuou/SA8W2x2c8Zf4j0NvTKBjv6qNhF9T79tmkecm/0CHqV0UGg==}
+    engines: {node: '>=5.0.0'}
 
   eslint-plugin-perfectionist@5.10.1:
     resolution: {integrity: sha512-Kprsp9Us0GqAesYaAIzUViw57xYp5WBqzXrcE0Mtww++E5fexWXYBipMuuD7yvyH4vvpBH0+oJ+OMAmZ0oYXkw==}
@@ -3964,10 +3998,6 @@ packages:
 
   jsdoc-type-pratt-parser@9.0.1:
     resolution: {integrity: sha512-1LJ/negRKJxH0+ulOsJYEpUgzIs1DAOz9QctuS4In2LW/Ro3l8C4ej5al+5FU2hBGEOAY3R3SCnP6x8226JMIw==}
-    engines: {node: ^22.22.2 || >=24.15.0}
-
-  jsdoc-type-pratt-parser@9.1.1:
-    resolution: {integrity: sha512-kojSbQb9iQM2bk2PmHiKa3reG0U4v2gN9U8D8+eCQq+4KM5ZXBUyBVeF8KmR0RiwqyrW4+uVWYWTOLnpsavnkw==}
     engines: {node: ^22.22.2 || >=24.15.0}
 
   jsdoc-type-pratt-parser@9.1.2:
@@ -4546,6 +4576,9 @@ packages:
   p-timeout@6.1.4:
     resolution: {integrity: sha512-MyIV3ZA/PmyBN/ud8vV9XzwTrNtR4jFrObymZYnZqMmW0zA8Z17vnT0rBgFE/TlohB+YCHqXMgZzb3Csp49vqg==}
     engines: {node: '>=14.16'}
+
+  package-manager-detector@0.2.11:
+    resolution: {integrity: sha512-BEnLolu+yuz22S56CU1SUKq3XC3PkwD5wv4ikR4MfGvnRVcmzXR9DwSlW2fEamyTPyXHomBJRzgapeuBvRNzJQ==}
 
   package-manager-detector@1.8.0:
     resolution: {integrity: sha512-yQA4H19AmPEoMUeavPMDIe1higySl/gH/yaQrkT/s07Qp+7pp2hYz30N3z2l5BkjVkF9Ow6o0wjJamm2y7Sn0A==}
@@ -5400,6 +5433,9 @@ packages:
   tinycolor2@1.6.0:
     resolution: {integrity: sha512-XPaBkWQJdsf3pLKJV9p4qN/S+fm2Oj8AIPo1BTUhg5oxkvm9+SVEGFdhyOz7tTdUTfvxMiAs4sp6/eZO2Ew+pw==}
 
+  tinyexec@0.3.2:
+    resolution: {integrity: sha512-KQQR9yN7R5+OSwaK0XQoj22pwHoTlgYqmUscPYoknOoWCWfj/5/ABTMRi69FrKU5ffPVh5QcFikpWJI/P1ocHA==}
+
   tinyexec@1.3.0:
     resolution: {integrity: sha512-QKAl9m8gWWGHV8jZcPeym6j+XULi6tOf1mT83WYJ4Lk2ytW/uwAWkrP0uFsdoYMdueVJ0qs26wZ+23xeB4ibNQ==}
     engines: {node: '>=18'}
@@ -6157,6 +6193,11 @@ snapshots:
       react: 19.2.8
       react-dom: 19.2.8(react@19.2.8)
 
+  '@antfu/install-pkg@0.5.0':
+    dependencies:
+      package-manager-detector: 0.2.11
+      tinyexec: 0.3.2
+
   '@antv/async-hook@2.2.9':
     dependencies:
       async: 3.2.6
@@ -6499,6 +6540,17 @@ snapshots:
       react: 19.2.8
       reactcss: 1.2.3(react@19.2.8)
       tinycolor2: 1.6.0
+
+  '@clack/core@0.5.0':
+    dependencies:
+      picocolors: 1.1.1
+      sisteransi: 1.0.5
+
+  '@clack/prompts@0.11.0':
+    dependencies:
+      '@clack/core': 0.5.0
+      picocolors: 1.1.1
+      sisteransi: 1.0.5
 
   '@ctrl/tinycolor@3.6.1': {}
 
@@ -7857,21 +7909,26 @@ snapshots:
       - '@types/react'
       - immer
 
-  '@renton/eslint-config@0.1.2(@typescript-eslint/eslint-plugin@8.67.0(@typescript-eslint/parser@8.67.0(eslint@10.9.1(jiti@2.7.0))(typescript@6.0.3))(eslint@10.9.1(jiti@2.7.0))(typescript@6.0.3))(@typescript-eslint/typescript-estree@8.67.0(typescript@6.0.3))(@typescript-eslint/utils@8.67.0(eslint@10.9.1(jiti@2.7.0))(typescript@6.0.3))(eslint@10.9.1(jiti@2.7.0))(typescript@6.0.3)':
+  '@renton/eslint-config@0.2.0(@typescript-eslint/eslint-plugin@8.67.0(@typescript-eslint/parser@8.67.0(eslint@10.9.1(jiti@2.7.0))(typescript@6.0.3))(eslint@10.9.1(jiti@2.7.0))(typescript@6.0.3))(@typescript-eslint/typescript-estree@8.67.0(typescript@6.0.3))(@typescript-eslint/utils@8.67.0(eslint@10.9.1(jiti@2.7.0))(typescript@6.0.3))(eslint@10.9.1(jiti@2.7.0))(typescript@6.0.3)(vitest@4.1.10(@opentelemetry/api@1.9.1)(@types/node@26.2.0)(vite@8.2.1(@types/node@26.2.0)(esbuild@0.28.2)(jiti@2.7.0)(tsx@4.23.12)(yaml@2.9.0)))':
     dependencies:
+      '@antfu/install-pkg': 0.5.0
+      '@clack/prompts': 0.11.0
       '@eslint-community/eslint-plugin-eslint-comments': 4.7.2(eslint@10.9.1(jiti@2.7.0))
       '@eslint/js': 10.0.1(eslint@10.9.1(jiti@2.7.0))
       '@eslint/markdown': 8.0.3
       '@stylistic/eslint-plugin': 5.10.0(eslint@10.9.1(jiti@2.7.0))
+      '@vitest/eslint-plugin': 1.6.27(@typescript-eslint/eslint-plugin@8.67.0(@typescript-eslint/parser@8.67.0(eslint@10.9.1(jiti@2.7.0))(typescript@6.0.3))(eslint@10.9.1(jiti@2.7.0))(typescript@6.0.3))(eslint@10.9.1(jiti@2.7.0))(typescript@6.0.3)(vitest@4.1.10(@opentelemetry/api@1.9.1)(@types/node@26.2.0)(vite@8.2.1(@types/node@26.2.0)(esbuild@0.28.2)(jiti@2.7.0)(tsx@4.23.12)(yaml@2.9.0)))
       eslint: 10.9.1(jiti@2.7.0)
       eslint-config-flat-gitignore: 2.3.0(eslint@10.9.1(jiti@2.7.0))
       eslint-flat-config-utils: 3.2.0
       eslint-plugin-antfu: 3.2.3(eslint@10.9.1(jiti@2.7.0))
       eslint-plugin-command: 4.0.0(@typescript-eslint/typescript-estree@8.67.0(typescript@6.0.3))(@typescript-eslint/utils@8.67.0(eslint@10.9.1(jiti@2.7.0))(typescript@6.0.3))(eslint@10.9.1(jiti@2.7.0))
+      eslint-plugin-format: 1.5.0(eslint@10.9.1(jiti@2.7.0))
       eslint-plugin-import-lite: 0.6.0(eslint@10.9.1(jiti@2.7.0))
       eslint-plugin-jsdoc: 64.2.1(eslint@10.9.1(jiti@2.7.0))
       eslint-plugin-jsonc: 3.4.1(eslint@10.9.1(jiti@2.7.0))
       eslint-plugin-n: 18.3.0(eslint@10.9.1(jiti@2.7.0))(typescript@6.0.3)
+      eslint-plugin-no-only-tests: 3.4.0
       eslint-plugin-perfectionist: 5.10.1(eslint@10.9.1(jiti@2.7.0))(typescript@6.0.3)
       eslint-plugin-pnpm: 1.8.0(eslint@10.9.1(jiti@2.7.0))
       eslint-plugin-regexp: 3.2.0(eslint@10.9.1(jiti@2.7.0))
@@ -7892,6 +7949,7 @@ snapshots:
       - supports-color
       - ts-declaration-location
       - typescript
+      - vitest
 
   '@rolldown/binding-android-arm64@1.2.4':
     optional: true
@@ -8835,6 +8893,18 @@ snapshots:
     optionalDependencies:
       maplibre-gl: 5.24.0
 
+  '@vitest/eslint-plugin@1.6.27(@typescript-eslint/eslint-plugin@8.67.0(@typescript-eslint/parser@8.67.0(eslint@10.9.1(jiti@2.7.0))(typescript@6.0.3))(eslint@10.9.1(jiti@2.7.0))(typescript@6.0.3))(eslint@10.9.1(jiti@2.7.0))(typescript@6.0.3)(vitest@4.1.10(@opentelemetry/api@1.9.1)(@types/node@26.2.0)(vite@8.2.1(@types/node@26.2.0)(esbuild@0.28.2)(jiti@2.7.0)(tsx@4.23.12)(yaml@2.9.0)))':
+    dependencies:
+      '@typescript-eslint/scope-manager': 8.67.0
+      '@typescript-eslint/utils': 8.67.0(eslint@10.9.1(jiti@2.7.0))(typescript@6.0.3)
+      eslint: 10.9.1(jiti@2.7.0)
+    optionalDependencies:
+      '@typescript-eslint/eslint-plugin': 8.67.0(@typescript-eslint/parser@8.67.0(eslint@10.9.1(jiti@2.7.0))(typescript@6.0.3))(eslint@10.9.1(jiti@2.7.0))(typescript@6.0.3)
+      typescript: 6.0.3
+      vitest: 4.1.10(@opentelemetry/api@1.9.1)(@types/node@26.2.0)(vite@8.2.1(@types/node@26.2.0)(esbuild@0.28.2)(jiti@2.7.0)(tsx@4.23.12)(yaml@2.9.0))
+    transitivePeerDependencies:
+      - supports-color
+
   '@vitest/expect@4.1.10':
     dependencies:
       '@standard-schema/spec': 1.1.0
@@ -9765,6 +9835,19 @@ snapshots:
       eslint: 10.9.1(jiti@2.7.0)
       eslint-compat-utils: 0.5.1(eslint@10.9.1(jiti@2.7.0))
 
+  eslint-plugin-format@1.5.0(eslint@10.9.1(jiti@2.7.0)):
+    dependencies:
+      '@dprint/formatter': 0.5.1
+      '@dprint/markdown': 0.21.1
+      '@dprint/toml': 0.7.0
+      eslint: 10.9.1(jiti@2.7.0)
+      eslint-formatting-reporter: 0.0.0(eslint@10.9.1(jiti@2.7.0))
+      eslint-parser-plain: 0.1.1
+      ohash: 2.0.12
+      oxfmt: 0.35.0
+      prettier: 3.9.6
+      synckit: 0.11.13
+
   eslint-plugin-format@2.0.1(eslint@10.9.1(jiti@2.7.0)):
     dependencies:
       '@dprint/formatter': 0.5.1
@@ -9831,6 +9914,8 @@ snapshots:
     optionalDependencies:
       typescript: 6.0.3
 
+  eslint-plugin-no-only-tests@3.4.0: {}
+
   eslint-plugin-perfectionist@5.10.1(eslint@10.9.1(jiti@2.7.0))(typescript@6.0.3):
     dependencies:
       '@typescript-eslint/utils': 8.67.0(eslint@10.9.1(jiti@2.7.0))(typescript@6.0.3)
@@ -9871,7 +9956,7 @@ snapshots:
       '@eslint-community/regexpp': 4.12.2
       comment-parser: 1.4.8
       eslint: 10.9.1(jiti@2.7.0)
-      jsdoc-type-pratt-parser: 9.1.1
+      jsdoc-type-pratt-parser: 9.1.2
       refa: 0.12.1
       regexp-ast-analysis: 0.7.1
       scslre: 0.3.0
@@ -10359,10 +10444,6 @@ snapshots:
   js-tokens@4.0.0: {}
 
   jsdoc-type-pratt-parser@9.0.1:
-    dependencies:
-      '@types/estree': 1.0.9
-
-  jsdoc-type-pratt-parser@9.1.1:
     dependencies:
       '@types/estree': 1.0.9
 
@@ -11221,6 +11302,10 @@ snapshots:
       p-limit: 3.1.0
 
   p-timeout@6.1.4: {}
+
+  package-manager-detector@0.2.11:
+    dependencies:
+      quansync: 0.2.11
 
   package-manager-detector@1.8.0: {}
 
@@ -12164,6 +12249,8 @@ snapshots:
   tinybench@2.9.0: {}
 
   tinycolor2@1.6.0: {}
+
+  tinyexec@0.3.2: {}
 
   tinyexec@1.3.0: {}
 
