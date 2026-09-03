@@ -50,7 +50,7 @@
   },
   "devDependencies": {
     "@renton/eslint-config": "^1.0.0",
-    "@rslib/core": "^0.23.2",
+    "@rslib/core": "^1.0.0",
     "@trapar-waves/cli-template": "^2.0.0",
     "@trapar-waves/llm-template": "^2.0.0",
     "@trapar-waves/react-antd-pro": "^2.0.0",
