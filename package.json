@@ -61,7 +61,7 @@
     "@trapar-waves/react-visgl-maplibre": "^2.0.0",
     "@trapar-waves/vue-tailwind": "^2.0.0",
     "@types/node": "^26.4.0",
-    "eslint": "^10.9.1",
+    "eslint": "^10.10.0",
     "eslint-plugin-format": "^2.0.1",
     "tsx": "^4.23.13",
     "typescript": "^6.0.3"
