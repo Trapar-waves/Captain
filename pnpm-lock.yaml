@@ -219,7 +219,7 @@ importers:
         specifier: ^2.0.1
         version: 2.0.1(eslint@10.11.0(jiti@2.7.0))
       tsx:
-        specifier: ^4.23.13
+        specifier: ^4.23.14
         version: 4.23.15
       typescript:
         specifier: ^6.0.3
