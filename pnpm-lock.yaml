@@ -213,7 +213,7 @@ importers:
         specifier: ^26.6.1
         version: 26.6.2
       eslint:
-        specifier: ^10.10.0
+        specifier: ^10.11.0
         version: 10.11.0(jiti@2.7.0)
       eslint-plugin-format:
         specifier: ^2.0.1
